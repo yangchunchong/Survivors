@@ -1,301 +1,301 @@
----,TalentName,TalentType,TalentValue,TalentDescrib,TalentUnlockGold,TalentLevel
-1,Health,HEALTH,5,The stronger you become,2000,1
-2,Attack,ATTACK,2,Strike your enemy hard,2000,1
-3,Defend,DEFEND,1,Ignore Pain,2000,1
-4,Health,HEALTH,10,The stronger you become,3000,2
-5,Attack,ATTACK,4,Strike your enemy hard,3000,2
-6,Defend,DEFEND,2,Ignore Pain,3000,2
-7,Health,HEALTH,15,The stronger you become,4000,3
-8,Attack,ATTACK,6,Strike your enemy hard,4000,3
-9,Defend,DEFEND,3,Ignore Pain,4000,3
-10,Health,HEALTH,20,The stronger you become,5000,4
-11,Attack,ATTACK,8,Strike your enemy hard,5000,4
-12,Defend,DEFEND,4,Ignore Pain,5000,4
-13,Health,HEALTH,25,The stronger you become,6000,5
-14,Attack,ATTACK,10,Strike your enemy hard,6000,5
-15,Defend,DEFEND,5,Ignore Pain,6000,5
-16,Health,HEALTH,30,The stronger you become,7000,6
-17,Attack,ATTACK,12,Strike your enemy hard,7000,6
-18,Defend,DEFEND,6,Ignore Pain,7000,6
-19,Health,HEALTH,35,The stronger you become,8000,7
-20,Attack,ATTACK,14,Strike your enemy hard,8000,7
-21,Defend,DEFEND,7,Ignore Pain,8000,7
-22,Health,HEALTH,40,The stronger you become,9000,8
-23,Attack,ATTACK,16,Strike your enemy hard,9000,8
-24,Defend,DEFEND,8,Ignore Pain,9000,8
-25,Health,HEALTH,45,The stronger you become,10000,9
-26,Attack,ATTACK,18,Strike your enemy hard,10000,9
-27,Defend,DEFEND,9,Ignore Pain,10000,9
-28,Health,HEALTH,50,The stronger you become,11000,10
-29,Attack,ATTACK,20,Strike your enemy hard,11000,10
-30,Defend,DEFEND,10,Ignore Pain,11000,10
-31,Health,HEALTH,55,The stronger you become,12000,11
-32,Attack,ATTACK,22,Strike your enemy hard,12000,11
-33,Defend,DEFEND,11,Ignore Pain,12000,11
-34,Health,HEALTH,60,The stronger you become,13000,12
-35,Attack,ATTACK,24,Strike your enemy hard,13000,12
-36,Defend,DEFEND,12,Ignore Pain,13000,12
-37,Health,HEALTH,65,The stronger you become,14000,13
-38,Attack,ATTACK,26,Strike your enemy hard,14000,13
-39,Defend,DEFEND,13,Ignore Pain,14000,13
-40,Health,HEALTH,70,The stronger you become,15000,14
-41,Attack,ATTACK,28,Strike your enemy hard,15000,14
-42,Defend,DEFEND,14,Ignore Pain,15000,14
-43,Health,HEALTH,75,The stronger you become,16000,15
-44,Attack,ATTACK,30,Strike your enemy hard,16000,15
-45,Defend,DEFEND,15,Ignore Pain,16000,15
-46,Health,HEALTH,80,The stronger you become,17000,16
-47,Attack,ATTACK,32,Strike your enemy hard,17000,16
-48,Defend,DEFEND,16,Ignore Pain,17000,16
-49,Health,HEALTH,85,The stronger you become,18000,17
-50,Attack,ATTACK,34,Strike your enemy hard,18000,17
-51,Defend,DEFEND,17,Ignore Pain,18000,17
-52,Health,HEALTH,90,The stronger you become,19000,18
-53,Attack,ATTACK,36,Strike your enemy hard,19000,18
-54,Defend,DEFEND,18,Ignore Pain,19000,18
-55,Health,HEALTH,95,The stronger you become,20000,19
-56,Attack,ATTACK,38,Strike your enemy hard,20000,19
-57,Defend,DEFEND,19,Ignore Pain,20000,19
-58,Health,HEALTH,100,The stronger you become,21000,20
-59,Attack,ATTACK,40,Strike your enemy hard,21000,20
-60,Defend,DEFEND,20,Ignore Pain,21000,20
-61,Health,HEALTH,105,The stronger you become,22000,21
-62,Attack,ATTACK,42,Strike your enemy hard,22000,21
-63,Defend,DEFEND,21,Ignore Pain,22000,21
-64,Health,HEALTH,110,The stronger you become,23000,22
-65,Attack,ATTACK,44,Strike your enemy hard,23000,22
-66,Defend,DEFEND,22,Ignore Pain,23000,22
-67,Health,HEALTH,115,The stronger you become,24000,23
-68,Attack,ATTACK,46,Strike your enemy hard,24000,23
-69,Defend,DEFEND,23,Ignore Pain,24000,23
-70,Health,HEALTH,120,The stronger you become,25000,24
-71,Attack,ATTACK,48,Strike your enemy hard,25000,24
-72,Defend,DEFEND,24,Ignore Pain,25000,24
-73,Health,HEALTH,125,The stronger you become,26000,25
-74,Attack,ATTACK,50,Strike your enemy hard,26000,25
-75,Defend,DEFEND,25,Ignore Pain,26000,25
-76,Health,HEALTH,130,The stronger you become,27000,26
-77,Attack,ATTACK,52,Strike your enemy hard,27000,26
-78,Defend,DEFEND,26,Ignore Pain,27000,26
-79,Health,HEALTH,135,The stronger you become,28000,27
-80,Attack,ATTACK,54,Strike your enemy hard,28000,27
-81,Defend,DEFEND,27,Ignore Pain,28000,27
-82,Health,HEALTH,140,The stronger you become,29000,28
-83,Attack,ATTACK,56,Strike your enemy hard,29000,28
-84,Defend,DEFEND,28,Ignore Pain,29000,28
-85,Health,HEALTH,145,The stronger you become,30000,29
-86,Attack,ATTACK,58,Strike your enemy hard,30000,29
-87,Defend,DEFEND,29,Ignore Pain,30000,29
-88,Health,HEALTH,150,The stronger you become,31000,30
-89,Attack,ATTACK,60,Strike your enemy hard,31000,30
-90,Defend,DEFEND,30,Ignore Pain,31000,30
-91,Health,HEALTH,155,The stronger you become,32000,31
-92,Attack,ATTACK,62,Strike your enemy hard,32000,31
-93,Defend,DEFEND,31,Ignore Pain,32000,31
-94,Health,HEALTH,160,The stronger you become,33000,32
-95,Attack,ATTACK,64,Strike your enemy hard,33000,32
-96,Defend,DEFEND,32,Ignore Pain,33000,32
-97,Health,HEALTH,165,The stronger you become,34000,33
-98,Attack,ATTACK,66,Strike your enemy hard,34000,33
-99,Defend,DEFEND,33,Ignore Pain,34000,33
-100,Health,HEALTH,170,The stronger you become,35000,34
-101,Attack,ATTACK,68,Strike your enemy hard,35000,34
-102,Defend,DEFEND,34,Ignore Pain,35000,34
-103,Health,HEALTH,175,The stronger you become,36000,35
-104,Attack,ATTACK,70,Strike your enemy hard,36000,35
-105,Defend,DEFEND,35,Ignore Pain,36000,35
-106,Health,HEALTH,180,The stronger you become,37000,36
-107,Attack,ATTACK,72,Strike your enemy hard,37000,36
-108,Defend,DEFEND,36,Ignore Pain,37000,36
-109,Health,HEALTH,185,The stronger you become,38000,37
-110,Attack,ATTACK,74,Strike your enemy hard,38000,37
-111,Defend,DEFEND,37,Ignore Pain,38000,37
-112,Health,HEALTH,190,The stronger you become,39000,38
-113,Attack,ATTACK,76,Strike your enemy hard,39000,38
-114,Defend,DEFEND,38,Ignore Pain,39000,38
-115,Health,HEALTH,195,The stronger you become,40000,39
-116,Attack,ATTACK,78,Strike your enemy hard,40000,39
-117,Defend,DEFEND,39,Ignore Pain,40000,39
-118,Health,HEALTH,200,The stronger you become,41000,40
-119,Attack,ATTACK,80,Strike your enemy hard,41000,40
-120,Defend,DEFEND,40,Ignore Pain,41000,40
-121,Health,HEALTH,205,The stronger you become,42000,41
-122,Attack,ATTACK,82,Strike your enemy hard,42000,41
-123,Defend,DEFEND,41,Ignore Pain,42000,41
-124,Health,HEALTH,210,The stronger you become,43000,42
-125,Attack,ATTACK,84,Strike your enemy hard,43000,42
-126,Defend,DEFEND,42,Ignore Pain,43000,42
-127,Health,HEALTH,215,The stronger you become,44000,43
-128,Attack,ATTACK,86,Strike your enemy hard,44000,43
-129,Defend,DEFEND,43,Ignore Pain,44000,43
-130,Health,HEALTH,220,The stronger you become,45000,44
-131,Attack,ATTACK,88,Strike your enemy hard,45000,44
-132,Defend,DEFEND,44,Ignore Pain,45000,44
-133,Health,HEALTH,225,The stronger you become,46000,45
-134,Attack,ATTACK,90,Strike your enemy hard,46000,45
-135,Defend,DEFEND,45,Ignore Pain,46000,45
-136,Health,HEALTH,230,The stronger you become,47000,46
-137,Attack,ATTACK,92,Strike your enemy hard,47000,46
-138,Defend,DEFEND,46,Ignore Pain,47000,46
-139,Health,HEALTH,235,The stronger you become,48000,47
-140,Attack,ATTACK,94,Strike your enemy hard,48000,47
-141,Defend,DEFEND,47,Ignore Pain,48000,47
-142,Health,HEALTH,240,The stronger you become,49000,48
-143,Attack,ATTACK,96,Strike your enemy hard,49000,48
-144,Defend,DEFEND,48,Ignore Pain,49000,48
-145,Health,HEALTH,245,The stronger you become,50000,49
-146,Attack,ATTACK,98,Strike your enemy hard,50000,49
-147,Defend,DEFEND,49,Ignore Pain,50000,49
-148,Health,HEALTH,250,The stronger you become,51000,50
-149,Attack,ATTACK,100,Strike your enemy hard,51000,50
-150,Defend,DEFEND,50,Ignore Pain,51000,50
-151,Health,HEALTH,255,The stronger you become,52000,51
-152,Attack,ATTACK,102,Strike your enemy hard,52000,51
-153,Defend,DEFEND,51,Ignore Pain,52000,51
-154,Health,HEALTH,260,The stronger you become,53000,52
-155,Attack,ATTACK,104,Strike your enemy hard,53000,52
-156,Defend,DEFEND,52,Ignore Pain,53000,52
-157,Health,HEALTH,265,The stronger you become,54000,53
-158,Attack,ATTACK,106,Strike your enemy hard,54000,53
-159,Defend,DEFEND,53,Ignore Pain,54000,53
-160,Health,HEALTH,270,The stronger you become,55000,54
-161,Attack,ATTACK,108,Strike your enemy hard,55000,54
-162,Defend,DEFEND,54,Ignore Pain,55000,54
-163,Health,HEALTH,275,The stronger you become,56000,55
-164,Attack,ATTACK,110,Strike your enemy hard,56000,55
-165,Defend,DEFEND,55,Ignore Pain,56000,55
-166,Health,HEALTH,280,The stronger you become,57000,56
-167,Attack,ATTACK,112,Strike your enemy hard,57000,56
-168,Defend,DEFEND,56,Ignore Pain,57000,56
-169,Health,HEALTH,285,The stronger you become,58000,57
-170,Attack,ATTACK,114,Strike your enemy hard,58000,57
-171,Defend,DEFEND,57,Ignore Pain,58000,57
-172,Health,HEALTH,290,The stronger you become,59000,58
-173,Attack,ATTACK,116,Strike your enemy hard,59000,58
-174,Defend,DEFEND,58,Ignore Pain,59000,58
-175,Health,HEALTH,295,The stronger you become,60000,59
-176,Attack,ATTACK,118,Strike your enemy hard,60000,59
-177,Defend,DEFEND,59,Ignore Pain,60000,59
-178,Health,HEALTH,300,The stronger you become,61000,60
-179,Attack,ATTACK,120,Strike your enemy hard,61000,60
-180,Defend,DEFEND,60,Ignore Pain,61000,60
-181,Health,HEALTH,305,The stronger you become,62000,61
-182,Attack,ATTACK,122,Strike your enemy hard,62000,61
-183,Defend,DEFEND,61,Ignore Pain,62000,61
-184,Health,HEALTH,310,The stronger you become,63000,62
-185,Attack,ATTACK,124,Strike your enemy hard,63000,62
-186,Defend,DEFEND,62,Ignore Pain,63000,62
-187,Health,HEALTH,315,The stronger you become,64000,63
-188,Attack,ATTACK,126,Strike your enemy hard,64000,63
-189,Defend,DEFEND,63,Ignore Pain,64000,63
-190,Health,HEALTH,320,The stronger you become,65000,64
-191,Attack,ATTACK,128,Strike your enemy hard,65000,64
-192,Defend,DEFEND,64,Ignore Pain,65000,64
-193,Health,HEALTH,325,The stronger you become,66000,65
-194,Attack,ATTACK,130,Strike your enemy hard,66000,65
-195,Defend,DEFEND,65,Ignore Pain,66000,65
-196,Health,HEALTH,330,The stronger you become,67000,66
-197,Attack,ATTACK,132,Strike your enemy hard,67000,66
-198,Defend,DEFEND,66,Ignore Pain,67000,66
-199,Health,HEALTH,335,The stronger you become,68000,67
-200,Attack,ATTACK,134,Strike your enemy hard,68000,67
-201,Defend,DEFEND,67,Ignore Pain,68000,67
-202,Health,HEALTH,340,The stronger you become,69000,68
-203,Attack,ATTACK,136,Strike your enemy hard,69000,68
-204,Defend,DEFEND,68,Ignore Pain,69000,68
-205,Health,HEALTH,345,The stronger you become,70000,69
-206,Attack,ATTACK,138,Strike your enemy hard,70000,69
-207,Defend,DEFEND,69,Ignore Pain,70000,69
-208,Health,HEALTH,350,The stronger you become,71000,70
-209,Attack,ATTACK,140,Strike your enemy hard,71000,70
-210,Defend,DEFEND,70,Ignore Pain,71000,70
-211,Health,HEALTH,355,The stronger you become,72000,71
-212,Attack,ATTACK,142,Strike your enemy hard,72000,71
-213,Defend,DEFEND,71,Ignore Pain,72000,71
-214,Health,HEALTH,360,The stronger you become,73000,72
-215,Attack,ATTACK,144,Strike your enemy hard,73000,72
-216,Defend,DEFEND,72,Ignore Pain,73000,72
-217,Health,HEALTH,365,The stronger you become,74000,73
-218,Attack,ATTACK,146,Strike your enemy hard,74000,73
-219,Defend,DEFEND,73,Ignore Pain,74000,73
-220,Health,HEALTH,370,The stronger you become,75000,74
-221,Attack,ATTACK,148,Strike your enemy hard,75000,74
-222,Defend,DEFEND,74,Ignore Pain,75000,74
-223,Health,HEALTH,375,The stronger you become,76000,75
-224,Attack,ATTACK,150,Strike your enemy hard,76000,75
-225,Defend,DEFEND,75,Ignore Pain,76000,75
-226,Health,HEALTH,380,The stronger you become,77000,76
-227,Attack,ATTACK,152,Strike your enemy hard,77000,76
-228,Defend,DEFEND,76,Ignore Pain,77000,76
-229,Health,HEALTH,385,The stronger you become,78000,77
-230,Attack,ATTACK,154,Strike your enemy hard,78000,77
-231,Defend,DEFEND,77,Ignore Pain,78000,77
-232,Health,HEALTH,390,The stronger you become,79000,78
-233,Attack,ATTACK,156,Strike your enemy hard,79000,78
-234,Defend,DEFEND,78,Ignore Pain,79000,78
-235,Health,HEALTH,395,The stronger you become,80000,79
-236,Attack,ATTACK,158,Strike your enemy hard,80000,79
-237,Defend,DEFEND,79,Ignore Pain,80000,79
-238,Health,HEALTH,400,The stronger you become,81000,80
-239,Attack,ATTACK,160,Strike your enemy hard,81000,80
-240,Defend,DEFEND,80,Ignore Pain,81000,80
-241,Health,HEALTH,405,The stronger you become,82000,81
-242,Attack,ATTACK,162,Strike your enemy hard,82000,81
-243,Defend,DEFEND,81,Ignore Pain,82000,81
-244,Health,HEALTH,410,The stronger you become,83000,82
-245,Attack,ATTACK,164,Strike your enemy hard,83000,82
-246,Defend,DEFEND,82,Ignore Pain,83000,82
-247,Health,HEALTH,415,The stronger you become,84000,83
-248,Attack,ATTACK,166,Strike your enemy hard,84000,83
-249,Defend,DEFEND,83,Ignore Pain,84000,83
-250,Health,HEALTH,420,The stronger you become,85000,84
-251,Attack,ATTACK,168,Strike your enemy hard,85000,84
-252,Defend,DEFEND,84,Ignore Pain,85000,84
-253,Health,HEALTH,425,The stronger you become,86000,85
-254,Attack,ATTACK,170,Strike your enemy hard,86000,85
-255,Defend,DEFEND,85,Ignore Pain,86000,85
-256,Health,HEALTH,430,The stronger you become,87000,86
-257,Attack,ATTACK,172,Strike your enemy hard,87000,86
-258,Defend,DEFEND,86,Ignore Pain,87000,86
-259,Health,HEALTH,435,The stronger you become,88000,87
-260,Attack,ATTACK,174,Strike your enemy hard,88000,87
-261,Defend,DEFEND,87,Ignore Pain,88000,87
-262,Health,HEALTH,440,The stronger you become,89000,88
-263,Attack,ATTACK,176,Strike your enemy hard,89000,88
-264,Defend,DEFEND,88,Ignore Pain,89000,88
-265,Health,HEALTH,445,The stronger you become,90000,89
-266,Attack,ATTACK,178,Strike your enemy hard,90000,89
-267,Defend,DEFEND,89,Ignore Pain,90000,89
-268,Health,HEALTH,450,The stronger you become,91000,90
-269,Attack,ATTACK,180,Strike your enemy hard,91000,90
-270,Defend,DEFEND,90,Ignore Pain,91000,90
-271,Health,HEALTH,455,The stronger you become,92000,91
-272,Attack,ATTACK,182,Strike your enemy hard,92000,91
-273,Defend,DEFEND,91,Ignore Pain,92000,91
-274,Health,HEALTH,460,The stronger you become,93000,92
-275,Attack,ATTACK,184,Strike your enemy hard,93000,92
-276,Defend,DEFEND,92,Ignore Pain,93000,92
-277,Health,HEALTH,465,The stronger you become,94000,93
-278,Attack,ATTACK,186,Strike your enemy hard,94000,93
-279,Defend,DEFEND,93,Ignore Pain,94000,93
-280,Health,HEALTH,470,The stronger you become,95000,94
-281,Attack,ATTACK,188,Strike your enemy hard,95000,94
-282,Defend,DEFEND,94,Ignore Pain,95000,94
-283,Health,HEALTH,475,The stronger you become,96000,95
-284,Attack,ATTACK,190,Strike your enemy hard,96000,95
-285,Defend,DEFEND,95,Ignore Pain,96000,95
-286,Health,HEALTH,480,The stronger you become,97000,96
-287,Attack,ATTACK,192,Strike your enemy hard,97000,96
-288,Defend,DEFEND,96,Ignore Pain,97000,96
-289,Health,HEALTH,485,The stronger you become,98000,97
-290,Attack,ATTACK,194,Strike your enemy hard,98000,97
-291,Defend,DEFEND,97,Ignore Pain,98000,97
-292,Health,HEALTH,490,The stronger you become,99000,98
-293,Attack,ATTACK,196,Strike your enemy hard,99000,98
-294,Defend,DEFEND,98,Ignore Pain,99000,98
-295,Health,HEALTH,495,The stronger you become,100000,99
-296,Attack,ATTACK,198,Strike your enemy hard,100000,99
-297,Defend,DEFEND,99,Ignore Pain,100000,99
-298,Health,HEALTH,500,The stronger you become,101000,100
-299,Attack,ATTACK,200,Strike your enemy hard,101000,100
-300,Defend,DEFEND,100,Ignore Pain,101000,100
+---,TalentName,TalentType,TalentValue,TalentDescrib,TalentUnlockGold,TalentLevel,TelentIndex
+1,Health,HEALTH,5,The stronger you become,2000,1,1
+2,Attack,ATTACK,2,Strike your enemy hard,2000,1,2
+3,Defend,DEFEND,1,Ignore Pain,2000,1,3
+4,Health,HEALTH,10,The stronger you become,3000,2,4
+5,Attack,ATTACK,4,Strike your enemy hard,3000,2,5
+6,Defend,DEFEND,2,Ignore Pain,3000,2,6
+7,Health,HEALTH,15,The stronger you become,4000,3,7
+8,Attack,ATTACK,6,Strike your enemy hard,4000,3,8
+9,Defend,DEFEND,3,Ignore Pain,4000,3,9
+10,Health,HEALTH,20,The stronger you become,5000,4,10
+11,Attack,ATTACK,8,Strike your enemy hard,5000,4,11
+12,Defend,DEFEND,4,Ignore Pain,5000,4,12
+13,Health,HEALTH,25,The stronger you become,6000,5,13
+14,Attack,ATTACK,10,Strike your enemy hard,6000,5,14
+15,Defend,DEFEND,5,Ignore Pain,6000,5,15
+16,Health,HEALTH,30,The stronger you become,7000,6,16
+17,Attack,ATTACK,12,Strike your enemy hard,7000,6,17
+18,Defend,DEFEND,6,Ignore Pain,7000,6,18
+19,Health,HEALTH,35,The stronger you become,8000,7,19
+20,Attack,ATTACK,14,Strike your enemy hard,8000,7,20
+21,Defend,DEFEND,7,Ignore Pain,8000,7,21
+22,Health,HEALTH,40,The stronger you become,9000,8,22
+23,Attack,ATTACK,16,Strike your enemy hard,9000,8,23
+24,Defend,DEFEND,8,Ignore Pain,9000,8,24
+25,Health,HEALTH,45,The stronger you become,10000,9,25
+26,Attack,ATTACK,18,Strike your enemy hard,10000,9,26
+27,Defend,DEFEND,9,Ignore Pain,10000,9,27
+28,Health,HEALTH,50,The stronger you become,11000,10,28
+29,Attack,ATTACK,20,Strike your enemy hard,11000,10,29
+30,Defend,DEFEND,10,Ignore Pain,11000,10,30
+31,Health,HEALTH,55,The stronger you become,12000,11,31
+32,Attack,ATTACK,22,Strike your enemy hard,12000,11,32
+33,Defend,DEFEND,11,Ignore Pain,12000,11,33
+34,Health,HEALTH,60,The stronger you become,13000,12,34
+35,Attack,ATTACK,24,Strike your enemy hard,13000,12,35
+36,Defend,DEFEND,12,Ignore Pain,13000,12,36
+37,Health,HEALTH,65,The stronger you become,14000,13,37
+38,Attack,ATTACK,26,Strike your enemy hard,14000,13,38
+39,Defend,DEFEND,13,Ignore Pain,14000,13,39
+40,Health,HEALTH,70,The stronger you become,15000,14,40
+41,Attack,ATTACK,28,Strike your enemy hard,15000,14,41
+42,Defend,DEFEND,14,Ignore Pain,15000,14,42
+43,Health,HEALTH,75,The stronger you become,16000,15,43
+44,Attack,ATTACK,30,Strike your enemy hard,16000,15,44
+45,Defend,DEFEND,15,Ignore Pain,16000,15,45
+46,Health,HEALTH,80,The stronger you become,17000,16,46
+47,Attack,ATTACK,32,Strike your enemy hard,17000,16,47
+48,Defend,DEFEND,16,Ignore Pain,17000,16,48
+49,Health,HEALTH,85,The stronger you become,18000,17,49
+50,Attack,ATTACK,34,Strike your enemy hard,18000,17,50
+51,Defend,DEFEND,17,Ignore Pain,18000,17,51
+52,Health,HEALTH,90,The stronger you become,19000,18,52
+53,Attack,ATTACK,36,Strike your enemy hard,19000,18,53
+54,Defend,DEFEND,18,Ignore Pain,19000,18,54
+55,Health,HEALTH,95,The stronger you become,20000,19,55
+56,Attack,ATTACK,38,Strike your enemy hard,20000,19,56
+57,Defend,DEFEND,19,Ignore Pain,20000,19,57
+58,Health,HEALTH,100,The stronger you become,21000,20,58
+59,Attack,ATTACK,40,Strike your enemy hard,21000,20,59
+60,Defend,DEFEND,20,Ignore Pain,21000,20,60
+61,Health,HEALTH,105,The stronger you become,22000,21,61
+62,Attack,ATTACK,42,Strike your enemy hard,22000,21,62
+63,Defend,DEFEND,21,Ignore Pain,22000,21,63
+64,Health,HEALTH,110,The stronger you become,23000,22,64
+65,Attack,ATTACK,44,Strike your enemy hard,23000,22,65
+66,Defend,DEFEND,22,Ignore Pain,23000,22,66
+67,Health,HEALTH,115,The stronger you become,24000,23,67
+68,Attack,ATTACK,46,Strike your enemy hard,24000,23,68
+69,Defend,DEFEND,23,Ignore Pain,24000,23,69
+70,Health,HEALTH,120,The stronger you become,25000,24,70
+71,Attack,ATTACK,48,Strike your enemy hard,25000,24,71
+72,Defend,DEFEND,24,Ignore Pain,25000,24,72
+73,Health,HEALTH,125,The stronger you become,26000,25,73
+74,Attack,ATTACK,50,Strike your enemy hard,26000,25,74
+75,Defend,DEFEND,25,Ignore Pain,26000,25,75
+76,Health,HEALTH,130,The stronger you become,27000,26,76
+77,Attack,ATTACK,52,Strike your enemy hard,27000,26,77
+78,Defend,DEFEND,26,Ignore Pain,27000,26,78
+79,Health,HEALTH,135,The stronger you become,28000,27,79
+80,Attack,ATTACK,54,Strike your enemy hard,28000,27,80
+81,Defend,DEFEND,27,Ignore Pain,28000,27,81
+82,Health,HEALTH,140,The stronger you become,29000,28,82
+83,Attack,ATTACK,56,Strike your enemy hard,29000,28,83
+84,Defend,DEFEND,28,Ignore Pain,29000,28,84
+85,Health,HEALTH,145,The stronger you become,30000,29,85
+86,Attack,ATTACK,58,Strike your enemy hard,30000,29,86
+87,Defend,DEFEND,29,Ignore Pain,30000,29,87
+88,Health,HEALTH,150,The stronger you become,31000,30,88
+89,Attack,ATTACK,60,Strike your enemy hard,31000,30,89
+90,Defend,DEFEND,30,Ignore Pain,31000,30,90
+91,Health,HEALTH,155,The stronger you become,32000,31,91
+92,Attack,ATTACK,62,Strike your enemy hard,32000,31,92
+93,Defend,DEFEND,31,Ignore Pain,32000,31,93
+94,Health,HEALTH,160,The stronger you become,33000,32,94
+95,Attack,ATTACK,64,Strike your enemy hard,33000,32,95
+96,Defend,DEFEND,32,Ignore Pain,33000,32,96
+97,Health,HEALTH,165,The stronger you become,34000,33,97
+98,Attack,ATTACK,66,Strike your enemy hard,34000,33,98
+99,Defend,DEFEND,33,Ignore Pain,34000,33,99
+100,Health,HEALTH,170,The stronger you become,35000,34,100
+101,Attack,ATTACK,68,Strike your enemy hard,35000,34,101
+102,Defend,DEFEND,34,Ignore Pain,35000,34,102
+103,Health,HEALTH,175,The stronger you become,36000,35,103
+104,Attack,ATTACK,70,Strike your enemy hard,36000,35,104
+105,Defend,DEFEND,35,Ignore Pain,36000,35,105
+106,Health,HEALTH,180,The stronger you become,37000,36,106
+107,Attack,ATTACK,72,Strike your enemy hard,37000,36,107
+108,Defend,DEFEND,36,Ignore Pain,37000,36,108
+109,Health,HEALTH,185,The stronger you become,38000,37,109
+110,Attack,ATTACK,74,Strike your enemy hard,38000,37,110
+111,Defend,DEFEND,37,Ignore Pain,38000,37,111
+112,Health,HEALTH,190,The stronger you become,39000,38,112
+113,Attack,ATTACK,76,Strike your enemy hard,39000,38,113
+114,Defend,DEFEND,38,Ignore Pain,39000,38,114
+115,Health,HEALTH,195,The stronger you become,40000,39,115
+116,Attack,ATTACK,78,Strike your enemy hard,40000,39,116
+117,Defend,DEFEND,39,Ignore Pain,40000,39,117
+118,Health,HEALTH,200,The stronger you become,41000,40,118
+119,Attack,ATTACK,80,Strike your enemy hard,41000,40,119
+120,Defend,DEFEND,40,Ignore Pain,41000,40,120
+121,Health,HEALTH,205,The stronger you become,42000,41,121
+122,Attack,ATTACK,82,Strike your enemy hard,42000,41,122
+123,Defend,DEFEND,41,Ignore Pain,42000,41,123
+124,Health,HEALTH,210,The stronger you become,43000,42,124
+125,Attack,ATTACK,84,Strike your enemy hard,43000,42,125
+126,Defend,DEFEND,42,Ignore Pain,43000,42,126
+127,Health,HEALTH,215,The stronger you become,44000,43,127
+128,Attack,ATTACK,86,Strike your enemy hard,44000,43,128
+129,Defend,DEFEND,43,Ignore Pain,44000,43,129
+130,Health,HEALTH,220,The stronger you become,45000,44,130
+131,Attack,ATTACK,88,Strike your enemy hard,45000,44,131
+132,Defend,DEFEND,44,Ignore Pain,45000,44,132
+133,Health,HEALTH,225,The stronger you become,46000,45,133
+134,Attack,ATTACK,90,Strike your enemy hard,46000,45,134
+135,Defend,DEFEND,45,Ignore Pain,46000,45,135
+136,Health,HEALTH,230,The stronger you become,47000,46,136
+137,Attack,ATTACK,92,Strike your enemy hard,47000,46,137
+138,Defend,DEFEND,46,Ignore Pain,47000,46,138
+139,Health,HEALTH,235,The stronger you become,48000,47,139
+140,Attack,ATTACK,94,Strike your enemy hard,48000,47,140
+141,Defend,DEFEND,47,Ignore Pain,48000,47,141
+142,Health,HEALTH,240,The stronger you become,49000,48,142
+143,Attack,ATTACK,96,Strike your enemy hard,49000,48,143
+144,Defend,DEFEND,48,Ignore Pain,49000,48,144
+145,Health,HEALTH,245,The stronger you become,50000,49,145
+146,Attack,ATTACK,98,Strike your enemy hard,50000,49,146
+147,Defend,DEFEND,49,Ignore Pain,50000,49,147
+148,Health,HEALTH,250,The stronger you become,51000,50,148
+149,Attack,ATTACK,100,Strike your enemy hard,51000,50,149
+150,Defend,DEFEND,50,Ignore Pain,51000,50,150
+151,Health,HEALTH,255,The stronger you become,52000,51,151
+152,Attack,ATTACK,102,Strike your enemy hard,52000,51,152
+153,Defend,DEFEND,51,Ignore Pain,52000,51,153
+154,Health,HEALTH,260,The stronger you become,53000,52,154
+155,Attack,ATTACK,104,Strike your enemy hard,53000,52,155
+156,Defend,DEFEND,52,Ignore Pain,53000,52,156
+157,Health,HEALTH,265,The stronger you become,54000,53,157
+158,Attack,ATTACK,106,Strike your enemy hard,54000,53,158
+159,Defend,DEFEND,53,Ignore Pain,54000,53,159
+160,Health,HEALTH,270,The stronger you become,55000,54,160
+161,Attack,ATTACK,108,Strike your enemy hard,55000,54,161
+162,Defend,DEFEND,54,Ignore Pain,55000,54,162
+163,Health,HEALTH,275,The stronger you become,56000,55,163
+164,Attack,ATTACK,110,Strike your enemy hard,56000,55,164
+165,Defend,DEFEND,55,Ignore Pain,56000,55,165
+166,Health,HEALTH,280,The stronger you become,57000,56,166
+167,Attack,ATTACK,112,Strike your enemy hard,57000,56,167
+168,Defend,DEFEND,56,Ignore Pain,57000,56,168
+169,Health,HEALTH,285,The stronger you become,58000,57,169
+170,Attack,ATTACK,114,Strike your enemy hard,58000,57,170
+171,Defend,DEFEND,57,Ignore Pain,58000,57,171
+172,Health,HEALTH,290,The stronger you become,59000,58,172
+173,Attack,ATTACK,116,Strike your enemy hard,59000,58,173
+174,Defend,DEFEND,58,Ignore Pain,59000,58,174
+175,Health,HEALTH,295,The stronger you become,60000,59,175
+176,Attack,ATTACK,118,Strike your enemy hard,60000,59,176
+177,Defend,DEFEND,59,Ignore Pain,60000,59,177
+178,Health,HEALTH,300,The stronger you become,61000,60,178
+179,Attack,ATTACK,120,Strike your enemy hard,61000,60,179
+180,Defend,DEFEND,60,Ignore Pain,61000,60,180
+181,Health,HEALTH,305,The stronger you become,62000,61,181
+182,Attack,ATTACK,122,Strike your enemy hard,62000,61,182
+183,Defend,DEFEND,61,Ignore Pain,62000,61,183
+184,Health,HEALTH,310,The stronger you become,63000,62,184
+185,Attack,ATTACK,124,Strike your enemy hard,63000,62,185
+186,Defend,DEFEND,62,Ignore Pain,63000,62,186
+187,Health,HEALTH,315,The stronger you become,64000,63,187
+188,Attack,ATTACK,126,Strike your enemy hard,64000,63,188
+189,Defend,DEFEND,63,Ignore Pain,64000,63,189
+190,Health,HEALTH,320,The stronger you become,65000,64,190
+191,Attack,ATTACK,128,Strike your enemy hard,65000,64,191
+192,Defend,DEFEND,64,Ignore Pain,65000,64,192
+193,Health,HEALTH,325,The stronger you become,66000,65,193
+194,Attack,ATTACK,130,Strike your enemy hard,66000,65,194
+195,Defend,DEFEND,65,Ignore Pain,66000,65,195
+196,Health,HEALTH,330,The stronger you become,67000,66,196
+197,Attack,ATTACK,132,Strike your enemy hard,67000,66,197
+198,Defend,DEFEND,66,Ignore Pain,67000,66,198
+199,Health,HEALTH,335,The stronger you become,68000,67,199
+200,Attack,ATTACK,134,Strike your enemy hard,68000,67,200
+201,Defend,DEFEND,67,Ignore Pain,68000,67,201
+202,Health,HEALTH,340,The stronger you become,69000,68,202
+203,Attack,ATTACK,136,Strike your enemy hard,69000,68,203
+204,Defend,DEFEND,68,Ignore Pain,69000,68,204
+205,Health,HEALTH,345,The stronger you become,70000,69,205
+206,Attack,ATTACK,138,Strike your enemy hard,70000,69,206
+207,Defend,DEFEND,69,Ignore Pain,70000,69,207
+208,Health,HEALTH,350,The stronger you become,71000,70,208
+209,Attack,ATTACK,140,Strike your enemy hard,71000,70,209
+210,Defend,DEFEND,70,Ignore Pain,71000,70,210
+211,Health,HEALTH,355,The stronger you become,72000,71,211
+212,Attack,ATTACK,142,Strike your enemy hard,72000,71,212
+213,Defend,DEFEND,71,Ignore Pain,72000,71,213
+214,Health,HEALTH,360,The stronger you become,73000,72,214
+215,Attack,ATTACK,144,Strike your enemy hard,73000,72,215
+216,Defend,DEFEND,72,Ignore Pain,73000,72,216
+217,Health,HEALTH,365,The stronger you become,74000,73,217
+218,Attack,ATTACK,146,Strike your enemy hard,74000,73,218
+219,Defend,DEFEND,73,Ignore Pain,74000,73,219
+220,Health,HEALTH,370,The stronger you become,75000,74,220
+221,Attack,ATTACK,148,Strike your enemy hard,75000,74,221
+222,Defend,DEFEND,74,Ignore Pain,75000,74,222
+223,Health,HEALTH,375,The stronger you become,76000,75,223
+224,Attack,ATTACK,150,Strike your enemy hard,76000,75,224
+225,Defend,DEFEND,75,Ignore Pain,76000,75,225
+226,Health,HEALTH,380,The stronger you become,77000,76,226
+227,Attack,ATTACK,152,Strike your enemy hard,77000,76,227
+228,Defend,DEFEND,76,Ignore Pain,77000,76,228
+229,Health,HEALTH,385,The stronger you become,78000,77,229
+230,Attack,ATTACK,154,Strike your enemy hard,78000,77,230
+231,Defend,DEFEND,77,Ignore Pain,78000,77,231
+232,Health,HEALTH,390,The stronger you become,79000,78,232
+233,Attack,ATTACK,156,Strike your enemy hard,79000,78,233
+234,Defend,DEFEND,78,Ignore Pain,79000,78,234
+235,Health,HEALTH,395,The stronger you become,80000,79,235
+236,Attack,ATTACK,158,Strike your enemy hard,80000,79,236
+237,Defend,DEFEND,79,Ignore Pain,80000,79,237
+238,Health,HEALTH,400,The stronger you become,81000,80,238
+239,Attack,ATTACK,160,Strike your enemy hard,81000,80,239
+240,Defend,DEFEND,80,Ignore Pain,81000,80,240
+241,Health,HEALTH,405,The stronger you become,82000,81,241
+242,Attack,ATTACK,162,Strike your enemy hard,82000,81,242
+243,Defend,DEFEND,81,Ignore Pain,82000,81,243
+244,Health,HEALTH,410,The stronger you become,83000,82,244
+245,Attack,ATTACK,164,Strike your enemy hard,83000,82,245
+246,Defend,DEFEND,82,Ignore Pain,83000,82,246
+247,Health,HEALTH,415,The stronger you become,84000,83,247
+248,Attack,ATTACK,166,Strike your enemy hard,84000,83,248
+249,Defend,DEFEND,83,Ignore Pain,84000,83,249
+250,Health,HEALTH,420,The stronger you become,85000,84,250
+251,Attack,ATTACK,168,Strike your enemy hard,85000,84,251
+252,Defend,DEFEND,84,Ignore Pain,85000,84,252
+253,Health,HEALTH,425,The stronger you become,86000,85,253
+254,Attack,ATTACK,170,Strike your enemy hard,86000,85,254
+255,Defend,DEFEND,85,Ignore Pain,86000,85,255
+256,Health,HEALTH,430,The stronger you become,87000,86,256
+257,Attack,ATTACK,172,Strike your enemy hard,87000,86,257
+258,Defend,DEFEND,86,Ignore Pain,87000,86,258
+259,Health,HEALTH,435,The stronger you become,88000,87,259
+260,Attack,ATTACK,174,Strike your enemy hard,88000,87,260
+261,Defend,DEFEND,87,Ignore Pain,88000,87,261
+262,Health,HEALTH,440,The stronger you become,89000,88,262
+263,Attack,ATTACK,176,Strike your enemy hard,89000,88,263
+264,Defend,DEFEND,88,Ignore Pain,89000,88,264
+265,Health,HEALTH,445,The stronger you become,90000,89,265
+266,Attack,ATTACK,178,Strike your enemy hard,90000,89,266
+267,Defend,DEFEND,89,Ignore Pain,90000,89,267
+268,Health,HEALTH,450,The stronger you become,91000,90,268
+269,Attack,ATTACK,180,Strike your enemy hard,91000,90,269
+270,Defend,DEFEND,90,Ignore Pain,91000,90,270
+271,Health,HEALTH,455,The stronger you become,92000,91,271
+272,Attack,ATTACK,182,Strike your enemy hard,92000,91,272
+273,Defend,DEFEND,91,Ignore Pain,92000,91,273
+274,Health,HEALTH,460,The stronger you become,93000,92,274
+275,Attack,ATTACK,184,Strike your enemy hard,93000,92,275
+276,Defend,DEFEND,92,Ignore Pain,93000,92,276
+277,Health,HEALTH,465,The stronger you become,94000,93,277
+278,Attack,ATTACK,186,Strike your enemy hard,94000,93,278
+279,Defend,DEFEND,93,Ignore Pain,94000,93,279
+280,Health,HEALTH,470,The stronger you become,95000,94,280
+281,Attack,ATTACK,188,Strike your enemy hard,95000,94,281
+282,Defend,DEFEND,94,Ignore Pain,95000,94,282
+283,Health,HEALTH,475,The stronger you become,96000,95,283
+284,Attack,ATTACK,190,Strike your enemy hard,96000,95,284
+285,Defend,DEFEND,95,Ignore Pain,96000,95,285
+286,Health,HEALTH,480,The stronger you become,97000,96,286
+287,Attack,ATTACK,192,Strike your enemy hard,97000,96,287
+288,Defend,DEFEND,96,Ignore Pain,97000,96,288
+289,Health,HEALTH,485,The stronger you become,98000,97,289
+290,Attack,ATTACK,194,Strike your enemy hard,98000,97,290
+291,Defend,DEFEND,97,Ignore Pain,98000,97,291
+292,Health,HEALTH,490,The stronger you become,99000,98,292
+293,Attack,ATTACK,196,Strike your enemy hard,99000,98,293
+294,Defend,DEFEND,98,Ignore Pain,99000,98,294
+295,Health,HEALTH,495,The stronger you become,100000,99,295
+296,Attack,ATTACK,198,Strike your enemy hard,100000,99,296
+297,Defend,DEFEND,99,Ignore Pain,100000,99,297
+298,Health,HEALTH,500,The stronger you become,101000,100,298
+299,Attack,ATTACK,200,Strike your enemy hard,101000,100,299
+300,Defend,DEFEND,100,Ignore Pain,101000,100,300
