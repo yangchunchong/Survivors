@@ -1,0 +1,16 @@
+ - 61FB1A1545DE0B1CEAB8A9BD70D4DAB8 
+	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FrostBolt6.LevelUpText_7_60241EE644B2529303CF12ABA7E21A8E - "Damage increased by 3" 
+	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FrostBolt4.LevelUpText_7_60241EE644B2529303CF12ABA7E21A8E - "Damage increased by 4" 
+
+ - F19325E04CF5A6FAABAAE5BD4FF8790C 
+	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FrostBolt7.LevelUpText_7_60241EE644B2529303CF12ABA7E21A8E - "Fires 2 more projectile" 
+	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FrostBolt5.LevelUpText_7_60241EE644B2529303CF12ABA7E21A8E - "Fires 1 more projectile" 
+
+ - 723AB2954B1728D81C3777AEF33F212F 
+	/Game/Survivors/Blueprints/DataTables/DT_StoreInfo.DT_StoreInfo.2.Describ_25_5B63B91C466F73F0FABE0FBD4B8269C6 - "Get Gemstone" 
+	/Game/Survivors/Blueprints/DataTables/DT_StoreInfo.DT_StoreInfo.1.Describ_25_5B63B91C466F73F0FABE0FBD4B8269C6 - "Little Gemstone" 
+
+ - B6E2F7E741C4A8EB766A56AAA9813757 
+	/Game/Survivors/Blueprints/DataTables/DT_StoreInfo.DT_StoreInfo.5.Describ_25_5B63B91C466F73F0FABE0FBD4B8269C6 - "Pile Gemstone" 
+	/Game/Survivors/Blueprints/DataTables/DT_StoreInfo.DT_StoreInfo.4.Describ_25_5B63B91C466F73F0FABE0FBD4B8269C6 - "Some Gemstone" 
+

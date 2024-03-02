@@ -1,0 +1,3137 @@
+﻿# Game English translation.
+# Fill out your copyright notice in the Description page of Project Settings.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2024-01-19 14:56\n"
+"PO-Revision-Date: 2024-01-19 14:56\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	000887204834DF6B6269A1BCCF624B94
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.TextBlock_125.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.TextBlock_125.Text
+msgctxt ",000887204834DF6B6269A1BCCF624B94"
+msgid "Single Game"
+msgstr "Single Game"
+
+#. Key:	002ECCA44B86EA9453E2DEA543FBB5D6
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.92.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.92.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",002ECCA44B86EA9453E2DEA543FBB5D6"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	00C4808C49BC80E6313DDDBC33424CBF
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_StoreInfo.DT_StoreInfo.2.Describ_25_5B63B91C466F73F0FABE0FBD4B8269C6
+#: /Game/Survivors/Blueprints/DataTables/DT_StoreInfo.DT_StoreInfo.2.Describ_25_5B63B91C466F73F0FABE0FBD4B8269C6
+msgctxt ",00C4808C49BC80E6313DDDBC33424CBF"
+msgid "More Gemstone"
+msgstr "More Gemstone"
+
+#. Key:	0255FFE8493C52E190EBC48DB4C0BA4F
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.120.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.120.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",0255FFE8493C52E190EBC48DB4C0BA4F"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	034152854F9D959E415D6F9B426C70D4
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.255.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.255.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",034152854F9D959E415D6F9B426C70D4"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	04DB8BAF4C479BF604C4A0AA9C07A9DC
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.207.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.207.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",04DB8BAF4C479BF604C4A0AA9C07A9DC"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	054261CE431F65C00C32D1A4F2260FA7
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.8.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.8.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+msgctxt ",054261CE431F65C00C32D1A4F2260FA7"
+msgid "The sparsely populated wilderness is an abandoned place and a playground for small animals????"
+msgstr "The sparsely populated wilderness is an abandoned place and a playground for small animals????"
+
+#. Key:	054BB13C4F6CA843C07BFFA2012DACC4
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_MatchResults.WB_MatchResults_C:WidgetTree.TextBlock_TimeNow.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_MatchResults.WB_MatchResults_C:WidgetTree.TextBlock_TimeNow.Text
+msgctxt ",054BB13C4F6CA843C07BFFA2012DACC4"
+msgid "GameTime"
+msgstr "GameTime"
+
+#. Key:	0626ABD54AC3CE15CC4B649045D629DE
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_ServerItem.WB_ServerItem_C:ExecuteUbergraph_WB_ServerItem [Script Bytecode]
+#: /Game/SurvivorsTemplate/Widgets/WB_ServerItem.WB_ServerItem_C:ExecuteUbergraph_WB_ServerItem [Script Bytecode]
+msgctxt ",0626ABD54AC3CE15CC4B649045D629DE"
+msgid "Joining Session"
+msgstr "Joining Session"
+
+#. Key:	06D8863F421991F808A52FA8966C5BD0
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.222.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.222.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",06D8863F421991F808A52FA8966C5BD0"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	0863140B4283A8D8FF40B08FBB048498
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.231.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.231.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",0863140B4283A8D8FF40B08FBB048498"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	096B8237450C31C440483FA3B3774C23
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.TextLeft.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.TextLeft.Text
+msgctxt ",096B8237450C31C440483FA3B3774C23"
+msgid "<<"
+msgstr "<<"
+
+#. Key:	098D38F747D03A7250D4E880DD608F36
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LevelUpCard.WB_LevelUpCard_C:ExecuteUbergraph_WB_LevelUpCard [Script Bytecode]
+#: /Game/SurvivorsTemplate/Widgets/WB_LevelUpCard.WB_LevelUpCard_C:ExecuteUbergraph_WB_LevelUpCard [Script Bytecode]
+msgctxt ",098D38F747D03A7250D4E880DD608F36"
+msgid "Evolution"
+msgstr "Evolution"
+
+#. Key:	0A97ACFA400493D3F235ED84027A8095
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/Enums/E_EnemyState.E_EnemyState.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/SurvivorsTemplate/Blueprints/Enums/E_EnemyState.E_EnemyState.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",0A97ACFA400493D3F235ED84027A8095"
+msgid "Active"
+msgstr "Active"
+
+#. Key:	0AD8C3ED43A2C807D11531B59742DC78
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.245.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.245.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",0AD8C3ED43A2C807D11531B59742DC78"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	0B0A42BC486662E218AE24BDE7BBD638
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.18.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.18.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",0B0A42BC486662E218AE24BDE7BBD638"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	0B7788274A6D18FE7561B7BC5CBD00CB
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_RewardItem.WB_RewardItem_C:WidgetTree.TextBlock_Reward.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_RewardItem.WB_RewardItem_C:WidgetTree.TextBlock_Reward.Text
+msgctxt ",0B7788274A6D18FE7561B7BC5CBD00CB"
+msgid "Rewards"
+msgstr "Rewards"
+
+#. Key:	0BB42629493ECC87E88A0CAC7043B015
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.50.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.50.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",0BB42629493ECC87E88A0CAC7043B015"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	0BF0CC4245819FD75CF0319DFFCE38B3
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.284.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.284.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",0BF0CC4245819FD75CF0319DFFCE38B3"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	0C7856EA429753268E1C859BAC342593
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.185.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.185.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",0C7856EA429753268E1C859BAC342593"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	0CC259BF482F6B2B516DC090344D3A7E
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.38.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.38.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",0CC259BF482F6B2B516DC090344D3A7E"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	0D45473D415C77794D950097BC666ADD
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.7.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.7.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+msgctxt ",0D45473D415C77794D950097BC666ADD"
+msgid "Mountain_1"
+msgstr "Mountain_1"
+
+#. Key:	0DABB10745DDA9DB3AB4D9A22BA3522F
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.278.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.278.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",0DABB10745DDA9DB3AB4D9A22BA3522F"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	0DFD69C749A69435B0F08A8FAA8C569C
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_GameMenu.WB_GameMenu_C:WidgetTree.TextBlock_1.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_GameMenu.WB_GameMenu_C:WidgetTree.TextBlock_1.Text
+msgctxt ",0DFD69C749A69435B0F08A8FAA8C569C"
+msgid "Quit to desktop"
+msgstr "Quit to desktop"
+
+#. Key:	0E466F534513FCC26C73079D1BE91524
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor27.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor27.NewTextRenderComponent.Text
+msgctxt ",0E466F534513FCC26C73079D1BE91524"
+msgid "Type 06"
+msgstr "Type 06"
+
+#. Key:	0E5658C545E35B27F48B0794ADA90466
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.TextBlock_100.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.TextBlock_100.Text
+msgctxt ",0E5658C545E35B27F48B0794ADA90466"
+msgid "Launch Game"
+msgstr "Launch Game"
+
+#. Key:	11A33436444B2A9CBF1BA386735500CB
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.153.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.153.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",11A33436444B2A9CBF1BA386735500CB"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	11D3CBD74AA3D20DC42B1C970CA38DF4
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_ChestItems.WB_ChestItems_C:WidgetTree.TextBlock_Gold.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_ChestItems.WB_ChestItems_C:WidgetTree.TextBlock_Gold.Text
+msgctxt ",11D3CBD74AA3D20DC42B1C970CA38DF4"
+msgid "100"
+msgstr "100"
+
+#. Key:	12488185430262AFAD0FD79EB2E9EEB4
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_TalentMenu.WB_TalentMenu_C:WidgetTree.Back.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_TalentMenu.WB_TalentMenu_C:WidgetTree.Back.Text
+msgctxt ",12488185430262AFAD0FD79EB2E9EEB4"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	124F7CD4416C1B9A950BBBA5C9795D46
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/System/BP_Game_Manager.BP_Game_Manager_C:UpdateTimer [Script Bytecode]
+#: /Game/SurvivorsTemplate/Blueprints/System/BP_Game_Manager.BP_Game_Manager_C:UpdateTimer [Script Bytecode]
+msgctxt ",124F7CD4416C1B9A950BBBA5C9795D46"
+msgid "0"
+msgstr "0"
+
+#. Key:	12520ED941F846394A81568063945D8C
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.HostGame.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.HostGame.Text
+msgctxt ",12520ED941F846394A81568063945D8C"
+msgid "Host Game"
+msgstr "Host Game"
+
+#. Key:	126DFD574B22207C4C39568416F644E7
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.236.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.236.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",126DFD574B22207C4C39568416F644E7"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	1313DBC04622624458A89DB9269110AD
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.39.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.39.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",1313DBC04622624458A89DB9269110AD"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	133A39EC43BAD5418B7FFBBB14B7EEAC
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/Enums/E_AbilityType.E_AbilityType.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/SurvivorsTemplate/Blueprints/Enums/E_AbilityType.E_AbilityType.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",133A39EC43BAD5418B7FFBBB14B7EEAC"
+msgid "Evolution"
+msgstr "Evolution"
+
+#. Key:	15D225654A1FEF62279FD192B2B6E68A
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_MatchResults.WB_MatchResults_C:WidgetTree.TextBlock_KillNumLabel.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_MatchResults.WB_MatchResults_C:WidgetTree.TextBlock_KillNumLabel.Text
+msgctxt ",15D225654A1FEF62279FD192B2B6E68A"
+msgid "KillNum:"
+msgstr "KillNum:"
+
+#. Key:	16946DDC4219DD34B7A5059852AA72CF
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.180.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.180.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",16946DDC4219DD34B7A5059852AA72CF"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	174ACA10426FCF1B99CD35AA407840D6
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.8.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.8.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",174ACA10426FCF1B99CD35AA407840D6"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	185A455D4ADF46C419225587C57659A0
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor19.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor19.NewTextRenderComponent.Text
+msgctxt ",185A455D4ADF46C419225587C57659A0"
+msgid "Type 18"
+msgstr "Type 18"
+
+#. Key:	189BBACD40551CFF2C333A9755219D27
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_HostMenu.WB_HostMenu_C:WidgetTree.TextBlock_306.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_HostMenu.WB_HostMenu_C:WidgetTree.TextBlock_306.Text
+msgctxt ",189BBACD40551CFF2C333A9755219D27"
+msgid "Host Game"
+msgstr "Host Game"
+
+#. Key:	190DEEEC429DFEC19BC7F2B17F3CEAB6
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor29.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor29.NewTextRenderComponent.Text
+msgctxt ",190DEEEC429DFEC19BC7F2B17F3CEAB6"
+msgid "Type 08"
+msgstr "Type 08"
+
+#. Key:	19BC384B4E7B5255E8DFC3940140C646
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.177.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.177.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",19BC384B4E7B5255E8DFC3940140C646"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	1A30557945DBB437AAAD7489827FAEB9
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableCharacters.DT_AvailableCharacters.Char1.Description_17_53EA331042397200B93A5084C5008AD4
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableCharacters.DT_AvailableCharacters.Char1.Description_17_53EA331042397200B93A5084C5008AD4
+msgctxt ",1A30557945DBB437AAAD7489827FAEB9"
+msgid "Starting Ability: Frost Bolt"
+msgstr "Starting Ability: Frost Bolt"
+
+#. Key:	1A50F1994EFAB132D07EADB37C0AB0B3
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LevelUpCard.WB_LevelUpCard_C:WidgetTree.TextBlock_Desc.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LevelUpCard.WB_LevelUpCard_C:WidgetTree.TextBlock_Desc.Text
+msgctxt ",1A50F1994EFAB132D07EADB37C0AB0B3"
+msgid "Description of abiliity will go here"
+msgstr "Description of abiliity will go here"
+
+#. Key:	1A95A2C34DFFC811B67911A21D9B4DBD
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FireBall-1.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FireBall-1.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",1A95A2C34DFFC811B67911A21D9B4DBD"
+msgid "Fires additional Fireball"
+msgstr "Fires additional Fireball"
+
+#. Key:	1C7DE49D4CFB880F4CFA349087C1BC0F
+#. SourceLocation:	/Game/Asian_Armour/Base/DemoContent/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_5.ChannelNames.B
+#: /Game/Asian_Armour/Base/DemoContent/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_5.ChannelNames.B
+msgctxt ",1C7DE49D4CFB880F4CFA349087C1BC0F"
+msgid "PlasticMask"
+msgstr "PlasticMask"
+
+#. Key:	1D27AA1D44424DBAAD3AC08096660825
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.293.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.293.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",1D27AA1D44424DBAAD3AC08096660825"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	1D5F94904848E7D78DC13EA657CE7930
+#. SourceLocation:	/Game/Survivors/Blueprints/WidgetBP/WB_StoreButton.WB_StoreButton_C:WidgetTree.TextBlock_524.Text
+#: /Game/Survivors/Blueprints/WidgetBP/WB_StoreButton.WB_StoreButton_C:WidgetTree.TextBlock_524.Text
+msgctxt ",1D5F94904848E7D78DC13EA657CE7930"
+msgid "Double Recharge"
+msgstr "Double Recharge"
+
+#. Key:	1D9E7476430E9578F7EE3D98F16DA23D
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.Hammer2.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.Hammer2.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",1D9E7476430E9578F7EE3D98F16DA23D"
+msgid "Base damage up by 4"
+msgstr "Base damage up by 4"
+
+#. Key:	1DC0574D4E691CC2F19E43B7CB6BD312
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.6.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.6.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+msgctxt ",1DC0574D4E691CC2F19E43B7CB6BD312"
+msgid "In the center of the desert, there are very few people around. What exactly is inside????"
+msgstr "In the center of the desert, there are very few people around. What exactly is inside????"
+
+#. Key:	1DD1F08C44ECA47E6B60149AD15830E5
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_TalentMenu.WB_TalentMenu_C:WidgetTree.CharacterLevelLabel.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_TalentMenu.WB_TalentMenu_C:WidgetTree.CharacterLevelLabel.Text
+msgctxt ",1DD1F08C44ECA47E6B60149AD15830E5"
+msgid "1"
+msgstr "1"
+
+#. Key:	1EEF8ECE42854694393398AE961B03D8
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_StoreInfo.DT_StoreInfo.7.Describ_25_5B63B91C466F73F0FABE0FBD4B8269C6
+#: /Game/Survivors/Blueprints/DataTables/DT_StoreInfo.DT_StoreInfo.7.Describ_25_5B63B91C466F73F0FABE0FBD4B8269C6
+msgctxt ",1EEF8ECE42854694393398AE961B03D8"
+msgid "Little gold coins"
+msgstr "Little gold coins"
+
+#. Key:	1F52A0D7450DD0C5121D089F6478B8C5
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FireBall4.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FireBall4.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",1F52A0D7450DD0C5121D089F6478B8C5"
+msgid "Damage increased by 4"
+msgstr "Damage increased by 4"
+
+#. Key:	1F6F48684EBE3ED9C839ECBC6E0C792E
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.290.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.290.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",1F6F48684EBE3ED9C839ECBC6E0C792E"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	205D94C44B65C45E1590A2858F7A81EB
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.12.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.12.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",205D94C44B65C45E1590A2858F7A81EB"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	20D9AEC44221C80C3D40DDAA456CBB07
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.TextSouls.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.TextSouls.Text
+msgctxt ",20D9AEC44221C80C3D40DDAA456CBB07"
+msgid "0"
+msgstr "0"
+
+#. Key:	212D0C4042480A0DCEAA41874F3735FA
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_InfoPopup.WB_InfoPopup_C:WidgetTree.TextBlock_PopupText.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_InfoPopup.WB_InfoPopup_C:WidgetTree.TextBlock_PopupText.Text
+msgctxt ",212D0C4042480A0DCEAA41874F3735FA"
+msgid "Popup Description"
+msgstr "Popup Description"
+
+#. Key:	21924FD0459EBFD31B44FA9C0E984397
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_CharacterSelectionItem.Default__WB_CharacterSelectionItem_C.CharData.Description_17_53EA331042397200B93A5084C5008AD4
+#: /Game/SurvivorsTemplate/Widgets/WB_CharacterSelectionItem.Default__WB_CharacterSelectionItem_C.CharData.Description_17_53EA331042397200B93A5084C5008AD4
+msgctxt ",21924FD0459EBFD31B44FA9C0E984397"
+msgid "Description of Character"
+msgstr "Description of Character"
+
+#. Key:	228C2BB14505389713135A9E4F6BC22D
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/Enums/E_AbilityType.E_AbilityType.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/SurvivorsTemplate/Blueprints/Enums/E_AbilityType.E_AbilityType.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",228C2BB14505389713135A9E4F6BC22D"
+msgid "Active"
+msgstr "Active"
+
+#. Key:	23242D8745A3E0471D8DA9B65C5F1D0A
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.173.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.173.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",23242D8745A3E0471D8DA9B65C5F1D0A"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	2375251F46EEC2FA834A90BF3C059DD6
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.69.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.69.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",2375251F46EEC2FA834A90BF3C059DD6"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	24696333412ED4BCCD9FD986E05E7100
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_StoreInfo.DT_StoreInfo.4.Describ_25_5B63B91C466F73F0FABE0FBD4B8269C6
+#: /Game/Survivors/Blueprints/DataTables/DT_StoreInfo.DT_StoreInfo.4.Describ_25_5B63B91C466F73F0FABE0FBD4B8269C6
+msgctxt ",24696333412ED4BCCD9FD986E05E7100"
+msgid "Bag Gemstone"
+msgstr "Bag Gemstone"
+
+#. Key:	246C40B7401D683B95C8679B4A6FBFB5
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_PlayerHud.WB_PlayerHud_C:WidgetTree.TextLevel.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_PlayerHud.WB_PlayerHud_C:WidgetTree.TextLevel.Text
+msgctxt ",246C40B7401D683B95C8679B4A6FBFB5"
+msgid "Lv."
+msgstr "Lv."
+
+#. Key:	24B89ADE42BAF2E324718B97C467FE0A
+#. SourceLocation:	/Game/Asian_Armour/Base/Materials/MaterialFunctions/MF_RGBA_PatternBlend.MF_RGBA_PatternBlend:MaterialExpressionTextureSampleParameter2D_2.ChannelNames.G
+#: /Game/Asian_Armour/Base/Materials/MaterialFunctions/MF_RGBA_PatternBlend.MF_RGBA_PatternBlend:MaterialExpressionTextureSampleParameter2D_2.ChannelNames.G
+msgctxt ",24B89ADE42BAF2E324718B97C467FE0A"
+msgid "Roughness"
+msgstr "Roughness"
+
+#. Key:	24CA0BF94CFCB16E0E06B3B71F449ED2
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FrostBolt-1.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FrostBolt-1.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",24CA0BF94CFCB16E0E06B3B71F449ED2"
+msgid "Fires with no delay"
+msgstr "Fires with no delay"
+
+#. Key:	266729144433C15F91B33B9F46087DD4
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor22.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor22.NewTextRenderComponent.Text
+msgctxt ",266729144433C15F91B33B9F46087DD4"
+msgid "Type 01"
+msgstr "Type 01"
+
+#. Key:	26A654B94BD9F48E42F0BEAE8F9D5EEA
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.12.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.12.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+msgctxt ",26A654B94BD9F48E42F0BEAE8F9D5EEA"
+msgid "This is a place of ice and snow, where even the grass has turned white????"
+msgstr "This is a place of ice and snow, where even the grass has turned white????"
+
+#. Key:	26A95BA24D866BE4919F7B9F50780DE4
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_Popup.WB_Popup_C:WidgetTree.TextBlock_125.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_Popup.WB_Popup_C:WidgetTree.TextBlock_125.Text
+msgctxt ",26A95BA24D866BE4919F7B9F50780DE4"
+msgid "Yes"
+msgstr "Yes"
+
+#. Key:	273D335B4E9A458525A4CD9ABFF44454
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.203.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.203.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",273D335B4E9A458525A4CD9ABFF44454"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	27445AA348F18032F65780A3C25FA93D
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.MapDiscrib.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.MapDiscrib.Text
+msgctxt ",27445AA348F18032F65780A3C25FA93D"
+msgid "I can't see any information here anymore. I don't know if it's caused by sandstorms, it should be deep in the desert????"
+msgstr "I can't see any information here anymore. I don't know if it's caused by sandstorms, it should be deep in the desert????"
+
+#. Key:	2AC37D44428FEA8615F1A2B30DE85936
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.260.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.260.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",2AC37D44428FEA8615F1A2B30DE85936"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	2B9E723048B7FECA7461A98C3ABEFDE2
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.197.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.197.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",2B9E723048B7FECA7461A98C3ABEFDE2"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	2BBC3C494E811C10DAAA5FB1538B8FA9
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.248.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.248.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",2BBC3C494E811C10DAAA5FB1538B8FA9"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	2C16C02145B4A1895046428866AFA8F6
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor18.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor18.NewTextRenderComponent.Text
+msgctxt ",2C16C02145B4A1895046428866AFA8F6"
+msgid "Type 17"
+msgstr "Type 17"
+
+#. Key:	2CE500B54D36D32FADA31D96C7217E38
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.233.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.233.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",2CE500B54D36D32FADA31D96C7217E38"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	2D02A302489B6A2C081C56A37CE3700A
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.243.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.243.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",2D02A302489B6A2C081C56A37CE3700A"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	305B99074B5D4D3E2803AC94B1C4A817
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.147.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.147.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",305B99074B5D4D3E2803AC94B1C4A817"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	329A72C64B9D9CA00CD8A780EEA79C9B
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.89.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.89.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",329A72C64B9D9CA00CD8A780EEA79C9B"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	32D87A3549B9BAF6C25ECEB46F97684F
+#. SourceLocation:	/Game/Survivors/Blueprints/WidgetBP/WB_StorePanel.WB_StorePanel_C:WidgetTree.Back.Text
+#: /Game/Survivors/Blueprints/WidgetBP/WB_StorePanel.WB_StorePanel_C:WidgetTree.Back.Text
+msgctxt ",32D87A3549B9BAF6C25ECEB46F97684F"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	34D697B742020A5C17CE3D89F0A3F0AB
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.239.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.239.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",34D697B742020A5C17CE3D89F0A3F0AB"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	3589CA144703488F4BC2289DDD8B1470
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor2.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor2.NewTextRenderComponent.Text
+msgctxt ",3589CA144703488F4BC2289DDD8B1470"
+msgid "Type 02"
+msgstr "Type 02"
+
+#. Key:	359D9C6243D37428E8ACBD80E309A269
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.171.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.171.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",359D9C6243D37428E8ACBD80E309A269"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	3740750D46EC3E9A52BBF099839DD75F
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.195.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.195.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",3740750D46EC3E9A52BBF099839DD75F"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	37663CAC4990D09894E700A670D2A40E
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_TalentMenu.WB_TalentMenu_C:CreateTalentItemsFunction [Script Bytecode]
+#: /Game/SurvivorsTemplate/Widgets/WB_TalentMenu.WB_TalentMenu_C:CreateTalentItemsFunction [Script Bytecode]
+msgctxt ",37663CAC4990D09894E700A670D2A40E"
+msgid "Lv.{Level}"
+msgstr "Lv.{Level}"
+
+#. Key:	382A79FD4C8EB2BFC1603FB36EE256D8
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.35.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.35.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",382A79FD4C8EB2BFC1603FB36EE256D8"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	38CBBD344444C35744D4A8A0AD3F75E8
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_CharacterSelectionItem.Default__WB_CharacterSelectionItem_C.CharData.CharacterName_22_B0DB3485442944C2442843B1A1C9684F
+#: /Game/SurvivorsTemplate/Widgets/WB_CharacterSelectionItem.Default__WB_CharacterSelectionItem_C.CharData.CharacterName_22_B0DB3485442944C2442843B1A1C9684F
+msgctxt ",38CBBD344444C35744D4A8A0AD3F75E8"
+msgid "Arlo"
+msgstr "Arlo"
+
+#. Key:	39F86D654FDB859EB3716483B3F39D0E
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.192.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.192.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",39F86D654FDB859EB3716483B3F39D0E"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	3B50B4194142B7247C84599B5D7C6A3A
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.2.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.2.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+msgctxt ",3B50B4194142B7247C84599B5D7C6A3A"
+msgid "Canyon_a"
+msgstr "Canyon_a"
+
+#. Key:	3BAB40504C14A1F78C2C54876DD24BCE
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor26.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor26.NewTextRenderComponent.Text
+msgctxt ",3BAB40504C14A1F78C2C54876DD24BCE"
+msgid "Type 05"
+msgstr "Type 05"
+
+#. Key:	3C5838A34BE4FFFAD56A56BAC693BDC1
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.144.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.144.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",3C5838A34BE4FFFAD56A56BAC693BDC1"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	3C5960B24375E8164AB66FA143A3D42C
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.47.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.47.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",3C5960B24375E8164AB66FA143A3D42C"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	3CA5D6B24D246BD68A88E9BF657F7B4A
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_StoreInfo.DT_StoreInfo.6.Describ_25_5B63B91C466F73F0FABE0FBD4B8269C6
+#: /Game/Survivors/Blueprints/DataTables/DT_StoreInfo.DT_StoreInfo.6.Describ_25_5B63B91C466F73F0FABE0FBD4B8269C6
+msgctxt ",3CA5D6B24D246BD68A88E9BF657F7B4A"
+msgid "Box Gemstone"
+msgstr "Box Gemstone"
+
+#. Key:	3CB80519415AB16B7DEE58BDF321691D
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_TalentMenu.WB_TalentMenu_C:WidgetTree.TextGold.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_TalentMenu.WB_TalentMenu_C:WidgetTree.TextGold.Text
+msgctxt ",3CB80519415AB16B7DEE58BDF321691D"
+msgid "0"
+msgstr "0"
+
+#. Key:	3CD8E71643A17CDB8BAAF5AD401A2DAC
+#. SourceLocation:	/Game/Survivors/Blueprints/WidgetBP/WB_StoreButton.WB_StoreButton_C:WidgetTree.TextExtraNum.Text
+#: /Game/Survivors/Blueprints/WidgetBP/WB_StoreButton.WB_StoreButton_C:WidgetTree.TextExtraNum.Text
+msgctxt ",3CD8E71643A17CDB8BAAF5AD401A2DAC"
+msgid "+666"
+msgstr "+666"
+
+#. Key:	3CFC4AF04E84D886F994C68696F12FD7
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.Lightning2.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.Lightning2.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",3CFC4AF04E84D886F994C68696F12FD7"
+msgid "Damage increased by 4"
+msgstr "Damage increased by 4"
+
+#. Key:	3DE72DE441DA6BBD7904E0BF41018923
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_GameMenu.WB_GameMenu_C:WidgetTree.TextBlock_100.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_GameMenu.WB_GameMenu_C:WidgetTree.TextBlock_100.Text
+msgctxt ",3DE72DE441DA6BBD7904E0BF41018923"
+msgid "Continue"
+msgstr "Continue"
+
+#. Key:	3F7BDAE6492D43131D38A5982425D26B
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.108.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.108.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",3F7BDAE6492D43131D38A5982425D26B"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	411652EA41FCEECFA5665B8E678656B9
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.44.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.44.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",411652EA41FCEECFA5665B8E678656B9"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	41B3754247C608FD0B4C41B50B36B73B
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.282.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.282.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",41B3754247C608FD0B4C41B50B36B73B"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	41F8E022470A624ABB6C0E83FE89BCFB
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.201.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.201.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",41F8E022470A624ABB6C0E83FE89BCFB"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	43DF7BAD41B85403DFCD368AC6C6E820
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/System/BP_Gameplay_PlayerController.BP_Gameplay_PlayerController_C:ExecuteLevelUp [Script Bytecode]
+#: /Game/SurvivorsTemplate/Blueprints/System/BP_Gameplay_PlayerController.BP_Gameplay_PlayerController_C:ExecuteLevelUp [Script Bytecode]
+msgctxt ",43DF7BAD41B85403DFCD368AC6C6E820"
+msgid "Recover Health to Full"
+msgstr "Recover Health to Full"
+
+#. Key:	452F9EB445A040151122F3944A71AD86
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FrostBolt2.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FrostBolt2.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",452F9EB445A040151122F3944A71AD86"
+msgid "Fires 1 more projectile"
+msgstr "Fires 1 more projectile"
+
+#. Key:	4605C1B64C18D0AD066FB5A6C73CB15C
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.81.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.81.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",4605C1B64C18D0AD066FB5A6C73CB15C"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	48A7A6DC42D37EB103D72DA22BED3EAB
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.276.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.276.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",48A7A6DC42D37EB103D72DA22BED3EAB"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	49F7F02E42137DDDBF86579DD91515BE
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.9.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.9.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+msgctxt ",49F7F02E42137DDDBF86579DD91515BE"
+msgid "Mountain_3"
+msgstr "Mountain_3"
+
+#. Key:	4A29C7FB49446AAD6AED4C967C1BC0D6
+#. SourceLocation:	/Game/Survivors/Blueprints/WidgetBP/WB_StorePanel.WB_StorePanel_C:WidgetTree.TextGold.Text
+#: /Game/Survivors/Blueprints/WidgetBP/WB_StorePanel.WB_StorePanel_C:WidgetTree.TextGold.Text
+msgctxt ",4A29C7FB49446AAD6AED4C967C1BC0D6"
+msgid "Gold"
+msgstr "Gold"
+
+#. Key:	4B4EDE5B4566DC9972E9E6A8AEB035D1
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.TextNext.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.TextNext.Text
+msgctxt ",4B4EDE5B4566DC9972E9E6A8AEB035D1"
+msgid "Next"
+msgstr "Next"
+
+#. Key:	4B7FFAE84E9396DE29F4FBB7E7F8A05B
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.182.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.182.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",4B7FFAE84E9396DE29F4FBB7E7F8A05B"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	4CBC10644E23B01057693DA53080A2EA
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor25.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor25.NewTextRenderComponent.Text
+msgctxt ",4CBC10644E23B01057693DA53080A2EA"
+msgid "Type 04"
+msgstr "Type 04"
+
+#. Key:	4CF150F44B050939B9FEFD8DB845E5E3
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.CharacterLevelTitle.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.CharacterLevelTitle.Text
+msgctxt ",4CF150F44B050939B9FEFD8DB845E5E3"
+msgid "Lv. "
+msgstr "Lv. "
+
+#. Key:	4D2E3B414781504BA99C82BA92CCCAAD
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.80.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.80.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",4D2E3B414781504BA99C82BA92CCCAAD"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	4D59D4B84B9BDF8B387D538E898470D0
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.60.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.60.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",4D59D4B84B9BDF8B387D538E898470D0"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	4D7EE76A4C8321BB4CC66F9A1BB88042
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.4.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.4.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+msgctxt ",4D7EE76A4C8321BB4CC66F9A1BB88042"
+msgid "Canyon_c"
+msgstr "Canyon_c"
+
+#. Key:	4E81CE3744EC873C9454C6BBCF418F79
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.54.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.54.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",4E81CE3744EC873C9454C6BBCF418F79"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	4FDE2E2F479777AE297A21B5ABE2321E
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.176.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.176.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",4FDE2E2F479777AE297A21B5ABE2321E"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	5108D3EE4601A9D8A4DF2EBA26834B76
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor20.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor20.NewTextRenderComponent.Text
+msgctxt ",5108D3EE4601A9D8A4DF2EBA26834B76"
+msgid "Type 19"
+msgstr "Type 19"
+
+#. Key:	51C18DB0441CC910A815E799627BFE15
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_TalentItems.WB_TalentItems_C:WidgetTree.LevelText.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_TalentItems.WB_TalentItems_C:WidgetTree.LevelText.Text
+msgctxt ",51C18DB0441CC910A815E799627BFE15"
+msgid "Lv.1"
+msgstr "Lv.1"
+
+#. Key:	51E5942A4266B3BF14E536A7733D0C6C
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_PassiveAbilities.DT_PassiveAbilities.HealthBonus.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_PassiveAbilities.DT_PassiveAbilities.HealthBonus.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",51E5942A4266B3BF14E536A7733D0C6C"
+msgid "Max health increased by 10%"
+msgstr "Max health increased by 10%"
+
+#. Key:	524495C74954003DF501FBAA6AB46CEB
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.254.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.254.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",524495C74954003DF501FBAA6AB46CEB"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	52496227488A966F8867C49B932F3AC0
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LoadingScreen.WB_LoadingScreen_C:WidgetTree.LoadingTextTip.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LoadingScreen.WB_LoadingScreen_C:WidgetTree.LoadingTextTip.Text
+msgctxt ",52496227488A966F8867C49B932F3AC0"
+msgid "Loading screen text that you will replace"
+msgstr "Loading screen text that you will replace"
+
+#. Key:	53189FF64D719BF1433CF19E76462A56
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.111.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.111.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",53189FF64D719BF1433CF19E76462A56"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	5337824A4E7D337F4C224B9BB75F5CBB
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.9.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.9.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+msgctxt ",5337824A4E7D337F4C224B9BB75F5CBB"
+msgid "We encountered many enemies on the mountain, let's defeat them and break through????"
+msgstr "We encountered many enemies on the mountain, let's defeat them and break through????"
+
+#. Key:	547AC72348FBEB9A729864BF00FFA91A
+#. SourceLocation:	/Game/Survivors/Blueprints/WidgetBP/WB_StoreButton.WB_StoreButton_C:WidgetTree.StoreTitle.Text
+#: /Game/Survivors/Blueprints/WidgetBP/WB_StoreButton.WB_StoreButton_C:WidgetTree.StoreTitle.Text
+msgctxt ",547AC72348FBEB9A729864BF00FFA91A"
+msgid "6600"
+msgstr "6600"
+
+#. Key:	548EA89E42D054C2CDE497B289BF9576
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.48.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.48.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",548EA89E42D054C2CDE497B289BF9576"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	56248C6641DD3038A95220AEC707F0E6
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.225.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.225.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",56248C6641DD3038A95220AEC707F0E6"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	5675353646AA58EA654AE29B62975B38
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.129.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.129.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",5675353646AA58EA654AE29B62975B38"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	56CE8DF74AB42B471DC2378CD4082342
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.15.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.15.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",56CE8DF74AB42B471DC2378CD4082342"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	571548FA45F697EC6A0A7B8F962E49C6
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_CharacterSelectionItem.WB_CharacterSelectionItem_C:ExecuteUbergraph_WB_CharacterSelectionItem [Script Bytecode]
+#: /Game/SurvivorsTemplate/Widgets/WB_CharacterSelectionItem.WB_CharacterSelectionItem_C:ExecuteUbergraph_WB_CharacterSelectionItem [Script Bytecode]
+msgctxt ",571548FA45F697EC6A0A7B8F962E49C6"
+msgid "{Description}\r\nUnlock Cost: {cost}"
+msgstr "{Description}\r\nUnlock Cost: {cost}"
+
+#. Key:	57B0887347FE0F1580A4ADB47503CC63
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.135.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.135.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",57B0887347FE0F1580A4ADB47503CC63"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	589DB68A440F485E585098B8D5EEF6E9
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LevelUpCard.WB_LevelUpCard_C:ExecuteUbergraph_WB_LevelUpCard [Script Bytecode]
+#: /Game/SurvivorsTemplate/Widgets/WB_LevelUpCard.WB_LevelUpCard_C:ExecuteUbergraph_WB_LevelUpCard [Script Bytecode]
+msgctxt ",589DB68A440F485E585098B8D5EEF6E9"
+msgid "New!"
+msgstr "New!"
+
+#. Key:	58EA06E448F53D9D7B0897B1B643F124
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_GameMenu.WB_GameMenu_C:ExecuteUbergraph_WB_GameMenu [Script Bytecode]
+#: /Game/SurvivorsTemplate/Widgets/WB_GameMenu.WB_GameMenu_C:ExecuteUbergraph_WB_GameMenu [Script Bytecode]
+msgctxt ",58EA06E448F53D9D7B0897B1B643F124"
+msgid "Are you sure quit now?"
+msgstr "Are you sure quit now?"
+
+#. Key:	5AAA8D264AF1A77D7D323DBBC18AC391
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.266.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.266.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",5AAA8D264AF1A77D7D323DBBC18AC391"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	5AEC7DA34C16E83D5E4168AA8C0E6F97
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.20.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.20.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",5AEC7DA34C16E83D5E4168AA8C0E6F97"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	5B107E484B580D4F0F0F82AE324E1EE7
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.285.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.285.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",5B107E484B580D4F0F0F82AE324E1EE7"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	5B39BFAB40725FA3E91017A0076ABFFC
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_ServerBrowser.WB_ServerBrowser_C:ExecuteUbergraph_WB_ServerBrowser [Script Bytecode]
+#: /Game/SurvivorsTemplate/Widgets/WB_ServerBrowser.WB_ServerBrowser_C:ExecuteUbergraph_WB_ServerBrowser [Script Bytecode]
+msgctxt ",5B39BFAB40725FA3E91017A0076ABFFC"
+msgid "Refreshed"
+msgstr "Refreshed"
+
+#. Key:	5B3E355440CD68F86659C79B3D4DBA7F
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.TextBlock_160.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.TextBlock_160.Text
+msgctxt ",5B3E355440CD68F86659C79B3D4DBA7F"
+msgid "Select Character"
+msgstr "Select Character"
+
+#. Key:	5C4B0AA94550938A1D6BCCBAA9BF2000
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_ChestMaster.WB_ChestMaster_C:WidgetTree.TextBlock_41.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_ChestMaster.WB_ChestMaster_C:WidgetTree.TextBlock_41.Text
+msgctxt ",5C4B0AA94550938A1D6BCCBAA9BF2000"
+msgid "CHEST FOUND!"
+msgstr "CHEST FOUND!"
+
+#. Key:	5CD678F746E0499D5B3058B958BEFF08
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/Character/BP_Base_Character.Default__BP_Base_Character_C.Character.CharacterName_22_B0DB3485442944C2442843B1A1C9684F
+#: /Game/SurvivorsTemplate/Blueprints/Character/BP_Base_Character.Default__BP_Base_Character_C.Character.CharacterName_22_B0DB3485442944C2442843B1A1C9684F
+msgctxt ",5CD678F746E0499D5B3058B958BEFF08"
+msgid "Cervine"
+msgstr "Cervine"
+
+#. Key:	5D3202E745E79B03393DCD8651089AA6
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_TalentMenu.WB_TalentMenu_C:WidgetTree.TextSouls.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_TalentMenu.WB_TalentMenu_C:WidgetTree.TextSouls.Text
+msgctxt ",5D3202E745E79B03393DCD8651089AA6"
+msgid "0"
+msgstr "0"
+
+#. Key:	5D92FC6E499911CFA06A67964DA4EAE5
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_StoreInfo.DT_StoreInfo.5.Describ_25_5B63B91C466F73F0FABE0FBD4B8269C6
+#: /Game/Survivors/Blueprints/DataTables/DT_StoreInfo.DT_StoreInfo.5.Describ_25_5B63B91C466F73F0FABE0FBD4B8269C6
+msgctxt ",5D92FC6E499911CFA06A67964DA4EAE5"
+msgid "Bucket Gemstone"
+msgstr "Bucket Gemstone"
+
+#. Key:	5ED4D36245440DD43AAF1299D476F3DF
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.113.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.113.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",5ED4D36245440DD43AAF1299D476F3DF"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	5FB6ED73441A1B3049CEF2A5657CB188
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LevelUpMaster.WB_LevelUpMaster_C:WidgetTree.TextBlock_111.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LevelUpMaster.WB_LevelUpMaster_C:WidgetTree.TextBlock_111.Text
+msgctxt ",5FB6ED73441A1B3049CEF2A5657CB188"
+msgid "Choose a new ability or upgrade an existing one"
+msgstr "Choose a new ability or upgrade an existing one"
+
+#. Key:	60C6AEE64D9EFD9C7AAA149CB0A0A9F5
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/Enums/E_PassiveAbilities.E_PassiveAbilities.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/SurvivorsTemplate/Blueprints/Enums/E_PassiveAbilities.E_PassiveAbilities.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",60C6AEE64D9EFD9C7AAA149CB0A0A9F5"
+msgid "Ability Bonus Damage"
+msgstr "Ability Bonus Damage"
+
+#. Key:	60CEA8DD4E2F6EF7D96D428EC12190C9
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.42.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.42.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",60CEA8DD4E2F6EF7D96D428EC12190C9"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	61029679415E9F2256D874B4544BE535
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.5.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.5.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+msgctxt ",61029679415E9F2256D874B4544BE535"
+msgid "Afghan_2"
+msgstr "Afghan_2"
+
+#. Key:	613FAFAF4CA5C467E8649BA67CD005C1
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_PlayerHud.WB_PlayerHud_C:WidgetTree.TextBlock_Level.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_PlayerHud.WB_PlayerHud_C:WidgetTree.TextBlock_Level.Text
+msgctxt ",613FAFAF4CA5C467E8649BA67CD005C1"
+msgid "1"
+msgstr "1"
+
+#. Key:	61FB1A1545DE0B1CEAB8A9BD70D4DAB8
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FrostBolt4.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FrostBolt4.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",61FB1A1545DE0B1CEAB8A9BD70D4DAB8"
+msgid "Damage increased by 4"
+msgstr "Damage increased by 4"
+
+#. Key:	6203B10940546F75A13E019D0DCC9C63
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.11.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.11.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+msgctxt ",6203B10940546F75A13E019D0DCC9C63"
+msgid "Mountain_5"
+msgstr "Mountain_5"
+
+#. Key:	620A6016427D0CFCA42E6D976278EBD4
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.TextRight.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.TextRight.Text
+msgctxt ",620A6016427D0CFCA42E6D976278EBD4"
+msgid ">>"
+msgstr ">>"
+
+#. Key:	62723DC045A6504C32252897112C28DA
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.143.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.143.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",62723DC045A6504C32252897112C28DA"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	62E636AB42DB2CF51ED029BC6F8D1F48
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/Enums/E_AbilityType.E_AbilityType.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/SurvivorsTemplate/Blueprints/Enums/E_AbilityType.E_AbilityType.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",62E636AB42DB2CF51ED029BC6F8D1F48"
+msgid "Passive"
+msgstr "Passive"
+
+#. Key:	62FDD1B649FC0A43F48F67ABA46E3FF5
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.Lightning-1.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.Lightning-1.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",62FDD1B649FC0A43F48F67ABA46E3FF5"
+msgid "Delayed strike after first one"
+msgstr "Delayed strike after first one"
+
+#. Key:	63DA0D64411553748A70B284B878776C
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.126.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.126.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",63DA0D64411553748A70B284B878776C"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	646FEF4B4E3AEB1DA47E69A86827B23B
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.155.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.155.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",646FEF4B4E3AEB1DA47E69A86827B23B"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	64C4B7E34AFA624A18817C8C9ACB5399
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/System/BP_Gameplay_PlayerController.BP_Gameplay_PlayerController_C:BuildAndProcessChest [Script Bytecode]
+#: /Game/SurvivorsTemplate/Blueprints/System/BP_Gameplay_PlayerController.BP_Gameplay_PlayerController_C:BuildAndProcessChest [Script Bytecode]
+msgctxt ",64C4B7E34AFA624A18817C8C9ACB5399"
+msgid "50 Gold"
+msgstr "50 Gold"
+
+#. Key:	657DEB604FCDCCC4F0FD819FEF60EAF8
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_CharacterSelectionItem.WB_CharacterSelectionItem_C:ExecuteUbergraph_WB_CharacterSelectionItem [Script Bytecode]
+#: /Game/SurvivorsTemplate/Widgets/WB_CharacterSelectionItem.WB_CharacterSelectionItem_C:ExecuteUbergraph_WB_CharacterSelectionItem [Script Bytecode]
+msgctxt ",657DEB604FCDCCC4F0FD819FEF60EAF8"
+msgid "Not Enough Gold"
+msgstr "Not Enough Gold"
+
+#. Key:	667F9D724525891991C75093CF24D5DD
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FireBall5.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FireBall5.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",667F9D724525891991C75093CF24D5DD"
+msgid "Explosion radius increased by 10%"
+msgstr "Explosion radius increased by 10%"
+
+#. Key:	66A79C064F05B559132F2180E3774B7E
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.68.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.68.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",66A79C064F05B559132F2180E3774B7E"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	66AD34E945EF3B29030C58BC9A3DDED5
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor60.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor60.NewTextRenderComponent.Text
+msgctxt ",66AD34E945EF3B29030C58BC9A3DDED5"
+msgid "Grass"
+msgstr "Grass"
+
+#. Key:	6797A05449781BBC92732EA9B4C02BF0
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.59.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.59.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",6797A05449781BBC92732EA9B4C02BF0"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	682D37004619F24F3B3451AACFB6114B
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.77.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.77.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",682D37004619F24F3B3451AACFB6114B"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	69257E464C83136D5D7DE28FAEFF56E8
+#. SourceLocation:	/Game/Asian_Armour/Base/DemoContent/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_6.ChannelNames.G
+#: /Game/Asian_Armour/Base/DemoContent/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_6.ChannelNames.G
+msgctxt ",69257E464C83136D5D7DE28FAEFF56E8"
+msgid "Spec"
+msgstr "Spec"
+
+#. Key:	6A9CDC044174CE4F655EF48B9B6763C6
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/Enums/E_PassiveAbilities.E_PassiveAbilities.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/SurvivorsTemplate/Blueprints/Enums/E_PassiveAbilities.E_PassiveAbilities.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",6A9CDC044174CE4F655EF48B9B6763C6"
+msgid "Ability Cooldown Reduction"
+msgstr "Ability Cooldown Reduction"
+
+#. Key:	6ABBCB6540B186D1B9705BB7E12B2639
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.TextBlock_1.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.TextBlock_1.Text
+msgctxt ",6ABBCB6540B186D1B9705BB7E12B2639"
+msgid "+"
+msgstr "+"
+
+#. Key:	6AEFA18B49F3E67A6853F891B2E81906
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.162.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.162.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",6AEFA18B49F3E67A6853F891B2E81906"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	6B5D5AC94F9DF818804C04A0180A066F
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_Popup.WB_Popup_C:WidgetTree.TextBlock.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_Popup.WB_Popup_C:WidgetTree.TextBlock.Text
+msgctxt ",6B5D5AC94F9DF818804C04A0180A066F"
+msgid "No"
+msgstr "No"
+
+#. Key:	6BC49A214188277770FE66904EF86341
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.275.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.275.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",6BC49A214188277770FE66904EF86341"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	6BF0573C427FC23BB724F5BCBCC7B417
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LevelUpCard.WB_LevelUpCard_C:ExecuteUbergraph_WB_LevelUpCard [Script Bytecode]
+#: /Game/SurvivorsTemplate/Widgets/WB_LevelUpCard.WB_LevelUpCard_C:ExecuteUbergraph_WB_LevelUpCard [Script Bytecode]
+msgctxt ",6BF0573C427FC23BB724F5BCBCC7B417"
+msgid "Level: {i}"
+msgstr "Level: {i}"
+
+#. Key:	6E09AB0742C8FA9AF575A593CBFF758D
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.96.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.96.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",6E09AB0742C8FA9AF575A593CBFF758D"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	6E0FE12D45AB3B05A7FAB89D34C752FC
+#. SourceLocation:	/Game/Asian_Armour/Base/DemoContent/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_5.ChannelNames.R
+#: /Game/Asian_Armour/Base/DemoContent/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_5.ChannelNames.R
+msgctxt ",6E0FE12D45AB3B05A7FAB89D34C752FC"
+msgid "ClearCoatRoughness"
+msgstr "ClearCoatRoughness"
+
+#. Key:	6E9643A4474E9C30EB153C8B5FC2732A
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_PlayerHud.WB_PlayerHud_C:WidgetTree.Health.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_PlayerHud.WB_PlayerHud_C:WidgetTree.Health.Text
+msgctxt ",6E9643A4474E9C30EB153C8B5FC2732A"
+msgid "Health"
+msgstr "Health"
+
+#. Key:	6EC6774A4BE7D041421BC6BC92233F4D
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor28.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor28.NewTextRenderComponent.Text
+msgctxt ",6EC6774A4BE7D041421BC6BC92233F4D"
+msgid "Type 07"
+msgstr "Type 07"
+
+#. Key:	6F6876DE46DB07699499D5AB0354408A
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.200.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.200.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",6F6876DE46DB07699499D5AB0354408A"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	709DE40F480AA77ACA4F23A7A573F6E4
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.194.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.194.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",709DE40F480AA77ACA4F23A7A573F6E4"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	71943B3540DE266A0F69CCB5E61A86B6
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_TalentMenu.WB_TalentMenu_C:WidgetTree.TextBlock.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_TalentMenu.WB_TalentMenu_C:WidgetTree.TextBlock.Text
+msgctxt ",71943B3540DE266A0F69CCB5E61A86B6"
+msgid "+"
+msgstr "+"
+
+#. Key:	71AAEB5742A8CEBBDF69F192D1EA5D4C
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.213.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.213.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",71AAEB5742A8CEBBDF69F192D1EA5D4C"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	723AB2954B1728D81C3777AEF33F212F
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_StoreInfo.DT_StoreInfo.1.Describ_25_5B63B91C466F73F0FABE0FBD4B8269C6
+#: /Game/Survivors/Blueprints/DataTables/DT_StoreInfo.DT_StoreInfo.1.Describ_25_5B63B91C466F73F0FABE0FBD4B8269C6
+msgctxt ",723AB2954B1728D81C3777AEF33F212F"
+msgid "Little Gemstone"
+msgstr "Little Gemstone"
+
+#. Key:	7240D3E3404F4086C536AAABEF8AFE46
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.210.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.210.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",7240D3E3404F4086C536AAABEF8AFE46"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	72B3143D49F7C02CB88EB884E659ED6A
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_HostMenu.WB_HostMenu_C:WidgetTree.TextBlock_79.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_HostMenu.WB_HostMenu_C:WidgetTree.TextBlock_79.Text
+msgctxt ",72B3143D49F7C02CB88EB884E659ED6A"
+msgid "Max Players"
+msgstr "Max Players"
+
+#. Key:	7311445D4FC63D0826E738999240176D
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_TalentInfo.WB_TalentInfo_C:WidgetTree.Text_Unlock_NeedGold.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_TalentInfo.WB_TalentInfo_C:WidgetTree.Text_Unlock_NeedGold.Text
+msgctxt ",7311445D4FC63D0826E738999240176D"
+msgid "xXXX"
+msgstr "xXXX"
+
+#. Key:	74C76A6345EAEA866E9E8583723876FC
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_CharacterSelectionItem.WB_CharacterSelectionItem_C:WidgetTree.TextBlock_Description.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_CharacterSelectionItem.WB_CharacterSelectionItem_C:WidgetTree.TextBlock_Description.Text
+msgctxt ",74C76A6345EAEA866E9E8583723876FC"
+msgid "Starting Ability: Hammer"
+msgstr "Starting Ability: Hammer"
+
+#. Key:	76B0ACF6408ABB447456CFB327D6475F
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.251.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.251.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",76B0ACF6408ABB447456CFB327D6475F"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	76B167AD4B9CD4D049BB04B89C296251
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.273.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.273.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",76B167AD4B9CD4D049BB04B89C296251"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	76B5000D474AC87DC194CF8CED2D89A7
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.212.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.212.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",76B5000D474AC87DC194CF8CED2D89A7"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	76F922A4428DB8330A529FADD9BC8B69
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.206.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.206.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",76F922A4428DB8330A529FADD9BC8B69"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	77B72B304395D2188ABF3C8BCB7A0AE8
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.191.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.191.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",77B72B304395D2188ABF3C8BCB7A0AE8"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	7878C08E44C46041E6024CBDA081AE39
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LevelUpItems.WB_LevelUpItems_C:WidgetTree.TextBlock_41.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LevelUpItems.WB_LevelUpItems_C:WidgetTree.TextBlock_41.Text
+msgctxt ",7878C08E44C46041E6024CBDA081AE39"
+msgid "LEVEL UP!"
+msgstr "LEVEL UP!"
+
+#. Key:	790F7B154FA1AC451D9CEC83CFBEBADE
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.41.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.41.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",790F7B154FA1AC451D9CEC83CFBEBADE"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	7933B8ED4AD4104452FDC7B33A23C73F
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.237.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.237.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",7933B8ED4AD4104452FDC7B33A23C73F"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	794064D94DAC6F685A49F0BD4651A166
+#. SourceLocation:	/Game/Asian_Armour/Base/Materials/MaterialFunctions/MF_RGBA_PatternBlend.MF_RGBA_PatternBlend:MaterialExpressionTextureSampleParameter2D_2.ChannelNames.B
+#: /Game/Asian_Armour/Base/Materials/MaterialFunctions/MF_RGBA_PatternBlend.MF_RGBA_PatternBlend:MaterialExpressionTextureSampleParameter2D_2.ChannelNames.B
+msgctxt ",794064D94DAC6F685A49F0BD4651A166"
+msgid "Metallic"
+msgstr "Metallic"
+
+#. Key:	7955051141D818DF5E08C6A344431AA4
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.24.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.24.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",7955051141D818DF5E08C6A344431AA4"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	797641064F20D4A60AD703B14C4E74EE
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/System/BP_Gameplay_PlayerController.BP_Gameplay_PlayerController_C:ExecuteLevelUp [Script Bytecode]
+#: /Game/SurvivorsTemplate/Blueprints/System/BP_Gameplay_PlayerController.BP_Gameplay_PlayerController_C:ExecuteLevelUp [Script Bytecode]
+msgctxt ",797641064F20D4A60AD703B14C4E74EE"
+msgid "Health Potion"
+msgstr "Health Potion"
+
+#. Key:	79F21D9C464E5345E6D88795DCCB900D
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.CharacterLevelLabel.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.CharacterLevelLabel.Text
+msgctxt ",79F21D9C464E5345E6D88795DCCB900D"
+msgid "1"
+msgstr "1"
+
+#. Key:	7A82550A411ADDD59996948145B81F71
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.240.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.240.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",7A82550A411ADDD59996948145B81F71"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	7B6252F346E6488B7791C39860089B6B
+#. SourceLocation:	/Game/Asian_Armour/Base/Materials/M_Skin.M_Skin:MaterialExpressionTextureSampleParameter2D_10.ChannelNames.R
+#: /Game/Asian_Armour/Base/Materials/M_Skin.M_Skin:MaterialExpressionTextureSampleParameter2D_10.ChannelNames.R
+msgctxt ",7B6252F346E6488B7791C39860089B6B"
+msgid "Occlusion"
+msgstr "Occlusion"
+
+#. Key:	7BBC3E8A4E4454EFDF1554B879E819DC
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.167.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.167.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",7BBC3E8A4E4454EFDF1554B879E819DC"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	7BD5CBE042773674CC22C0BE936784B8
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.MapName.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.MapName.Text
+msgctxt ",7BD5CBE042773674CC22C0BE936784B8"
+msgid "Select Map"
+msgstr "Select Map"
+
+#. Key:	7C12339D4450785B2F6CB7B214549BC3
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.291.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.291.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",7C12339D4450785B2F6CB7B214549BC3"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	7C6DC505490F143F93B731B74308B28C
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.Hammer1.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.Hammer1.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",7C6DC505490F143F93B731B74308B28C"
+msgid "Damages all enemies in small radius"
+msgstr "Damages all enemies in small radius"
+
+#. Key:	7C9218A84B66921B8284FBBDA3EFBEBA
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.66.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.66.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",7C9218A84B66921B8284FBBDA3EFBEBA"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	7D3AB63B4303BD250DB778B77ED45ABD
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_TalentMenu.WB_TalentMenu_C:WidgetTree.CharacterLevelTitle.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_TalentMenu.WB_TalentMenu_C:WidgetTree.CharacterLevelTitle.Text
+msgctxt ",7D3AB63B4303BD250DB778B77ED45ABD"
+msgid "Lv. "
+msgstr "Lv. "
+
+#. Key:	7DA767004D8F3F26101E159703465670
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.159.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.159.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",7DA767004D8F3F26101E159703465670"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	7E78805040EEE690DF13679976FEFD84
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor17.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor17.NewTextRenderComponent.Text
+msgctxt ",7E78805040EEE690DF13679976FEFD84"
+msgid "Type 16"
+msgstr "Type 16"
+
+#. Key:	7F27376B497F6A2F689CBE8CF4A4E7F1
+#. SourceLocation:	/Game/Survivors/Blueprints/WidgetBP/WB_StorePanel.WB_StorePanel_C:WidgetTree.TextSapphire.Text
+#: /Game/Survivors/Blueprints/WidgetBP/WB_StorePanel.WB_StorePanel_C:WidgetTree.TextSapphire.Text
+msgctxt ",7F27376B497F6A2F689CBE8CF4A4E7F1"
+msgid "Gemstone"
+msgstr "Gemstone"
+
+#. Key:	8165E7014D28DAA07022BA840817486B
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.Hammer-1.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.Hammer-1.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",8165E7014D28DAA07022BA840817486B"
+msgid "15% Crit chance"
+msgstr "15% Crit chance"
+
+#. Key:	819BE1CE4E42CE00719D49B7BAC6E541
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.132.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.132.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",819BE1CE4E42CE00719D49B7BAC6E541"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	82167C7A4A2AA0263F407EA7564C190B
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.5.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.5.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+msgctxt ",82167C7A4A2AA0263F407EA7564C190B"
+msgid "The sand dunes are continuous, high and low, with some sounds coming from within, indicating that the interior is not calm????"
+msgstr "The sand dunes are continuous, high and low, with some sounds coming from within, indicating that the interior is not calm????"
+
+#. Key:	8223B5E54CCC3E5A7A944A9C163FFF66
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.183.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.183.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",8223B5E54CCC3E5A7A944A9C163FFF66"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	827470714013CE6A41E3F29DCE8CCB40
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_HostMenu.WB_HostMenu_C:ExecuteUbergraph_WB_HostMenu [Script Bytecode]
+#: /Game/SurvivorsTemplate/Widgets/WB_HostMenu.WB_HostMenu_C:ExecuteUbergraph_WB_HostMenu [Script Bytecode]
+msgctxt ",827470714013CE6A41E3F29DCE8CCB40"
+msgid "Entering Lobby"
+msgstr "Entering Lobby"
+
+#. Key:	82DA8EE94188A81B5A41C5AFA6DEDBC4
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.33.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.33.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",82DA8EE94188A81B5A41C5AFA6DEDBC4"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	83A8D32244689CC8852759A9B32D43F1
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.95.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.95.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",83A8D32244689CC8852759A9B32D43F1"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	83F09F34474937FADFEF66AC87E969B4
+#. SourceLocation:	/Game/Asian_Armour/Base/DemoContent/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_6.ChannelNames.B
+#: /Game/Asian_Armour/Base/DemoContent/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_6.ChannelNames.B
+msgctxt ",83F09F34474937FADFEF66AC87E969B4"
+msgid "Roughness"
+msgstr "Roughness"
+
+#. Key:	844F9E9849D78634F19FDE821C20BBBE
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.7.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.7.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+msgctxt ",844F9E9849D78634F19FDE821C20BBBE"
+msgid "No one cares about your safety, you have to find a way to take them down????"
+msgstr "No one cares about your safety, you have to find a way to take them down????"
+
+#. Key:	8521081447DC5AF78DF86B9CD342CE52
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/Enums/E_AbilityType.E_AbilityType.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/SurvivorsTemplate/Blueprints/Enums/E_AbilityType.E_AbilityType.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",8521081447DC5AF78DF86B9CD342CE52"
+msgid "Gold"
+msgstr "Gold"
+
+#. Key:	8669978A447FC892E06887896139A8D8
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.Lightning1.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.Lightning1.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",8669978A447FC892E06887896139A8D8"
+msgid "Fire at random enemies"
+msgstr "Fire at random enemies"
+
+#. Key:	878D90DA45B60BA713A9E18CFF98E52B
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor10.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor10.NewTextRenderComponent.Text
+msgctxt ",878D90DA45B60BA713A9E18CFF98E52B"
+msgid "Type 10"
+msgstr "Type 10"
+
+#. Key:	885D0BBC436DE3E35C4B8DA26E10C91B
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.224.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.224.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",885D0BBC436DE3E35C4B8DA26E10C91B"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	8920B4BD497F92E8354F8E8F8E947E4D
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_TalentMenu.WB_TalentMenu_C:UnlockTalentNow [Script Bytecode]
+#: /Game/SurvivorsTemplate/Widgets/WB_TalentMenu.WB_TalentMenu_C:UnlockTalentNow [Script Bytecode]
+msgctxt ",8920B4BD497F92E8354F8E8F8E947E4D"
+msgid "Not Enough Gold"
+msgstr "Not Enough Gold"
+
+#. Key:	892811E64034B5E3EF28A58CC3DC54C0
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_ServerBrowser.WB_ServerBrowser_C:WidgetTree.TextBlock_148.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_ServerBrowser.WB_ServerBrowser_C:WidgetTree.TextBlock_148.Text
+msgctxt ",892811E64034B5E3EF28A58CC3DC54C0"
+msgid "SERVER BROWSER"
+msgstr "SERVER BROWSER"
+
+#. Key:	897A07A048BCF1BB3FB2A1BA93E50F17
+#. SourceLocation:	/Game/Asian_Armour/Base/DemoContent/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_6.ChannelNames.R
+#: /Game/Asian_Armour/Base/DemoContent/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_6.ChannelNames.R
+msgctxt ",897A07A048BCF1BB3FB2A1BA93E50F17"
+msgid "Metallic"
+msgstr "Metallic"
+
+#. Key:	89DD207A4AFE55ECB35FD78489EBEDE8
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.10.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.10.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+msgctxt ",89DD207A4AFE55ECB35FD78489EBEDE8"
+msgid "Mountain_4"
+msgstr "Mountain_4"
+
+#. Key:	8A48BA80466B70C61EF8C8892183E16C
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.TextBlock.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.TextBlock.Text
+msgctxt ",8A48BA80466B70C61EF8C8892183E16C"
+msgid "Multi Game"
+msgstr "Multi Game"
+
+#. Key:	8A67BC4C47B9FF1A2F33F19059FDE4DF
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_TalentInfoMobile.WB_TalentInfoMobile_C:WidgetTree.Text_Unlock_NeedGold.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_TalentInfoMobile.WB_TalentInfoMobile_C:WidgetTree.Text_Unlock_NeedGold.Text
+msgctxt ",8A67BC4C47B9FF1A2F33F19059FDE4DF"
+msgid "xXXX"
+msgstr "xXXX"
+
+#. Key:	8A8C54D34231CDA5057D8EBCF7EA2298
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.26.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.26.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",8A8C54D34231CDA5057D8EBCF7EA2298"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	8B66C3B24A26895E1AE63CB49226FEE5
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.168.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.168.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",8B66C3B24A26895E1AE63CB49226FEE5"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	8C875B374B5326BA3EC14C82142DDFE7
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.219.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.219.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",8C875B374B5326BA3EC14C82142DDFE7"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	8CF43B3E490AB37AF0546BBD3953605F
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.258.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.258.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",8CF43B3E490AB37AF0546BBD3953605F"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	8D17059447A494FAD8D1CE83FD61B80A
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.27.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.27.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",8D17059447A494FAD8D1CE83FD61B80A"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	8EBFD9F346E3FF314249898CC598702A
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.263.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.263.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",8EBFD9F346E3FF314249898CC598702A"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	8EC0862942C0D218D89126BA61005A5F
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor74.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor74.NewTextRenderComponent.Text
+msgctxt ",8EC0862942C0D218D89126BA61005A5F"
+msgid "cinematic grass"
+msgstr "cinematic grass"
+
+#. Key:	8EF348014DE70B260AD00E9C33BD82D1
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.209.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.209.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",8EF348014DE70B260AD00E9C33BD82D1"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	90EB48854679B845EADBCAB2134ED727
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.72.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.72.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",90EB48854679B845EADBCAB2134ED727"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	91E052964B73046F7692F4AF2E1C631F
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_TalentMenu.WB_TalentMenu_C:UnlockTalentNow [Script Bytecode]
+#: /Game/SurvivorsTemplate/Widgets/WB_TalentMenu.WB_TalentMenu_C:UnlockTalentNow [Script Bytecode]
+msgctxt ",91E052964B73046F7692F4AF2E1C631F"
+msgid "Use {cost} gold to unlock {item} ?"
+msgstr "Use {cost} gold to unlock {item} ?"
+
+#. Key:	926DB3D24B2FEB05449966A6E104531F
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.TextBlock_NotLaunchGame.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.TextBlock_NotLaunchGame.Text
+msgctxt ",926DB3D24B2FEB05449966A6E104531F"
+msgid "Map is Lock, Can not launch the game!"
+msgstr "Map is Lock, Can not launch the game!"
+
+#. Key:	9307923F40AADEE36C31C2BC88FD13F0
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.288.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.288.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",9307923F40AADEE36C31C2BC88FD13F0"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	93217BD14677417A35B388A790FA15BA
+#. SourceLocation:	/Game/Asian_Armour/Base/Materials/MaterialFunctions/MF_RGBA_PatternBlend.MF_RGBA_PatternBlend:MaterialExpressionTextureSampleParameter2D_2.ChannelNames.R
+#: /Game/Asian_Armour/Base/Materials/MaterialFunctions/MF_RGBA_PatternBlend.MF_RGBA_PatternBlend:MaterialExpressionTextureSampleParameter2D_2.ChannelNames.R
+msgctxt ",93217BD14677417A35B388A790FA15BA"
+msgid "Occlusion"
+msgstr "Occlusion"
+
+#. Key:	9335EB2F40B235627BA8C2A79E46108A
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.299.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.299.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",9335EB2F40B235627BA8C2A79E46108A"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	9399283A4322FF4A7AD08795C8EF7061
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.152.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.152.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",9399283A4322FF4A7AD08795C8EF7061"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	94568AC7471BB06550A680805EADFBB1
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.1.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.1.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+msgctxt ",94568AC7471BB06550A680805EADFBB1"
+msgid "Afghan_1"
+msgstr "Afghan_1"
+
+#. Key:	950F97A4403B05785A610DAF2A8DEAAA
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.218.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.218.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",950F97A4403B05785A610DAF2A8DEAAA"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	9557C01742C7118E241C6FB550456BF7
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.23.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.23.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",9557C01742C7118E241C6FB550456BF7"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	9589EC564144001C6204E5A4ADC1AF22
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.21.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.21.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",9589EC564144001C6204E5A4ADC1AF22"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	959A42F9498DBC8BB78856ACD0CDCCA9
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_ServerItem.WB_ServerItem_C:WidgetTree.TextBlock_Name.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_ServerItem.WB_ServerItem_C:WidgetTree.TextBlock_Name.Text
+msgctxt ",959A42F9498DBC8BB78856ACD0CDCCA9"
+msgid "Server Name"
+msgstr "Server Name"
+
+#. Key:	95BC825843AEFB7E1090BBA886917B24
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.TextBlock_2.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.TextBlock_2.Text
+msgctxt ",95BC825843AEFB7E1090BBA886917B24"
+msgid "Talent"
+msgstr "Talent"
+
+#. Key:	95EEA1A94C53AC4D2417BFB2E8FC906D
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/System/BP_Gameplay_PlayerController.BP_Gameplay_PlayerController_C:BuildAndProcessChest [Script Bytecode]
+#: /Game/SurvivorsTemplate/Blueprints/System/BP_Gameplay_PlayerController.BP_Gameplay_PlayerController_C:BuildAndProcessChest [Script Bytecode]
+msgctxt ",95EEA1A94C53AC4D2417BFB2E8FC906D"
+msgid "Bonus"
+msgstr "Bonus"
+
+#. Key:	9685E6FF4E142FD5589117B600F17CC0
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor21.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor21.NewTextRenderComponent.Text
+msgctxt ",9685E6FF4E142FD5589117B600F17CC0"
+msgid "Type 20"
+msgstr "Type 20"
+
+#. Key:	96B74B304D60A71C52020C977CB15B25
+#. SourceLocation:	/Game/Survivors/Blueprints/WidgetBP/WB_StoreButton.WB_StoreButton_C:WidgetTree.StorePrice.Text
+#: /Game/Survivors/Blueprints/WidgetBP/WB_StoreButton.WB_StoreButton_C:WidgetTree.StorePrice.Text
+msgctxt ",96B74B304D60A71C52020C977CB15B25"
+msgid "6"
+msgstr "6"
+
+#. Key:	96F46B0D4E15F624AE81D09604EB3133
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_PassiveAbilities.DT_PassiveAbilities.AbilityCoolDownReduction.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_PassiveAbilities.DT_PassiveAbilities.AbilityCoolDownReduction.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",96F46B0D4E15F624AE81D09604EB3133"
+msgid "Cooldown reduced by 5%"
+msgstr "Cooldown reduced by 5%"
+
+#. Key:	97140B5D4A6A461DFB232AB9BA35ACC6
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.141.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.141.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",97140B5D4A6A461DFB232AB9BA35ACC6"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	9738463548371158BAD5A1AE542D73DF
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.98.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.98.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",9738463548371158BAD5A1AE542D73DF"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	98F0E06B4B3A1CF3FCCF02A9DBF5B9CF
+#. SourceLocation:	/Game/Asian_Armour/Base/Materials/M_Skin.M_Skin:MaterialExpressionTextureSampleParameter2D_10.ChannelNames.B
+#: /Game/Asian_Armour/Base/Materials/M_Skin.M_Skin:MaterialExpressionTextureSampleParameter2D_10.ChannelNames.B
+msgctxt ",98F0E06B4B3A1CF3FCCF02A9DBF5B9CF"
+msgid "Specular"
+msgstr "Specular"
+
+#. Key:	99290B8D430C24E0E617C59A0CBE7E52
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.164.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.164.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",99290B8D430C24E0E617C59A0CBE7E52"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	9A0161024CAF8B92E7849097358BE8E5
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/Enums/E_EnemyState.E_EnemyState.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/SurvivorsTemplate/Blueprints/Enums/E_EnemyState.E_EnemyState.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",9A0161024CAF8B92E7849097358BE8E5"
+msgid "Disabled"
+msgstr "Disabled"
+
+#. Key:	9ABBF5AD4F9DA9B4BFC25DB7D2817A90
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.264.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.264.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",9ABBF5AD4F9DA9B4BFC25DB7D2817A90"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	9AF2506A49F8CC59F25892B9CAA23083
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.102.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.102.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",9AF2506A49F8CC59F25892B9CAA23083"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	9B0BD8974D04FCF35888CF95F7485590
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.287.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.287.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",9B0BD8974D04FCF35888CF95F7485590"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	9B45E99C4DA80E1A6A22FEA3A9948FA8
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.TextBlock_ClientStatus.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.TextBlock_ClientStatus.Text
+msgctxt ",9B45E99C4DA80E1A6A22FEA3A9948FA8"
+msgid "Waiting on host to start game"
+msgstr "Waiting on host to start game"
+
+#. Key:	9B7344DA46992B136E209BA0DE2311F6
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FireBall2.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FireBall2.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",9B7344DA46992B136E209BA0DE2311F6"
+msgid "Damage increased by 4"
+msgstr "Damage increased by 4"
+
+#. Key:	9C17613649C606935ABA97911C939137
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.134.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.134.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",9C17613649C606935ABA97911C939137"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	9C3B55BF4A7F20C83873A3B06906804A
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/Character/BP_Lobby_Character.BP_Lobby_Character_C:TextRender_GEN_VARIABLE.Text
+#: /Game/SurvivorsTemplate/Blueprints/Character/BP_Lobby_Character.BP_Lobby_Character_C:TextRender_GEN_VARIABLE.Text
+msgctxt ",9C3B55BF4A7F20C83873A3B06906804A"
+msgid "Class Character"
+msgstr "Class Character"
+
+#. Key:	9C7A76AB47ABAA47CC1295BE037E3F4A
+#. SourceLocation:	/Game/Asian_Armour/Base/DemoContent/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_4.ChannelNames.G
+#: /Game/Asian_Armour/Base/DemoContent/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_4.ChannelNames.G
+msgctxt ",9C7A76AB47ABAA47CC1295BE037E3F4A"
+msgid "AO"
+msgstr "AO"
+
+#. Key:	9DA81711419FC9A2AE70D0882B526750
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.131.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.131.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",9DA81711419FC9A2AE70D0882B526750"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	9DEA4CA8402527F9008B4CAC88874514
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.189.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.189.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",9DEA4CA8402527F9008B4CAC88874514"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	9F015C55436D5438155A918E73F4A5BC
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.297.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.297.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",9F015C55436D5438155A918E73F4A5BC"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	9F411C7E48597A04ECD1789172E86D39
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.158.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.158.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",9F411C7E48597A04ECD1789172E86D39"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	A080FA614C1C2FE0833198B4169BDEA3
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/Enums/E_ActiveAbilities.E_ActiveAbilities.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/SurvivorsTemplate/Blueprints/Enums/E_ActiveAbilities.E_ActiveAbilities.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",A080FA614C1C2FE0833198B4169BDEA3"
+msgid "Lightning"
+msgstr "Lightning"
+
+#. Key:	A122370A463D62E46E0B4981BF06F10B
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.4.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.4.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+msgctxt ",A122370A463D62E46E0B4981BF06F10B"
+msgid "This place is far from the hustle and bustle of the city, and there are dangerous creatures everywhere????"
+msgstr "This place is far from the hustle and bustle of the city, and there are dangerous creatures everywhere????"
+
+#. Key:	A16D04FB43AAC5A3906EDEB4A20DA19B
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.267.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.267.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",A16D04FB43AAC5A3906EDEB4A20DA19B"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	A2550AE248DFF3F2448D96AB8598B128
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.117.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.117.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",A2550AE248DFF3F2448D96AB8598B128"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	A2C1997D4E902CF682909C904ABDCBFD
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.119.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.119.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",A2C1997D4E902CF682909C904ABDCBFD"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	A40A4BB940D7B7A485805A81EF051504
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_ServerBrowser.WB_ServerBrowser_C:WidgetTree.TextBlock_234.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_ServerBrowser.WB_ServerBrowser_C:WidgetTree.TextBlock_234.Text
+msgctxt ",A40A4BB940D7B7A485805A81EF051504"
+msgid "Server Name"
+msgstr "Server Name"
+
+#. Key:	A5030DCC40AAEA787E29A991C5E0F6F7
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/System/BP_Gameplay_PlayerController.BP_Gameplay_PlayerController_C:ExecuteLevelUp [Script Bytecode]
+#: /Game/SurvivorsTemplate/Blueprints/System/BP_Gameplay_PlayerController.BP_Gameplay_PlayerController_C:ExecuteLevelUp [Script Bytecode]
+msgctxt ",A5030DCC40AAEA787E29A991C5E0F6F7"
+msgid "{skill}{level}"
+msgstr "{skill}{level}"
+
+#. Key:	A55D703948A96B10E0EF0FB27A092FAB
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_TalentInfoMobile.WB_TalentInfoMobile_C:WidgetTree.Text_Unlock.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_TalentInfoMobile.WB_TalentInfoMobile_C:WidgetTree.Text_Unlock.Text
+msgctxt ",A55D703948A96B10E0EF0FB27A092FAB"
+msgid "UnLock"
+msgstr "UnLock"
+
+#. Key:	A583EF7640D1AB8011514A95F7C4EDFC
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.198.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.198.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",A583EF7640D1AB8011514A95F7C4EDFC"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	A65AAA44428CD27ED5CF738C1679E570
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.30.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.30.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",A65AAA44428CD27ED5CF738C1679E570"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	A6C8175A4103DBE6DA89E5B1AFE48AE7
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_MatchResults.WB_MatchResults_C:WidgetTree.TextBlock_Resurrection.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_MatchResults.WB_MatchResults_C:WidgetTree.TextBlock_Resurrection.Text
+msgctxt ",A6C8175A4103DBE6DA89E5B1AFE48AE7"
+msgid "Resurrection"
+msgstr "Resurrection"
+
+#. Key:	A6D2B9E34EBA569E8396C3A23A75E29A
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor24.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor24.NewTextRenderComponent.Text
+msgctxt ",A6D2B9E34EBA569E8396C3A23A75E29A"
+msgid "Type 03"
+msgstr "Type 03"
+
+#. Key:	A7166A074ADA0BC923AE9FAEC406C6F3
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_RewardItem.WB_RewardItem_C:WidgetTree.TextBlock_Number.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_RewardItem.WB_RewardItem_C:WidgetTree.TextBlock_Number.Text
+msgctxt ",A7166A074ADA0BC923AE9FAEC406C6F3"
+msgid "x2500"
+msgstr "x2500"
+
+#. Key:	A78D957444A9829B05CBB8A4198A330B
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.146.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.146.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",A78D957444A9829B05CBB8A4198A330B"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	A7A852E14D20E14FCC3B4E933E4D41C1
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.296.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.296.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",A7A852E14D20E14FCC3B4E933E4D41C1"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	A7C8DF274D290FD1BF2C6E9B69A2B3FC
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_CharacterSelectionItem.WB_CharacterSelectionItem_C:WidgetTree.TextBlock_Character.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_CharacterSelectionItem.WB_CharacterSelectionItem_C:WidgetTree.TextBlock_Character.Text
+msgctxt ",A7C8DF274D290FD1BF2C6E9B69A2B3FC"
+msgid "Character"
+msgstr "Character"
+
+#. Key:	A8063FF24DD22F4932960B88103C6E75
+#. SourceLocation:	/Game/Asian_Armour/Base/DemoContent/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_4.ChannelNames.B
+#: /Game/Asian_Armour/Base/DemoContent/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_4.ChannelNames.B
+msgctxt ",A8063FF24DD22F4932960B88103C6E75"
+msgid "MetalPaintMask"
+msgstr "MetalPaintMask"
+
+#. Key:	A8B37CC24DED02054EDE4E80CCDD8225
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.272.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.272.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",A8B37CC24DED02054EDE4E80CCDD8225"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	A9C2149A4877A03CAC66E688BA8D33D6
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_HostMenu.WB_HostMenu_C:WidgetTree.TextBlock_1.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_HostMenu.WB_HostMenu_C:WidgetTree.TextBlock_1.Text
+msgctxt ",A9C2149A4877A03CAC66E688BA8D33D6"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	AA0D9EA849B1592B10AAD58BEDE61811
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.63.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.63.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",AA0D9EA849B1592B10AAD58BEDE61811"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	AB0BE122480C88A32A79E89717B50E27
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.90.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.90.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",AB0BE122480C88A32A79E89717B50E27"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	AB4F2DDD4D47F1D5B54D688D9E125CBE
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.TextBlock_Players.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.TextBlock_Players.Text
+msgctxt ",AB4F2DDD4D47F1D5B54D688D9E125CBE"
+msgid "1 Player in Lobby"
+msgstr "1 Player in Lobby"
+
+#. Key:	AC4C4BD248F5A7D7D6A80A80A7BFD4B7
+#. SourceLocation:	/Game/Survivors/Blueprints/WidgetBP/WB_StorePanel.WB_StorePanel_C:WidgetTree.TextBlock_Store.Text
+#: /Game/Survivors/Blueprints/WidgetBP/WB_StorePanel.WB_StorePanel_C:WidgetTree.TextBlock_Store.Text
+msgctxt ",AC4C4BD248F5A7D7D6A80A80A7BFD4B7"
+msgid "Store"
+msgstr "Store"
+
+#. Key:	ADB7D34D4C9F0FFB63EFDE9FDCA70FF9
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/Enums/E_TalentType.E_TalentType.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/SurvivorsTemplate/Blueprints/Enums/E_TalentType.E_TalentType.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",ADB7D34D4C9F0FFB63EFDE9FDCA70FF9"
+msgid "HEALTH"
+msgstr "HEALTH"
+
+#. Key:	ADD5229E40374F3EC63EA09658D97A29
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.6.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.6.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+msgctxt ",ADD5229E40374F3EC63EA09658D97A29"
+msgid "Desert"
+msgstr "Desert"
+
+#. Key:	AED0106F4401756A1C99208BDF660783
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_GameMenu.WB_GameMenu_C:WidgetTree.TextBlock.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_GameMenu.WB_GameMenu_C:WidgetTree.TextBlock.Text
+msgctxt ",AED0106F4401756A1C99208BDF660783"
+msgid "Quit to menu"
+msgstr "Quit to menu"
+
+#. Key:	AF2295444287579550B1549199D894EF
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.2.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.2.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+msgctxt ",AF2295444287579550B1549199D894EF"
+msgid "The clue points forward, it seems like a desert has appeared ahead????"
+msgstr "The clue points forward, it seems like a desert has appeared ahead????"
+
+#. Key:	AF4A803741A48C38DA56E5AA1AA7970A
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.3.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.3.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",AF4A803741A48C38DA56E5AA1AA7970A"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	B0064884436F3EAF382493930E28F076
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_ChestMaster.WB_ChestMaster_C:WidgetTree.TextBlock_224.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_ChestMaster.WB_ChestMaster_C:WidgetTree.TextBlock_224.Text
+msgctxt ",B0064884436F3EAF382493930E28F076"
+msgid "Continue"
+msgstr "Continue"
+
+#. Key:	B0B6548041FA48D0567121AE0FAEF204
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/System/BP_Gameplay_PlayerController.BP_Gameplay_PlayerController_C:ExecuteLevelUp [Script Bytecode]
+#: /Game/SurvivorsTemplate/Blueprints/System/BP_Gameplay_PlayerController.BP_Gameplay_PlayerController_C:ExecuteLevelUp [Script Bytecode]
+msgctxt ",B0B6548041FA48D0567121AE0FAEF204"
+msgid "Gold Pile"
+msgstr "Gold Pile"
+
+#. Key:	B10F378A40F0946A42570A912D7174DB
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.10.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.10.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+msgctxt ",B10F378A40F0946A42570A912D7174DB"
+msgid "This place is a necessary passage for us to move forward, and we must pass through it????"
+msgstr "This place is a necessary passage for us to move forward, and we must pass through it????"
+
+#. Key:	B1500FDE41A92C195A8D199874CF36FE
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LevelUpCard.WB_LevelUpCard_C:WidgetTree.TextBlock_Level.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LevelUpCard.WB_LevelUpCard_C:WidgetTree.TextBlock_Level.Text
+msgctxt ",B1500FDE41A92C195A8D199874CF36FE"
+msgid "Level X"
+msgstr "Level X"
+
+#. Key:	B22838514B39288AA0247CA9D17CF349
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_ServerItem.WB_ServerItem_C:WidgetTree.TextBlock_Players.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_ServerItem.WB_ServerItem_C:WidgetTree.TextBlock_Players.Text
+msgctxt ",B22838514B39288AA0247CA9D17CF349"
+msgid "2/4"
+msgstr "2/4"
+
+#. Key:	B238528742A5691AEA147886166A1616
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_CharacterSelectionItem.WB_CharacterSelectionItem_C:ExecuteUbergraph_WB_CharacterSelectionItem [Script Bytecode]
+#: /Game/SurvivorsTemplate/Widgets/WB_CharacterSelectionItem.WB_CharacterSelectionItem_C:ExecuteUbergraph_WB_CharacterSelectionItem [Script Bytecode]
+msgctxt ",B238528742A5691AEA147886166A1616"
+msgid "Unlock {item} for {cost} gold?"
+msgstr "Unlock {item} for {cost} gold?"
+
+#. Key:	B277C1E04D635B56A64E63B3FFDD02B3
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.246.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.246.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",B277C1E04D635B56A64E63B3FFDD02B3"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	B358AB4847D7C1ACA9B3E8B17E2EAA07
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.228.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.228.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",B358AB4847D7C1ACA9B3E8B17E2EAA07"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	B3AA3F20422876F9837F5598122DDEE8
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.270.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.270.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",B3AA3F20422876F9837F5598122DDEE8"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	B4B035E54D55776AC160DB84C70C83F1
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_HostMenu.WB_HostMenu_C:WidgetTree.TextBlock.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_HostMenu.WB_HostMenu_C:WidgetTree.TextBlock.Text
+msgctxt ",B4B035E54D55776AC160DB84C70C83F1"
+msgid "Connection Type"
+msgstr "Connection Type"
+
+#. Key:	B4E7C0E7432243A085AB27A00365A3D8
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.62.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.62.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",B4E7C0E7432243A085AB27A00365A3D8"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	B5522E41456C49EF1D9600850071B853
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.29.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.29.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",B5522E41456C49EF1D9600850071B853"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	B5A37A44475C52166AF38489641F311B
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.LockText.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.LockText.Text
+msgctxt ",B5A37A44475C52166AF38489641F311B"
+msgid "Lock"
+msgstr "Lock"
+
+#. Key:	B69A1A824124173FF93A3ABC9AFF0951
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableCharacters.DT_AvailableCharacters.Char2.CharacterName_22_B0DB3485442944C2442843B1A1C9684F
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableCharacters.DT_AvailableCharacters.Char2.CharacterName_22_B0DB3485442944C2442843B1A1C9684F
+msgctxt ",B69A1A824124173FF93A3ABC9AFF0951"
+msgid "Teawine"
+msgstr "Teawine"
+
+#. Key:	B6E2F7E741C4A8EB766A56AAA9813757
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_StoreInfo.DT_StoreInfo.3.Describ_25_5B63B91C466F73F0FABE0FBD4B8269C6
+#: /Game/Survivors/Blueprints/DataTables/DT_StoreInfo.DT_StoreInfo.3.Describ_25_5B63B91C466F73F0FABE0FBD4B8269C6
+msgctxt ",B6E2F7E741C4A8EB766A56AAA9813757"
+msgid "Some Gemstone"
+msgstr "Some Gemstone"
+
+#. Key:	B703393A4E0A34BC78277FA485586657
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_GameMenu.WB_GameMenu_C:ExecuteUbergraph_WB_GameMenu [Script Bytecode]
+#: /Game/SurvivorsTemplate/Widgets/WB_GameMenu.WB_GameMenu_C:ExecuteUbergraph_WB_GameMenu [Script Bytecode]
+msgctxt ",B703393A4E0A34BC78277FA485586657"
+msgid "The income will not be saved now, are you sure quit now?"
+msgstr "The income will not be saved now, are you sure quit now?"
+
+#. Key:	B713C65E4917B9CA8B7511AFBE3165F1
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_MatchResults.WB_MatchResults_C:WidgetTree.TextBlock_Sure.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_MatchResults.WB_MatchResults_C:WidgetTree.TextBlock_Sure.Text
+msgctxt ",B713C65E4917B9CA8B7511AFBE3165F1"
+msgid "Sure"
+msgstr "Sure"
+
+#. Key:	B733A5354A768F7F9A5D4CA46EC04FC5
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.252.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.252.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",B733A5354A768F7F9A5D4CA46EC04FC5"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	B8198E4C46452D393FC5F9B898CE569E
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.101.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.101.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",B8198E4C46452D393FC5F9B898CE569E"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	B82FDB4A4E6E19B1F32859B139C5F721
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_MainMenu.WB_MainMenu_C:ExecuteUbergraph_WB_MainMenu [Script Bytecode]
+#: /Game/SurvivorsTemplate/Widgets/WB_MainMenu.WB_MainMenu_C:ExecuteUbergraph_WB_MainMenu [Script Bytecode]
+msgctxt ",B82FDB4A4E6E19B1F32859B139C5F721"
+msgid "Entering Lobby"
+msgstr "Entering Lobby"
+
+#. Key:	B8B9E7E4499BEACFCBF6BD8D81BD7220
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_InfoPopup.WB_InfoPopup_C:WidgetTree.TextBlock_125.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_InfoPopup.WB_InfoPopup_C:WidgetTree.TextBlock_125.Text
+msgctxt ",B8B9E7E4499BEACFCBF6BD8D81BD7220"
+msgid "Okay"
+msgstr "Okay"
+
+#. Key:	B8C21A0B4D7ECE4597AFCE987CADBE95
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.165.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.165.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",B8C21A0B4D7ECE4597AFCE987CADBE95"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	BA4AF96043AAD1D8F9BB79B8D5F583A1
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.138.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.138.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",BA4AF96043AAD1D8F9BB79B8D5F583A1"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	BA57281347C6D0D53B8840B9B61CBAB7
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.5.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.5.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",BA57281347C6D0D53B8840B9B61CBAB7"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	BB23D0D742C82BD5AE8F02A22C60941E
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.215.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.215.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",BB23D0D742C82BD5AE8F02A22C60941E"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	BB72CA72494E88F971F694A0CD63ADDF
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.Hammer3.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.Hammer3.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",BB72CA72494E88F971F694A0CD63ADDF"
+msgid "Base area up by 10%"
+msgstr "Base area up by 10%"
+
+#. Key:	BD3476134C4E6FD11F79F599CF4D7D8C
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.170.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.170.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",BD3476134C4E6FD11F79F599CF4D7D8C"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	BD5E490A4A5EB0C4F52A148C1B7BB969
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.242.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.242.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",BD5E490A4A5EB0C4F52A148C1B7BB969"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	BDEAD11546DA5B9F9174DD9D76FC7472
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.257.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.257.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",BDEAD11546DA5B9F9174DD9D76FC7472"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	BE70CFA940D104D592E5F6BA6E905B73
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.12.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.12.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+msgctxt ",BE70CFA940D104D592E5F6BA6E905B73"
+msgid "Snowy"
+msgstr "Snowy"
+
+#. Key:	C0230DEA44A6C9108E82DC96F0F9F473
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.123.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.123.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",C0230DEA44A6C9108E82DC96F0F9F473"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	C07146274E2CEA5A125C428F7BFC6973
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.221.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.221.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",C07146274E2CEA5A125C428F7BFC6973"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	C10FB377423D1629804FE1ADB15D1C3F
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.150.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.150.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",C10FB377423D1629804FE1ADB15D1C3F"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	C239A5554E76BB49F06459A10CF6FEB0
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LevelUpCard.WB_LevelUpCard_C:WidgetTree.TextBlock_Name.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LevelUpCard.WB_LevelUpCard_C:WidgetTree.TextBlock_Name.Text
+msgctxt ",C239A5554E76BB49F06459A10CF6FEB0"
+msgid "Ability Name"
+msgstr "Ability Name"
+
+#. Key:	C2B17183462666EBF09929B10FA3CB64
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.188.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.188.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",C2B17183462666EBF09929B10FA3CB64"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	C2E133E546006B9081E2A8A60E00CAB0
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.110.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.110.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",C2E133E546006B9081E2A8A60E00CAB0"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	C335F53B40C3697D6C31E38E0E18A1DD
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.TextBlock_1.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.TextBlock_1.Text
+msgctxt ",C335F53B40C3697D6C31E38E0E18A1DD"
+msgid "Exit Game"
+msgstr "Exit Game"
+
+#. Key:	C335F66D443F48D461269A8658404ED5
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.86.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.86.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",C335F66D443F48D461269A8658404ED5"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	C33DB413477E3FEF0808599CE00C1661
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.78.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.78.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",C33DB413477E3FEF0808599CE00C1661"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	C34399814BC6AD593FCF97AE9D89B87A
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LevelUpItems.WB_LevelUpItems_C:WidgetTree.TextBlock_146.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LevelUpItems.WB_LevelUpItems_C:WidgetTree.TextBlock_146.Text
+msgctxt ",C34399814BC6AD593FCF97AE9D89B87A"
+msgid "Select one item"
+msgstr "Select one item"
+
+#. Key:	C3ECFDF942867B92E2F6B4A7535A2589
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.11.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.11.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+msgctxt ",C3ECFDF942867B92E2F6B4A7535A2589"
+msgid "Crossing this high mountain, victory seems to be ahead????"
+msgstr "Crossing this high mountain, victory seems to be ahead????"
+
+#. Key:	C4157B974D1F76E099C05E93FE924B7F
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/Enums/E_TalentType.E_TalentType.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/SurvivorsTemplate/Blueprints/Enums/E_TalentType.E_TalentType.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",C4157B974D1F76E099C05E93FE924B7F"
+msgid "DEFEND"
+msgstr "DEFEND"
+
+#. Key:	C4AACFE345F2D0FC1EBB3D91AED32440
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.261.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.261.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",C4AACFE345F2D0FC1EBB3D91AED32440"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	C79CAFBE460A9B02CE7A04A632DD833D
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.84.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.84.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",C79CAFBE460A9B02CE7A04A632DD833D"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	C81A2C31431F3F21405B8BA5A5795185
+#. SourceLocation:	/Game/Asian_Armour/Base/DemoContent/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_4.ChannelNames.R
+#: /Game/Asian_Armour/Base/DemoContent/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_4.ChannelNames.R
+msgctxt ",C81A2C31431F3F21405B8BA5A5795185"
+msgid "Anisotropic"
+msgstr "Anisotropic"
+
+#. Key:	C86CA2C04FDD7488923D00A1468EC440
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.51.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.51.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",C86CA2C04FDD7488923D00A1468EC440"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	C87BD51F47223B3B1E9D1480EEEABFEF
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.114.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.114.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",C87BD51F47223B3B1E9D1480EEEABFEF"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	C943104348464D8377CC7CB28C1252A5
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor15.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor15.NewTextRenderComponent.Text
+msgctxt ",C943104348464D8377CC7CB28C1252A5"
+msgid "Content Overview"
+msgstr "Content Overview"
+
+#. Key:	C954BB2D4CE784339B69C6902ED5CD34
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.227.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.227.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",C954BB2D4CE784339B69C6902ED5CD34"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	C974C3D04967104DDCC32FABA6B2BDB0
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.17.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.17.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",C974C3D04967104DDCC32FABA6B2BDB0"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	C9783C104A660D299396508326FE9460
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor13.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor13.NewTextRenderComponent.Text
+msgctxt ",C9783C104A660D299396508326FE9460"
+msgid "Type 13"
+msgstr "Type 13"
+
+#. Key:	CB9D061741495276617F38A37763BC89
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.74.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.74.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",CB9D061741495276617F38A37763BC89"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	CBDCBC064FE4D90CE2243CAD249914F3
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LevelUpMaster.WB_LevelUpMaster_C:WidgetTree.TextBlock_41.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LevelUpMaster.WB_LevelUpMaster_C:WidgetTree.TextBlock_41.Text
+msgctxt ",CBDCBC064FE4D90CE2243CAD249914F3"
+msgid "LEVEL UP!"
+msgstr "LEVEL UP!"
+
+#. Key:	CBF6AE6A4C2B76222591E984A12D701F
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_Popup.WB_Popup_C:WidgetTree.TextBlock_PopupText.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_Popup.WB_Popup_C:WidgetTree.TextBlock_PopupText.Text
+msgctxt ",CBF6AE6A4C2B76222591E984A12D701F"
+msgid "Popup Description"
+msgstr "Popup Description"
+
+#. Key:	CC2AFF5C4961B08263DD7E9BBF19CD34
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.1.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.1.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+msgctxt ",CC2AFF5C4961B08263DD7E9BBF19CD34"
+msgid "Now this is a hunting ground for animals, exuding a dangerous atmosphere????"
+msgstr "Now this is a hunting ground for animals, exuding a dangerous atmosphere????"
+
+#. Key:	CCC072A249C4FD18F687E691A68CB1F9
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FireBall1.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FireBall1.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",CCC072A249C4FD18F687E691A68CB1F9"
+msgid "Shoot Fireball that explodes on nearest enemy"
+msgstr "Shoot Fireball that explodes on nearest enemy"
+
+#. Key:	CD504EE6458758AA06EE0CB38F6B0CF5
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.93.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.93.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",CD504EE6458758AA06EE0CB38F6B0CF5"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	CDA016CD475DFEAD1A813E849AE249C8
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.11.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.11.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",CDA016CD475DFEAD1A813E849AE249C8"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	CEC5CFAA49F2915F2E51A58A14070E1E
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_TalentInfo.WB_TalentInfo_C:WidgetTree.Text_Unlock.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_TalentInfo.WB_TalentInfo_C:WidgetTree.Text_Unlock.Text
+msgctxt ",CEC5CFAA49F2915F2E51A58A14070E1E"
+msgid "UnLock"
+msgstr "UnLock"
+
+#. Key:	CECBD19E4D8E6FFF3679F18B377CD6CC
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_StoreInfo.DT_StoreInfo.9.Describ_25_5B63B91C466F73F0FABE0FBD4B8269C6
+#: /Game/Survivors/Blueprints/DataTables/DT_StoreInfo.DT_StoreInfo.9.Describ_25_5B63B91C466F73F0FABE0FBD4B8269C6
+msgctxt ",CECBD19E4D8E6FFF3679F18B377CD6CC"
+msgid "Lot gold coins"
+msgstr "Lot gold coins"
+
+#. Key:	CEE60FBB4BC4683FE1B56D9BA9E83A22
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.179.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.179.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",CEE60FBB4BC4683FE1B56D9BA9E83A22"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	CEF8955E4F9D91A10D4EFEBB73B4B520
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_ServerBrowser.WB_ServerBrowser_C:WidgetTree.TextBlock_1.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_ServerBrowser.WB_ServerBrowser_C:WidgetTree.TextBlock_1.Text
+msgctxt ",CEF8955E4F9D91A10D4EFEBB73B4B520"
+msgid "Refresh"
+msgstr "Refresh"
+
+#. Key:	CF0C16744F243A2A75B8B6BE17CAB564
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LevelUpMaster.WB_LevelUpMaster_C:WidgetTree.TextBlock_224.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LevelUpMaster.WB_LevelUpMaster_C:WidgetTree.TextBlock_224.Text
+msgctxt ",CF0C16744F243A2A75B8B6BE17CAB564"
+msgid "Continue"
+msgstr "Continue"
+
+#. Key:	CF819380445936D1F0F48F9F41FB308E
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/Enums/E_ActiveAbilities.E_ActiveAbilities.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/SurvivorsTemplate/Blueprints/Enums/E_ActiveAbilities.E_ActiveAbilities.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",CF819380445936D1F0F48F9F41FB308E"
+msgid "Fireball"
+msgstr "Fireball"
+
+#. Key:	D073ED8447EABBF26DF5F5875D79342E
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.83.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.83.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",D073ED8447EABBF26DF5F5875D79342E"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	D0ADF4A34266ADC9B8B9969E34179C88
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.TextBlock.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_LobbyMenu.WB_LobbyMenu_C:WidgetTree.TextBlock.Text
+msgctxt ",D0ADF4A34266ADC9B8B9969E34179C88"
+msgid "+"
+msgstr "+"
+
+#. Key:	D0CA64F543C0A29A0D38638967E31252
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.57.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.57.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",D0CA64F543C0A29A0D38638967E31252"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	D19B7E144800897D4211C799292664F0
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/System/BP_Gameplay_PlayerController.BP_Gameplay_PlayerController_C:ExecuteLevelUp [Script Bytecode]
+#: /Game/SurvivorsTemplate/Blueprints/System/BP_Gameplay_PlayerController.BP_Gameplay_PlayerController_C:ExecuteLevelUp [Script Bytecode]
+msgctxt ",D19B7E144800897D4211C799292664F0"
+msgid "Add 50 Gold"
+msgstr "Add 50 Gold"
+
+#. Key:	D3A365D14B6706FFF5EC6FA71A7D733E
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_ServerItem.WB_ServerItem_C:ExecuteUbergraph_WB_ServerItem [Script Bytecode]
+#: /Game/SurvivorsTemplate/Widgets/WB_ServerItem.WB_ServerItem_C:ExecuteUbergraph_WB_ServerItem [Script Bytecode]
+msgctxt ",D3A365D14B6706FFF5EC6FA71A7D733E"
+msgid "{i} / {ii}"
+msgstr "{i} / {ii}"
+
+#. Key:	D466A9504B74B280CF515D920E49A43F
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_AbilityTile.WB_AbilityTile_C:WidgetTree.TextBlock_Level.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_AbilityTile.WB_AbilityTile_C:WidgetTree.TextBlock_Level.Text
+msgctxt ",D466A9504B74B280CF515D920E49A43F"
+msgid "5"
+msgstr "5"
+
+#. Key:	D491FA184E39BB8D56F035953DCE368A
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/Enums/E_AbilityType.E_AbilityType.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/SurvivorsTemplate/Blueprints/Enums/E_AbilityType.E_AbilityType.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",D491FA184E39BB8D56F035953DCE368A"
+msgid "Health"
+msgstr "Health"
+
+#. Key:	D4E517C9410A54C988E23D88A5B2C5D5
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.281.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.281.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",D4E517C9410A54C988E23D88A5B2C5D5"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	D588CEDE4E908DC11DE33C80190D91D6
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.149.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.149.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",D588CEDE4E908DC11DE33C80190D91D6"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	D58F56AD4CD96627F3A4CDBBCA1AA84E
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableCharacters.DT_AvailableCharacters.Char2.Description_17_53EA331042397200B93A5084C5008AD4
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableCharacters.DT_AvailableCharacters.Char2.Description_17_53EA331042397200B93A5084C5008AD4
+msgctxt ",D58F56AD4CD96627F3A4CDBBCA1AA84E"
+msgid "Starting Ability: Hammer"
+msgstr "Starting Ability: Hammer"
+
+#. Key:	D5CDBEEF49FEB5B528179B82B7456E20
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_PassiveAbilities.DT_PassiveAbilities.SpeedBonus.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_PassiveAbilities.DT_PassiveAbilities.SpeedBonus.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",D5CDBEEF49FEB5B528179B82B7456E20"
+msgid "Increase movement speed by 10%"
+msgstr "Increase movement speed by 10%"
+
+#. Key:	D5FDCFCE4A1A5D2CBDA318AFB256494A
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.8.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.8.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+msgctxt ",D5FDCFCE4A1A5D2CBDA318AFB256494A"
+msgid "Mountain_2"
+msgstr "Mountain_2"
+
+#. Key:	D6952DB44796C4211339C2B965CD9DB1
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.269.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.269.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",D6952DB44796C4211339C2B965CD9DB1"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	D6FC59D847EBBBC45C6C698D19D833C8
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.204.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.204.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",D6FC59D847EBBBC45C6C698D19D833C8"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	D7263C664D8F9D928402EAADED282B6A
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_MatchResults.WB_MatchResults_C:WidgetTree.TextBlock_BestTimeLabel.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_MatchResults.WB_MatchResults_C:WidgetTree.TextBlock_BestTimeLabel.Text
+msgctxt ",D7263C664D8F9D928402EAADED282B6A"
+msgid "Best:"
+msgstr "Best:"
+
+#. Key:	D85B789F404B690CF994E4A94B95001B
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_ServerBrowser.WB_ServerBrowser_C:WidgetTree.TextBlock_57.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_ServerBrowser.WB_ServerBrowser_C:WidgetTree.TextBlock_57.Text
+msgctxt ",D85B789F404B690CF994E4A94B95001B"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	D8FCEA79460F4B1C975416AE76FE5A94
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.249.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.249.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",D8FCEA79460F4B1C975416AE76FE5A94"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	DB7E125F4FF61A9699484F828E4003F1
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor12.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor12.NewTextRenderComponent.Text
+msgctxt ",DB7E125F4FF61A9699484F828E4003F1"
+msgid "Type 12"
+msgstr "Type 12"
+
+#. Key:	DB8C98954988E41F706E7DA11C75874C
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor30.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor30.NewTextRenderComponent.Text
+msgctxt ",DB8C98954988E41F706E7DA11C75874C"
+msgid "Type 09"
+msgstr "Type 09"
+
+#. Key:	DB8D692B4A22E815E206A7BE3DA5681F
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.9.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.9.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",DB8D692B4A22E815E206A7BE3DA5681F"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	DB93DF1A40A5A683491938A652B4C495
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor47.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor47.NewTextRenderComponent.Text
+msgctxt ",DB93DF1A40A5A683491938A652B4C495"
+msgid "ground Plants"
+msgstr "ground Plants"
+
+#. Key:	DBB9BC7A4A71BAFECB74679D8F91EE95
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FrostBolt1.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FrostBolt1.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",DBB9BC7A4A71BAFECB74679D8F91EE95"
+msgid "Fire at nearest enemy"
+msgstr "Fire at nearest enemy"
+
+#. Key:	DCF176F34DD73519DA4E39A9250738C0
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.3.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.3.Describ_57_371DF8E0451896793B1D60BDA7D53DCD
+msgctxt ",DCF176F34DD73519DA4E39A9250738C0"
+msgid "I can't see any information here anymore. I don't know if it's caused by sandstorms, it should be deep in the desert????"
+msgstr "I can't see any information here anymore. I don't know if it's caused by sandstorms, it should be deep in the desert????"
+
+#. Key:	DCFC408F4E79B1B9B43890ABC4C331C7
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_ChestItems.WB_ChestItems_C:WidgetTree.TextBlock_145.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_ChestItems.WB_ChestItems_C:WidgetTree.TextBlock_145.Text
+msgctxt ",DCFC408F4E79B1B9B43890ABC4C331C7"
+msgid "Take Items"
+msgstr "Take Items"
+
+#. Key:	DD25CE254AA1B92AE2D2A2B2A919FC6E
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.2.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.2.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",DD25CE254AA1B92AE2D2A2B2A919FC6E"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	DD8FA1004CC58894D50D9D9C8A9D17C7
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FrostBolt3.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FrostBolt3.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",DD8FA1004CC58894D50D9D9C8A9D17C7"
+msgid "Cooldown reduced by 10%"
+msgstr "Cooldown reduced by 10%"
+
+#. Key:	DDDEAC624FFC2A992800618653650AE7
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.137.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.137.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",DDDEAC624FFC2A992800618653650AE7"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	DE499B05463E7C8C3510F099D922B5A0
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.216.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.216.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",DE499B05463E7C8C3510F099D922B5A0"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	DEB40AFE4E89AFDA45CEEAB85212E1EF
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/Enums/E_ActiveAbilities.E_ActiveAbilities.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/SurvivorsTemplate/Blueprints/Enums/E_ActiveAbilities.E_ActiveAbilities.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",DEB40AFE4E89AFDA45CEEAB85212E1EF"
+msgid "Hammer"
+msgstr "Hammer"
+
+#. Key:	DEBBD02841A6C189A3CED3A2D57C4D13
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/Enums/E_TalentType.E_TalentType.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/SurvivorsTemplate/Blueprints/Enums/E_TalentType.E_TalentType.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",DEBBD02841A6C189A3CED3A2D57C4D13"
+msgid "ATTACK"
+msgstr "ATTACK"
+
+#. Key:	DFC35E1242B42D8DD0D07D899BD0510D
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor11.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor11.NewTextRenderComponent.Text
+msgctxt ",DFC35E1242B42D8DD0D07D899BD0510D"
+msgid "Type 11"
+msgstr "Type 11"
+
+#. Key:	E030BB064D493619661D0A90BC5B6E4D
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.105.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.105.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",E030BB064D493619661D0A90BC5B6E4D"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	E092DA854A102AEDA86FEEAAAA31CF1F
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.116.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.116.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",E092DA854A102AEDA86FEEAAAA31CF1F"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	E0A8FE12482F3744EE7B1A95DBBCF662
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/Enums/E_PassiveAbilities.E_PassiveAbilities.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/SurvivorsTemplate/Blueprints/Enums/E_PassiveAbilities.E_PassiveAbilities.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",E0A8FE12482F3744EE7B1A95DBBCF662"
+msgid "Health Bonus"
+msgstr "Health Bonus"
+
+#. Key:	E136193448829835C616ECB3AB2610AC
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_MatchResults.WB_MatchResults_C:WidgetTree.TextBlock_Result.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_MatchResults.WB_MatchResults_C:WidgetTree.TextBlock_Result.Text
+msgctxt ",E136193448829835C616ECB3AB2610AC"
+msgid "Result"
+msgstr "Result"
+
+#. Key:	E17C72D9454F6E201CA9708CF007F73B
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.65.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.65.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",E17C72D9454F6E201CA9708CF007F73B"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	E1F25B4A41B76A75F21C1DBF8ADCECA7
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.294.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.294.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",E1F25B4A41B76A75F21C1DBF8ADCECA7"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	E249AEAA4E700776DFABB8AA0A070438
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_ChestMaster.WB_ChestMaster_C:WidgetTree.TextBlock_111.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_ChestMaster.WB_ChestMaster_C:WidgetTree.TextBlock_111.Text
+msgctxt ",E249AEAA4E700776DFABB8AA0A070438"
+msgid "Open to gain new abilities!"
+msgstr "Open to gain new abilities!"
+
+#. Key:	E27B9ECD4ABE8E38A9A771B030309412
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_MatchResults.WB_MatchResults_C:WidgetTree.TextBlock_MapName.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_MatchResults.WB_MatchResults_C:WidgetTree.TextBlock_MapName.Text
+msgctxt ",E27B9ECD4ABE8E38A9A771B030309412"
+msgid "MapName"
+msgstr "MapName"
+
+#. Key:	E574EAF6479641C3A6C9BB90E8579B7B
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.53.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.53.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",E574EAF6479641C3A6C9BB90E8579B7B"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	E5CEAE964F3EBA38F6CE2C954637C0D2
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.99.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.99.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",E5CEAE964F3EBA38F6CE2C954637C0D2"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	E5EEE48C4981B64DC9CED48946BF0D3A
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/Enums/E_PassiveAbilities.E_PassiveAbilities.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/SurvivorsTemplate/Blueprints/Enums/E_PassiveAbilities.E_PassiveAbilities.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",E5EEE48C4981B64DC9CED48946BF0D3A"
+msgid "Speed Bonus"
+msgstr "Speed Bonus"
+
+#. Key:	E5FC91524C0DF23E1590CABBBF5699E4
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.156.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.156.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",E5FC91524C0DF23E1590CABBBF5699E4"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	E8D964E34882B4FCC754589157991F53
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.161.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.161.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",E8D964E34882B4FCC754589157991F53"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	E8FD3E594A004FDB877470B71D0A4828
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.300.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.300.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",E8FD3E594A004FDB877470B71D0A4828"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	E93A8E4C4B17F56D8FD873B54593D3EC
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_PlayerHud.WB_PlayerHud_C:WidgetTree.TextBlock_Soul.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_PlayerHud.WB_PlayerHud_C:WidgetTree.TextBlock_Soul.Text
+msgctxt ",E93A8E4C4B17F56D8FD873B54593D3EC"
+msgid "0"
+msgstr "0"
+
+#. Key:	EA1010BC423C9ACDD63C29BDC765B4B1
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.14.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.14.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",EA1010BC423C9ACDD63C29BDC765B4B1"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	EA9018CC4D58E6B5E8B104B574F7C241
+#. SourceLocation:	/Game/Asian_Armour/Base/Materials/M_Skin.M_Skin:MaterialExpressionTextureSampleParameter2D_10.ChannelNames.G
+#: /Game/Asian_Armour/Base/Materials/M_Skin.M_Skin:MaterialExpressionTextureSampleParameter2D_10.ChannelNames.G
+msgctxt ",EA9018CC4D58E6B5E8B104B574F7C241"
+msgid "Roughness"
+msgstr "Roughness"
+
+#. Key:	EB571EA845D6E6F16CF695B1E9D9B70B
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_GameMenu.WB_GameMenu_C:ExecuteUbergraph_WB_GameMenu [Script Bytecode]
+#: /Game/SurvivorsTemplate/Widgets/WB_GameMenu.WB_GameMenu_C:ExecuteUbergraph_WB_GameMenu [Script Bytecode]
+msgctxt ",EB571EA845D6E6F16CF695B1E9D9B70B"
+msgid "The income will not be saved now, are you sure quit now?"
+msgstr "The income will not be saved now, are you sure quit now?"
+
+#. Key:	EB812D9744EE87489A9D459ACBCD130F
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/System/BP_Game_Manager.BP_Game_Manager_C:UpdateTimer [Script Bytecode]
+#: /Game/SurvivorsTemplate/Blueprints/System/BP_Game_Manager.BP_Game_Manager_C:UpdateTimer [Script Bytecode]
+msgctxt ",EB812D9744EE87489A9D459ACBCD130F"
+msgid "{M}:{S}"
+msgstr "{M}:{S}"
+
+#. Key:	EB8B90574AF13FA8533CECACA6B5F77C
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.JoinGame.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.JoinGame.Text
+msgctxt ",EB8B90574AF13FA8533CECACA6B5F77C"
+msgid "Join Game"
+msgstr "Join Game"
+
+#. Key:	EB8C958A4DCCA260E2221986FC36D410
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.107.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.107.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",EB8C958A4DCCA260E2221986FC36D410"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	EBB053F84F65553235F1499718953E38
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.174.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.174.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",EBB053F84F65553235F1499718953E38"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	EC0F51BF43EEC2EBD1C7FD8EE9950BC1
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_ServerBrowser.WB_ServerBrowser_C:WidgetTree.TextBlock.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_ServerBrowser.WB_ServerBrowser_C:WidgetTree.TextBlock.Text
+msgctxt ",EC0F51BF43EEC2EBD1C7FD8EE9950BC1"
+msgid "Players"
+msgstr "Players"
+
+#. Key:	ECAB4DFC4FB203AAFB47E695AEAECA4A
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.Lightning3.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.Lightning3.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",ECAB4DFC4FB203AAFB47E695AEAECA4A"
+msgid "Strike radius increased by 10%"
+msgstr "Strike radius increased by 10%"
+
+#. Key:	ED1BFB3D41B21066C2FF13BC88A076E2
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.128.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.128.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",ED1BFB3D41B21066C2FF13BC88A076E2"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	EEB5898342B46135B973059E8FD5C484
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.32.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.32.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",EEB5898342B46135B973059E8FD5C484"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	EF711A114BD2972A1D0AE4AC83C6C5C8
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.125.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.125.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",EF711A114BD2972A1D0AE4AC83C6C5C8"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	F00382034CCE74D64E7E84A6B63797E5
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor75.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor75.NewTextRenderComponent.Text
+msgctxt ",F00382034CCE74D64E7E84A6B63797E5"
+msgid "optimized grass"
+msgstr "optimized grass"
+
+#. Key:	F08A7D91446078A1645A5FA9E3251DB6
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.122.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.122.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",F08A7D91446078A1645A5FA9E3251DB6"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	F0A0BAA34C2858C657C2A2916EF09E0A
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_ServerBrowser.WB_ServerBrowser_C:ExecuteUbergraph_WB_ServerBrowser [Script Bytecode]
+#: /Game/SurvivorsTemplate/Widgets/WB_ServerBrowser.WB_ServerBrowser_C:ExecuteUbergraph_WB_ServerBrowser [Script Bytecode]
+msgctxt ",F0A0BAA34C2858C657C2A2916EF09E0A"
+msgid "No Servers Found"
+msgstr "No Servers Found"
+
+#. Key:	F0FE7EF24EA1762F17D5A29188E39671
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.3.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableMaps.DT_AvailableMaps.3.MapName_56_6E945E644430D9523DD72BBF1D7FD7E1
+msgctxt ",F0FE7EF24EA1762F17D5A29188E39671"
+msgid "Canyon_b"
+msgstr "Canyon_b"
+
+#. Key:	F13B920B4E81AFDC0E3787B8A4E15A1C
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/Character/BP_Base_Character.Default__BP_Base_Character_C.Character.Description_17_53EA331042397200B93A5084C5008AD4
+#: /Game/SurvivorsTemplate/Blueprints/Character/BP_Base_Character.Default__BP_Base_Character_C.Character.Description_17_53EA331042397200B93A5084C5008AD4
+msgctxt ",F13B920B4E81AFDC0E3787B8A4E15A1C"
+msgid "Starting Ability: Frost Bolt"
+msgstr "Starting Ability: Frost Bolt"
+
+#. Key:	F14A8F7A4ECC20FF6AFC8587FA19620D
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.234.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.234.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",F14A8F7A4ECC20FF6AFC8587FA19620D"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	F19325E04CF5A6FAABAAE5BD4FF8790C
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FrostBolt5.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FrostBolt5.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",F19325E04CF5A6FAABAAE5BD4FF8790C"
+msgid "Fires 1 more projectile"
+msgstr "Fires 1 more projectile"
+
+#. Key:	F1D52B444BD74B61DFD83387BA5F2F57
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/System/BP_Game_Manager.BP_Game_Manager_C:UpdateTimer [Script Bytecode]
+#: /Game/SurvivorsTemplate/Blueprints/System/BP_Game_Manager.BP_Game_Manager_C:UpdateTimer [Script Bytecode]
+msgctxt ",F1D52B444BD74B61DFD83387BA5F2F57"
+msgid "{S1}{S2}"
+msgstr "{S1}{S2}"
+
+#. Key:	F1DFE6394AA62A68FE5F37B4A930728B
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.Back.Text
+#: /Game/SurvivorsTemplate/Widgets/WB_MainMenu.WB_MainMenu_C:WidgetTree.Back.Text
+msgctxt ",F1DFE6394AA62A68FE5F37B4A930728B"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	F3D45DAB492D451D3B168884F1FB305E
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableCharacters.DT_AvailableCharacters.Char1.CharacterName_22_B0DB3485442944C2442843B1A1C9684F
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableCharacters.DT_AvailableCharacters.Char1.CharacterName_22_B0DB3485442944C2442843B1A1C9684F
+msgctxt ",F3D45DAB492D451D3B168884F1FB305E"
+msgid "Cervine"
+msgstr "Cervine"
+
+#. Key:	F47C00A44898F2631C7CDD880B7ABB50
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor31.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor31.NewTextRenderComponent.Text
+msgctxt ",F47C00A44898F2631C7CDD880B7ABB50"
+msgid "Flowers"
+msgstr "Flowers"
+
+#. Key:	F51BFCBE4CC627A3A9A80492E54994EF
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.71.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.71.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",F51BFCBE4CC627A3A9A80492E54994EF"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	F5399FD940606D0E09E6ED8A1CF9C6F9
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_PassiveAbilities.DT_PassiveAbilities.AbilityBonusDamage.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_PassiveAbilities.DT_PassiveAbilities.AbilityBonusDamage.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",F5399FD940606D0E09E6ED8A1CF9C6F9"
+msgid "Ability Damage increased by 10%"
+msgstr "Ability Damage increased by 10%"
+
+#. Key:	F546C9624104ACB51E6EF19B4108B974
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FireBall3.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+#: /Game/SurvivorsTemplate/Blueprints/DataTables/DT_ActiveAbilities.DT_ActiveAbilities.FireBall3.LevelUpText_2_D29E305647D514C1E2F70A92B82F6D19
+msgctxt ",F546C9624104ACB51E6EF19B4108B974"
+msgid "Explosion radius increased by 10%"
+msgstr "Explosion radius increased by 10%"
+
+#. Key:	F60D82A34784D8F47F83128E9AC4D04B
+#. SourceLocation:	/Game/SurvivorsTemplate/Widgets/WB_MatchResults.WB_MatchResults_C:WidgetTree.Button_Resurrection.ToolTipText
+#: /Game/SurvivorsTemplate/Widgets/WB_MatchResults.WB_MatchResults_C:WidgetTree.Button_Resurrection.ToolTipText
+msgctxt ",F60D82A34784D8F47F83128E9AC4D04B"
+msgid "Traveling back to mainmenu"
+msgstr "Traveling back to mainmenu"
+
+#. Key:	F6416E5141F6D8F650B368A1751839B2
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.186.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.186.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",F6416E5141F6D8F650B368A1751839B2"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	F65F814E4388B51DB95A6CA0B06490B2
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.230.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.230.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",F65F814E4388B51DB95A6CA0B06490B2"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	F75B38CB4567C09DCD2953AA45A0BB12
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.104.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.104.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",F75B38CB4567C09DCD2953AA45A0BB12"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	F956ADD54629C0D553D04A88B4AFA82E
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor16.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor16.NewTextRenderComponent.Text
+msgctxt ",F956ADD54629C0D553D04A88B4AFA82E"
+msgid "Type 15"
+msgstr "Type 15"
+
+#. Key:	F9B1E90448506F328F7240AA62797D2B
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/Enums/E_ActiveAbilities.E_ActiveAbilities.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/SurvivorsTemplate/Blueprints/Enums/E_ActiveAbilities.E_ActiveAbilities.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",F9B1E90448506F328F7240AA62797D2B"
+msgid "Frost Bolt"
+msgstr "Frost Bolt"
+
+#. Key:	F9BE6F6C4A009273A21841B630210109
+#. SourceLocation:	/Game/Asian_Armour/Base/DemoContent/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_5.ChannelNames.G
+#: /Game/Asian_Armour/Base/DemoContent/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_5.ChannelNames.G
+msgctxt ",F9BE6F6C4A009273A21841B630210109"
+msgid "ClearCoat"
+msgstr "ClearCoat"
+
+#. Key:	F9D710B94C46813F28AAF097FA88E78E
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.45.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.45.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",F9D710B94C46813F28AAF097FA88E78E"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	FA1D234F4EEE2C71B087208A0475F08B
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.36.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.36.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",FA1D234F4EEE2C71B087208A0475F08B"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	FA7EF9684C120DF0C36F8197D44DD337
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_StoreInfo.DT_StoreInfo.8.Describ_25_5B63B91C466F73F0FABE0FBD4B8269C6
+#: /Game/Survivors/Blueprints/DataTables/DT_StoreInfo.DT_StoreInfo.8.Describ_25_5B63B91C466F73F0FABE0FBD4B8269C6
+msgctxt ",FA7EF9684C120DF0C36F8197D44DD337"
+msgid "Some gold coins"
+msgstr "Some gold coins"
+
+#. Key:	FA820B884B4535F882BCF380D003485F
+#. SourceLocation:	/Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor14.NewTextRenderComponent.Text
+#: /Game/PN_FoliageCollection/Maps/ContentShowroom.ContentShowroom:PersistentLevel.TextRenderActor14.NewTextRenderComponent.Text
+msgctxt ",FA820B884B4535F882BCF380D003485F"
+msgid "Type 14"
+msgstr "Type 14"
+
+#. Key:	FADA0B0F437D3E51AA0B508AC73CCF4A
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.140.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.140.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",FADA0B0F437D3E51AA0B508AC73CCF4A"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	FC8B7A1E4A58079D05521F9EE45E3214
+#. SourceLocation:	/Game/SurvivorsTemplate/Blueprints/Character/BP_Lobby_Character.Default__BP_Lobby_Character_C.Character.Description_17_53EA331042397200B93A5084C5008AD4
+#: /Game/SurvivorsTemplate/Blueprints/Character/BP_Lobby_Character.Default__BP_Lobby_Character_C.Character.Description_17_53EA331042397200B93A5084C5008AD4
+msgctxt ",FC8B7A1E4A58079D05521F9EE45E3214"
+msgid "Description on Character"
+msgstr "Description on Character"
+
+#. Key:	FCCE1C3D4FFA939F6579C09E5DC0F799
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.87.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.87.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",FCCE1C3D4FFA939F6579C09E5DC0F799"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	FE224C464B5944A7C3F7B284D20AB10C
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.75.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.75.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",FE224C464B5944A7C3F7B284D20AB10C"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	FEF2FF13483206629EEDFFB82FB5425D
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.56.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.56.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",FEF2FF13483206629EEDFFB82FB5425D"
+msgid "Strike your enemy hard"
+msgstr "Strike your enemy hard"
+
+#. Key:	FF7E50A44FA3867C6B51AE930EA513DA
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.279.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.279.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",FF7E50A44FA3867C6B51AE930EA513DA"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
+#. Key:	FFEA228648143EE252A876A495163049
+#. SourceLocation:	/Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.6.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+#: /Game/Survivors/Blueprints/DataTables/DT_TalentInfo.DT_TalentInfo.6.TalentDescrib_24_7B51F6EB43008F769294779652DC66A4
+msgctxt ",FFEA228648143EE252A876A495163049"
+msgid "Ignore Pain"
+msgstr "Ignore Pain"
+
