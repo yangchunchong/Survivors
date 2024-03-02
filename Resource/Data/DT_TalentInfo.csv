@@ -1,301 +1,301 @@
----,TalentName,TalentType,TalentValue,TalentDescrib,TalentUnlockGold,TalentLevel,TelentIndex
-1,Health,HEALTH,5,The stronger you become,500,1,1
-2,Attack,ATTACK,0.5,Strike your enemy hard,500,1,2
-3,Defend,DEFEND,0.2,Ignore Pain,500,1,3
-4,Health,HEALTH,10,The stronger you become,600,2,4
-5,Attack,ATTACK,0.7,Strike your enemy hard,600,2,5
-6,Defend,DEFEND,0.3,Ignore Pain,600,2,6
-7,Health,HEALTH,15,The stronger you become,700,3,7
-8,Attack,ATTACK,0.9,Strike your enemy hard,700,3,8
-9,Defend,DEFEND,0.4,Ignore Pain,700,3,9
-10,Health,HEALTH,20,The stronger you become,800,4,10
-11,Attack,ATTACK,1.1,Strike your enemy hard,800,4,11
-12,Defend,DEFEND,0.5,Ignore Pain,800,4,12
-13,Health,HEALTH,25,The stronger you become,900,5,13
-14,Attack,ATTACK,1.3,Strike your enemy hard,900,5,14
-15,Defend,DEFEND,0.6,Ignore Pain,900,5,15
-16,Health,HEALTH,30,The stronger you become,1000,6,16
-17,Attack,ATTACK,1.5,Strike your enemy hard,1000,6,17
-18,Defend,DEFEND,0.7,Ignore Pain,1000,6,18
-19,Health,HEALTH,35,The stronger you become,1100,7,19
-20,Attack,ATTACK,1.7,Strike your enemy hard,1100,7,20
-21,Defend,DEFEND,0.8,Ignore Pain,1100,7,21
-22,Health,HEALTH,40,The stronger you become,1200,8,22
-23,Attack,ATTACK,1.9,Strike your enemy hard,1200,8,23
-24,Defend,DEFEND,0.9,Ignore Pain,1200,8,24
-25,Health,HEALTH,45,The stronger you become,1300,9,25
-26,Attack,ATTACK,2.1,Strike your enemy hard,1300,9,26
-27,Defend,DEFEND,1,Ignore Pain,1300,9,27
-28,Health,HEALTH,50,The stronger you become,1400,10,28
-29,Attack,ATTACK,2.3,Strike your enemy hard,1400,10,29
-30,Defend,DEFEND,1.1,Ignore Pain,1400,10,30
-31,Health,HEALTH,55,The stronger you become,1500,11,31
-32,Attack,ATTACK,2.5,Strike your enemy hard,1500,11,32
-33,Defend,DEFEND,1.2,Ignore Pain,1500,11,33
-34,Health,HEALTH,60,The stronger you become,1600,12,34
-35,Attack,ATTACK,2.7,Strike your enemy hard,1600,12,35
-36,Defend,DEFEND,1.3,Ignore Pain,1600,12,36
-37,Health,HEALTH,65,The stronger you become,1700,13,37
-38,Attack,ATTACK,2.9,Strike your enemy hard,1700,13,38
-39,Defend,DEFEND,1.4,Ignore Pain,1700,13,39
-40,Health,HEALTH,70,The stronger you become,1800,14,40
-41,Attack,ATTACK,3.1,Strike your enemy hard,1800,14,41
-42,Defend,DEFEND,1.5,Ignore Pain,1800,14,42
-43,Health,HEALTH,75,The stronger you become,1900,15,43
-44,Attack,ATTACK,3.3,Strike your enemy hard,1900,15,44
-45,Defend,DEFEND,1.6,Ignore Pain,1900,15,45
-46,Health,HEALTH,80,The stronger you become,2000,16,46
-47,Attack,ATTACK,3.5,Strike your enemy hard,2000,16,47
-48,Defend,DEFEND,1.7,Ignore Pain,2000,16,48
-49,Health,HEALTH,85,The stronger you become,2100,17,49
-50,Attack,ATTACK,3.7,Strike your enemy hard,2100,17,50
-51,Defend,DEFEND,1.8,Ignore Pain,2100,17,51
-52,Health,HEALTH,90,The stronger you become,2200,18,52
-53,Attack,ATTACK,3.9,Strike your enemy hard,2200,18,53
-54,Defend,DEFEND,1.9,Ignore Pain,2200,18,54
-55,Health,HEALTH,95,The stronger you become,2300,19,55
-56,Attack,ATTACK,4.1,Strike your enemy hard,2300,19,56
-57,Defend,DEFEND,2,Ignore Pain,2300,19,57
-58,Health,HEALTH,100,The stronger you become,2400,20,58
-59,Attack,ATTACK,4.3,Strike your enemy hard,2400,20,59
-60,Defend,DEFEND,2.1,Ignore Pain,2400,20,60
-61,Health,HEALTH,105,The stronger you become,2500,21,61
-62,Attack,ATTACK,4.5,Strike your enemy hard,2500,21,62
-63,Defend,DEFEND,2.2,Ignore Pain,2500,21,63
-64,Health,HEALTH,110,The stronger you become,2600,22,64
-65,Attack,ATTACK,4.7,Strike your enemy hard,2600,22,65
-66,Defend,DEFEND,2.3,Ignore Pain,2600,22,66
-67,Health,HEALTH,115,The stronger you become,2700,23,67
-68,Attack,ATTACK,4.9,Strike your enemy hard,2700,23,68
-69,Defend,DEFEND,2.4,Ignore Pain,2700,23,69
-70,Health,HEALTH,120,The stronger you become,2800,24,70
-71,Attack,ATTACK,5.1,Strike your enemy hard,2800,24,71
-72,Defend,DEFEND,2.5,Ignore Pain,2800,24,72
-73,Health,HEALTH,125,The stronger you become,2900,25,73
-74,Attack,ATTACK,5.3,Strike your enemy hard,2900,25,74
-75,Defend,DEFEND,2.6,Ignore Pain,2900,25,75
-76,Health,HEALTH,130,The stronger you become,3000,26,76
-77,Attack,ATTACK,5.5,Strike your enemy hard,3000,26,77
-78,Defend,DEFEND,2.7,Ignore Pain,3000,26,78
-79,Health,HEALTH,135,The stronger you become,3100,27,79
-80,Attack,ATTACK,5.7,Strike your enemy hard,3100,27,80
-81,Defend,DEFEND,2.8,Ignore Pain,3100,27,81
-82,Health,HEALTH,140,The stronger you become,3200,28,82
-83,Attack,ATTACK,5.9,Strike your enemy hard,3200,28,83
-84,Defend,DEFEND,2.9,Ignore Pain,3200,28,84
-85,Health,HEALTH,145,The stronger you become,3300,29,85
-86,Attack,ATTACK,6.1,Strike your enemy hard,3300,29,86
-87,Defend,DEFEND,3,Ignore Pain,3300,29,87
-88,Health,HEALTH,150,The stronger you become,3400,30,88
-89,Attack,ATTACK,6.3,Strike your enemy hard,3400,30,89
-90,Defend,DEFEND,3.1,Ignore Pain,3400,30,90
-91,Health,HEALTH,155,The stronger you become,3500,31,91
-92,Attack,ATTACK,6.5,Strike your enemy hard,3500,31,92
-93,Defend,DEFEND,3.2,Ignore Pain,3500,31,93
-94,Health,HEALTH,160,The stronger you become,3600,32,94
-95,Attack,ATTACK,6.7,Strike your enemy hard,3600,32,95
-96,Defend,DEFEND,3.3,Ignore Pain,3600,32,96
-97,Health,HEALTH,165,The stronger you become,3700,33,97
-98,Attack,ATTACK,6.9,Strike your enemy hard,3700,33,98
-99,Defend,DEFEND,3.4,Ignore Pain,3700,33,99
-100,Health,HEALTH,170,The stronger you become,3800,34,100
-101,Attack,ATTACK,7.1,Strike your enemy hard,3800,34,101
-102,Defend,DEFEND,3.5,Ignore Pain,3800,34,102
-103,Health,HEALTH,175,The stronger you become,3900,35,103
-104,Attack,ATTACK,7.3,Strike your enemy hard,3900,35,104
-105,Defend,DEFEND,3.6,Ignore Pain,3900,35,105
-106,Health,HEALTH,180,The stronger you become,4000,36,106
-107,Attack,ATTACK,7.5,Strike your enemy hard,4000,36,107
-108,Defend,DEFEND,3.7,Ignore Pain,4000,36,108
-109,Health,HEALTH,185,The stronger you become,4100,37,109
-110,Attack,ATTACK,7.7,Strike your enemy hard,4100,37,110
-111,Defend,DEFEND,3.8,Ignore Pain,4100,37,111
-112,Health,HEALTH,190,The stronger you become,4200,38,112
-113,Attack,ATTACK,7.9,Strike your enemy hard,4200,38,113
-114,Defend,DEFEND,3.9,Ignore Pain,4200,38,114
-115,Health,HEALTH,195,The stronger you become,4300,39,115
-116,Attack,ATTACK,8.1,Strike your enemy hard,4300,39,116
-117,Defend,DEFEND,4,Ignore Pain,4300,39,117
-118,Health,HEALTH,200,The stronger you become,4400,40,118
-119,Attack,ATTACK,8.3,Strike your enemy hard,4400,40,119
-120,Defend,DEFEND,4.1,Ignore Pain,4400,40,120
-121,Health,HEALTH,205,The stronger you become,4500,41,121
-122,Attack,ATTACK,8.5,Strike your enemy hard,4500,41,122
-123,Defend,DEFEND,4.2,Ignore Pain,4500,41,123
-124,Health,HEALTH,210,The stronger you become,4600,42,124
-125,Attack,ATTACK,8.7,Strike your enemy hard,4600,42,125
-126,Defend,DEFEND,4.3,Ignore Pain,4600,42,126
-127,Health,HEALTH,215,The stronger you become,4700,43,127
-128,Attack,ATTACK,8.9,Strike your enemy hard,4700,43,128
-129,Defend,DEFEND,4.4,Ignore Pain,4700,43,129
-130,Health,HEALTH,220,The stronger you become,4800,44,130
-131,Attack,ATTACK,9.1,Strike your enemy hard,4800,44,131
-132,Defend,DEFEND,4.5,Ignore Pain,4800,44,132
-133,Health,HEALTH,225,The stronger you become,4900,45,133
-134,Attack,ATTACK,9.3,Strike your enemy hard,4900,45,134
-135,Defend,DEFEND,4.6,Ignore Pain,4900,45,135
-136,Health,HEALTH,230,The stronger you become,5000,46,136
-137,Attack,ATTACK,9.5,Strike your enemy hard,5000,46,137
-138,Defend,DEFEND,4.7,Ignore Pain,5000,46,138
-139,Health,HEALTH,235,The stronger you become,5100,47,139
-140,Attack,ATTACK,9.7,Strike your enemy hard,5100,47,140
-141,Defend,DEFEND,4.8,Ignore Pain,5100,47,141
-142,Health,HEALTH,240,The stronger you become,5200,48,142
-143,Attack,ATTACK,9.9,Strike your enemy hard,5200,48,143
-144,Defend,DEFEND,4.9,Ignore Pain,5200,48,144
-145,Health,HEALTH,245,The stronger you become,5300,49,145
-146,Attack,ATTACK,10.1,Strike your enemy hard,5300,49,146
-147,Defend,DEFEND,5,Ignore Pain,5300,49,147
-148,Health,HEALTH,250,The stronger you become,5400,50,148
-149,Attack,ATTACK,10.3,Strike your enemy hard,5400,50,149
-150,Defend,DEFEND,5.1,Ignore Pain,5400,50,150
-151,Health,HEALTH,255,The stronger you become,5500,51,151
-152,Attack,ATTACK,10.5,Strike your enemy hard,5500,51,152
-153,Defend,DEFEND,5.2,Ignore Pain,5500,51,153
-154,Health,HEALTH,260,The stronger you become,5600,52,154
-155,Attack,ATTACK,10.7,Strike your enemy hard,5600,52,155
-156,Defend,DEFEND,5.3,Ignore Pain,5600,52,156
-157,Health,HEALTH,265,The stronger you become,5700,53,157
-158,Attack,ATTACK,10.9,Strike your enemy hard,5700,53,158
-159,Defend,DEFEND,5.4,Ignore Pain,5700,53,159
-160,Health,HEALTH,270,The stronger you become,5800,54,160
-161,Attack,ATTACK,11.1,Strike your enemy hard,5800,54,161
-162,Defend,DEFEND,5.5,Ignore Pain,5800,54,162
-163,Health,HEALTH,275,The stronger you become,5900,55,163
-164,Attack,ATTACK,11.3,Strike your enemy hard,5900,55,164
-165,Defend,DEFEND,5.6,Ignore Pain,5900,55,165
-166,Health,HEALTH,280,The stronger you become,6000,56,166
-167,Attack,ATTACK,11.5,Strike your enemy hard,6000,56,167
-168,Defend,DEFEND,5.7,Ignore Pain,6000,56,168
-169,Health,HEALTH,285,The stronger you become,6100,57,169
-170,Attack,ATTACK,11.7,Strike your enemy hard,6100,57,170
-171,Defend,DEFEND,5.8,Ignore Pain,6100,57,171
-172,Health,HEALTH,290,The stronger you become,6200,58,172
-173,Attack,ATTACK,11.9,Strike your enemy hard,6200,58,173
-174,Defend,DEFEND,5.9,Ignore Pain,6200,58,174
-175,Health,HEALTH,295,The stronger you become,6300,59,175
-176,Attack,ATTACK,12.1,Strike your enemy hard,6300,59,176
-177,Defend,DEFEND,6,Ignore Pain,6300,59,177
-178,Health,HEALTH,300,The stronger you become,6400,60,178
-179,Attack,ATTACK,12.3,Strike your enemy hard,6400,60,179
-180,Defend,DEFEND,6.1,Ignore Pain,6400,60,180
-181,Health,HEALTH,305,The stronger you become,6500,61,181
-182,Attack,ATTACK,12.5,Strike your enemy hard,6500,61,182
-183,Defend,DEFEND,6.2,Ignore Pain,6500,61,183
-184,Health,HEALTH,310,The stronger you become,6600,62,184
-185,Attack,ATTACK,12.7,Strike your enemy hard,6600,62,185
-186,Defend,DEFEND,6.3,Ignore Pain,6600,62,186
-187,Health,HEALTH,315,The stronger you become,6700,63,187
-188,Attack,ATTACK,12.9,Strike your enemy hard,6700,63,188
-189,Defend,DEFEND,6.4,Ignore Pain,6700,63,189
-190,Health,HEALTH,320,The stronger you become,6800,64,190
-191,Attack,ATTACK,13.1,Strike your enemy hard,6800,64,191
-192,Defend,DEFEND,6.5,Ignore Pain,6800,64,192
-193,Health,HEALTH,325,The stronger you become,6900,65,193
-194,Attack,ATTACK,13.3,Strike your enemy hard,6900,65,194
-195,Defend,DEFEND,6.6,Ignore Pain,6900,65,195
-196,Health,HEALTH,330,The stronger you become,7000,66,196
-197,Attack,ATTACK,13.5,Strike your enemy hard,7000,66,197
-198,Defend,DEFEND,6.7,Ignore Pain,7000,66,198
-199,Health,HEALTH,335,The stronger you become,7100,67,199
-200,Attack,ATTACK,13.7,Strike your enemy hard,7100,67,200
-201,Defend,DEFEND,6.8,Ignore Pain,7100,67,201
-202,Health,HEALTH,340,The stronger you become,7200,68,202
-203,Attack,ATTACK,13.9,Strike your enemy hard,7200,68,203
-204,Defend,DEFEND,6.9,Ignore Pain,7200,68,204
-205,Health,HEALTH,345,The stronger you become,7300,69,205
-206,Attack,ATTACK,14.1,Strike your enemy hard,7300,69,206
-207,Defend,DEFEND,7,Ignore Pain,7300,69,207
-208,Health,HEALTH,350,The stronger you become,7400,70,208
-209,Attack,ATTACK,14.3,Strike your enemy hard,7400,70,209
-210,Defend,DEFEND,7.1,Ignore Pain,7400,70,210
-211,Health,HEALTH,355,The stronger you become,7500,71,211
-212,Attack,ATTACK,14.5,Strike your enemy hard,7500,71,212
-213,Defend,DEFEND,7.2,Ignore Pain,7500,71,213
-214,Health,HEALTH,360,The stronger you become,7600,72,214
-215,Attack,ATTACK,14.7,Strike your enemy hard,7600,72,215
-216,Defend,DEFEND,7.3,Ignore Pain,7600,72,216
-217,Health,HEALTH,365,The stronger you become,7700,73,217
-218,Attack,ATTACK,14.9,Strike your enemy hard,7700,73,218
-219,Defend,DEFEND,7.4,Ignore Pain,7700,73,219
-220,Health,HEALTH,370,The stronger you become,7800,74,220
-221,Attack,ATTACK,15.1,Strike your enemy hard,7800,74,221
-222,Defend,DEFEND,7.5,Ignore Pain,7800,74,222
-223,Health,HEALTH,375,The stronger you become,7900,75,223
-224,Attack,ATTACK,15.3,Strike your enemy hard,7900,75,224
-225,Defend,DEFEND,7.6,Ignore Pain,7900,75,225
-226,Health,HEALTH,380,The stronger you become,8000,76,226
-227,Attack,ATTACK,15.5,Strike your enemy hard,8000,76,227
-228,Defend,DEFEND,7.7,Ignore Pain,8000,76,228
-229,Health,HEALTH,385,The stronger you become,8100,77,229
-230,Attack,ATTACK,15.7,Strike your enemy hard,8100,77,230
-231,Defend,DEFEND,7.8,Ignore Pain,8100,77,231
-232,Health,HEALTH,390,The stronger you become,8200,78,232
-233,Attack,ATTACK,15.9,Strike your enemy hard,8200,78,233
-234,Defend,DEFEND,7.9,Ignore Pain,8200,78,234
-235,Health,HEALTH,395,The stronger you become,8300,79,235
-236,Attack,ATTACK,16.1,Strike your enemy hard,8300,79,236
-237,Defend,DEFEND,8,Ignore Pain,8300,79,237
-238,Health,HEALTH,400,The stronger you become,8400,80,238
-239,Attack,ATTACK,16.3,Strike your enemy hard,8400,80,239
-240,Defend,DEFEND,8.1,Ignore Pain,8400,80,240
-241,Health,HEALTH,405,The stronger you become,8500,81,241
-242,Attack,ATTACK,16.5,Strike your enemy hard,8500,81,242
-243,Defend,DEFEND,8.2,Ignore Pain,8500,81,243
-244,Health,HEALTH,410,The stronger you become,8600,82,244
-245,Attack,ATTACK,16.7,Strike your enemy hard,8600,82,245
-246,Defend,DEFEND,8.3,Ignore Pain,8600,82,246
-247,Health,HEALTH,415,The stronger you become,8700,83,247
-248,Attack,ATTACK,16.9,Strike your enemy hard,8700,83,248
-249,Defend,DEFEND,8.4,Ignore Pain,8700,83,249
-250,Health,HEALTH,420,The stronger you become,8800,84,250
-251,Attack,ATTACK,17.1,Strike your enemy hard,8800,84,251
-252,Defend,DEFEND,8.5,Ignore Pain,8800,84,252
-253,Health,HEALTH,425,The stronger you become,8900,85,253
-254,Attack,ATTACK,17.3,Strike your enemy hard,8900,85,254
-255,Defend,DEFEND,8.6,Ignore Pain,8900,85,255
-256,Health,HEALTH,430,The stronger you become,9000,86,256
-257,Attack,ATTACK,17.5,Strike your enemy hard,9000,86,257
-258,Defend,DEFEND,8.7,Ignore Pain,9000,86,258
-259,Health,HEALTH,435,The stronger you become,9100,87,259
-260,Attack,ATTACK,17.7,Strike your enemy hard,9100,87,260
-261,Defend,DEFEND,8.8,Ignore Pain,9100,87,261
-262,Health,HEALTH,440,The stronger you become,9200,88,262
-263,Attack,ATTACK,17.9,Strike your enemy hard,9200,88,263
-264,Defend,DEFEND,8.9,Ignore Pain,9200,88,264
-265,Health,HEALTH,445,The stronger you become,9300,89,265
-266,Attack,ATTACK,18.1,Strike your enemy hard,9300,89,266
-267,Defend,DEFEND,9,Ignore Pain,9300,89,267
-268,Health,HEALTH,450,The stronger you become,9400,90,268
-269,Attack,ATTACK,18.3,Strike your enemy hard,9400,90,269
-270,Defend,DEFEND,9.1,Ignore Pain,9400,90,270
-271,Health,HEALTH,455,The stronger you become,9500,91,271
-272,Attack,ATTACK,18.5,Strike your enemy hard,9500,91,272
-273,Defend,DEFEND,9.2,Ignore Pain,9500,91,273
-274,Health,HEALTH,460,The stronger you become,9600,92,274
-275,Attack,ATTACK,18.7,Strike your enemy hard,9600,92,275
-276,Defend,DEFEND,9.3,Ignore Pain,9600,92,276
-277,Health,HEALTH,465,The stronger you become,9700,93,277
-278,Attack,ATTACK,18.9,Strike your enemy hard,9700,93,278
-279,Defend,DEFEND,9.4,Ignore Pain,9700,93,279
-280,Health,HEALTH,470,The stronger you become,9800,94,280
-281,Attack,ATTACK,19.1,Strike your enemy hard,9800,94,281
-282,Defend,DEFEND,9.5,Ignore Pain,9800,94,282
-283,Health,HEALTH,475,The stronger you become,9900,95,283
-284,Attack,ATTACK,19.3,Strike your enemy hard,9900,95,284
-285,Defend,DEFEND,9.6,Ignore Pain,9900,95,285
-286,Health,HEALTH,480,The stronger you become,10000,96,286
-287,Attack,ATTACK,19.5,Strike your enemy hard,10000,96,287
-288,Defend,DEFEND,9.7,Ignore Pain,10000,96,288
-289,Health,HEALTH,485,The stronger you become,10100,97,289
-290,Attack,ATTACK,19.7,Strike your enemy hard,10100,97,290
-291,Defend,DEFEND,9.8,Ignore Pain,10100,97,291
-292,Health,HEALTH,490,The stronger you become,10200,98,292
-293,Attack,ATTACK,19.9,Strike your enemy hard,10200,98,293
-294,Defend,DEFEND,9.9,Ignore Pain,10200,98,294
-295,Health,HEALTH,495,The stronger you become,10300,99,295
-296,Attack,ATTACK,20.1,Strike your enemy hard,10300,99,296
-297,Defend,DEFEND,10,Ignore Pain,10300,99,297
-298,Health,HEALTH,500,The stronger you become,10400,100,298
-299,Attack,ATTACK,20.3,Strike your enemy hard,10400,100,299
-300,Defend,DEFEND,10.1,Ignore Pain,10400,100,300
+---,TalentName,TalentType,TalentValue,TalentUnlockGold,TalentLevel,TalentIndex
+1,"Health","HEALTH","5.000000","500","1","1"
+2,"Attack","ATTACK","0.500000","500","1","2"
+3,"Defend","DEFEND","0.200000","500","1","3"
+4,"Health","HEALTH","10.000000","600","2","4"
+5,"Attack","ATTACK","0.700000","600","2","5"
+6,"Defend","DEFEND","0.300000","600","2","6"
+7,"Health","HEALTH","15.000000","700","3","7"
+8,"Attack","ATTACK","0.900000","700","3","8"
+9,"Defend","DEFEND","0.400000","700","3","9"
+10,"Health","HEALTH","20.000000","800","4","10"
+11,"Attack","ATTACK","1.100000","800","4","11"
+12,"Defend","DEFEND","0.500000","800","4","12"
+13,"Health","HEALTH","25.000000","900","5","13"
+14,"Attack","ATTACK","1.300000","900","5","14"
+15,"Defend","DEFEND","0.600000","900","5","15"
+16,"Health","HEALTH","30.000000","1000","6","16"
+17,"Attack","ATTACK","1.500000","1000","6","17"
+18,"Defend","DEFEND","0.700000","1000","6","18"
+19,"Health","HEALTH","35.000000","1100","7","19"
+20,"Attack","ATTACK","1.700000","1100","7","20"
+21,"Defend","DEFEND","0.800000","1100","7","21"
+22,"Health","HEALTH","40.000000","1200","8","22"
+23,"Attack","ATTACK","1.900000","1200","8","23"
+24,"Defend","DEFEND","0.900000","1200","8","24"
+25,"Health","HEALTH","45.000000","1300","9","25"
+26,"Attack","ATTACK","2.100000","1300","9","26"
+27,"Defend","DEFEND","1.000000","1300","9","27"
+28,"Health","HEALTH","50.000000","1400","10","28"
+29,"Attack","ATTACK","2.300000","1400","10","29"
+30,"Defend","DEFEND","1.100000","1400","10","30"
+31,"Health","HEALTH","55.000000","1500","11","31"
+32,"Attack","ATTACK","2.500000","1500","11","32"
+33,"Defend","DEFEND","1.200000","1500","11","33"
+34,"Health","HEALTH","60.000000","1600","12","34"
+35,"Attack","ATTACK","2.700000","1600","12","35"
+36,"Defend","DEFEND","1.300000","1600","12","36"
+37,"Health","HEALTH","65.000000","1700","13","37"
+38,"Attack","ATTACK","2.900000","1700","13","38"
+39,"Defend","DEFEND","1.400000","1700","13","39"
+40,"Health","HEALTH","70.000000","1800","14","40"
+41,"Attack","ATTACK","3.100000","1800","14","41"
+42,"Defend","DEFEND","1.500000","1800","14","42"
+43,"Health","HEALTH","75.000000","1900","15","43"
+44,"Attack","ATTACK","3.300000","1900","15","44"
+45,"Defend","DEFEND","1.600000","1900","15","45"
+46,"Health","HEALTH","80.000000","2000","16","46"
+47,"Attack","ATTACK","3.500000","2000","16","47"
+48,"Defend","DEFEND","1.700000","2000","16","48"
+49,"Health","HEALTH","85.000000","2100","17","49"
+50,"Attack","ATTACK","3.700000","2100","17","50"
+51,"Defend","DEFEND","1.800000","2100","17","51"
+52,"Health","HEALTH","90.000000","2200","18","52"
+53,"Attack","ATTACK","3.900000","2200","18","53"
+54,"Defend","DEFEND","1.900000","2200","18","54"
+55,"Health","HEALTH","95.000000","2300","19","55"
+56,"Attack","ATTACK","4.100000","2300","19","56"
+57,"Defend","DEFEND","2.000000","2300","19","57"
+58,"Health","HEALTH","100.000000","2400","20","58"
+59,"Attack","ATTACK","4.300000","2400","20","59"
+60,"Defend","DEFEND","2.100000","2400","20","60"
+61,"Health","HEALTH","105.000000","2500","21","61"
+62,"Attack","ATTACK","4.500000","2500","21","62"
+63,"Defend","DEFEND","2.200000","2500","21","63"
+64,"Health","HEALTH","110.000000","2600","22","64"
+65,"Attack","ATTACK","4.700000","2600","22","65"
+66,"Defend","DEFEND","2.300000","2600","22","66"
+67,"Health","HEALTH","115.000000","2700","23","67"
+68,"Attack","ATTACK","4.900000","2700","23","68"
+69,"Defend","DEFEND","2.400000","2700","23","69"
+70,"Health","HEALTH","120.000000","2800","24","70"
+71,"Attack","ATTACK","5.100000","2800","24","71"
+72,"Defend","DEFEND","2.500000","2800","24","72"
+73,"Health","HEALTH","125.000000","2900","25","73"
+74,"Attack","ATTACK","5.300000","2900","25","74"
+75,"Defend","DEFEND","2.600000","2900","25","75"
+76,"Health","HEALTH","130.000000","3000","26","76"
+77,"Attack","ATTACK","5.500000","3000","26","77"
+78,"Defend","DEFEND","2.700000","3000","26","78"
+79,"Health","HEALTH","135.000000","3100","27","79"
+80,"Attack","ATTACK","5.700000","3100","27","80"
+81,"Defend","DEFEND","2.800000","3100","27","81"
+82,"Health","HEALTH","140.000000","3200","28","82"
+83,"Attack","ATTACK","5.900000","3200","28","83"
+84,"Defend","DEFEND","2.900000","3200","28","84"
+85,"Health","HEALTH","145.000000","3300","29","85"
+86,"Attack","ATTACK","6.100000","3300","29","86"
+87,"Defend","DEFEND","3.000000","3300","29","87"
+88,"Health","HEALTH","150.000000","3400","30","88"
+89,"Attack","ATTACK","6.300000","3400","30","89"
+90,"Defend","DEFEND","3.100000","3400","30","90"
+91,"Health","HEALTH","155.000000","3500","31","91"
+92,"Attack","ATTACK","6.500000","3500","31","92"
+93,"Defend","DEFEND","3.200000","3500","31","93"
+94,"Health","HEALTH","160.000000","3600","32","94"
+95,"Attack","ATTACK","6.700000","3600","32","95"
+96,"Defend","DEFEND","3.300000","3600","32","96"
+97,"Health","HEALTH","165.000000","3700","33","97"
+98,"Attack","ATTACK","6.900000","3700","33","98"
+99,"Defend","DEFEND","3.400000","3700","33","99"
+100,"Health","HEALTH","170.000000","3800","34","100"
+101,"Attack","ATTACK","7.100000","3800","34","101"
+102,"Defend","DEFEND","3.500000","3800","34","102"
+103,"Health","HEALTH","175.000000","3900","35","103"
+104,"Attack","ATTACK","7.300000","3900","35","104"
+105,"Defend","DEFEND","3.600000","3900","35","105"
+106,"Health","HEALTH","180.000000","4000","36","106"
+107,"Attack","ATTACK","7.500000","4000","36","107"
+108,"Defend","DEFEND","3.700000","4000","36","108"
+109,"Health","HEALTH","185.000000","4100","37","109"
+110,"Attack","ATTACK","7.700000","4100","37","110"
+111,"Defend","DEFEND","3.800000","4100","37","111"
+112,"Health","HEALTH","190.000000","4200","38","112"
+113,"Attack","ATTACK","7.900000","4200","38","113"
+114,"Defend","DEFEND","3.900000","4200","38","114"
+115,"Health","HEALTH","195.000000","4300","39","115"
+116,"Attack","ATTACK","8.100000","4300","39","116"
+117,"Defend","DEFEND","4.000000","4300","39","117"
+118,"Health","HEALTH","200.000000","4400","40","118"
+119,"Attack","ATTACK","8.300000","4400","40","119"
+120,"Defend","DEFEND","4.100000","4400","40","120"
+121,"Health","HEALTH","205.000000","4500","41","121"
+122,"Attack","ATTACK","8.500000","4500","41","122"
+123,"Defend","DEFEND","4.200000","4500","41","123"
+124,"Health","HEALTH","210.000000","4600","42","124"
+125,"Attack","ATTACK","8.700000","4600","42","125"
+126,"Defend","DEFEND","4.300000","4600","42","126"
+127,"Health","HEALTH","215.000000","4700","43","127"
+128,"Attack","ATTACK","8.900000","4700","43","128"
+129,"Defend","DEFEND","4.400000","4700","43","129"
+130,"Health","HEALTH","220.000000","4800","44","130"
+131,"Attack","ATTACK","9.100000","4800","44","131"
+132,"Defend","DEFEND","4.500000","4800","44","132"
+133,"Health","HEALTH","225.000000","4900","45","133"
+134,"Attack","ATTACK","9.300000","4900","45","134"
+135,"Defend","DEFEND","4.600000","4900","45","135"
+136,"Health","HEALTH","230.000000","5000","46","136"
+137,"Attack","ATTACK","9.500000","5000","46","137"
+138,"Defend","DEFEND","4.700000","5000","46","138"
+139,"Health","HEALTH","235.000000","5100","47","139"
+140,"Attack","ATTACK","9.700000","5100","47","140"
+141,"Defend","DEFEND","4.800000","5100","47","141"
+142,"Health","HEALTH","240.000000","5200","48","142"
+143,"Attack","ATTACK","9.900000","5200","48","143"
+144,"Defend","DEFEND","4.900000","5200","48","144"
+145,"Health","HEALTH","245.000000","5300","49","145"
+146,"Attack","ATTACK","10.100000","5300","49","146"
+147,"Defend","DEFEND","5.000000","5300","49","147"
+148,"Health","HEALTH","250.000000","5400","50","148"
+149,"Attack","ATTACK","10.300000","5400","50","149"
+150,"Defend","DEFEND","5.100000","5400","50","150"
+151,"Health","HEALTH","255.000000","5500","51","151"
+152,"Attack","ATTACK","10.500000","5500","51","152"
+153,"Defend","DEFEND","5.200000","5500","51","153"
+154,"Health","HEALTH","260.000000","5600","52","154"
+155,"Attack","ATTACK","10.700000","5600","52","155"
+156,"Defend","DEFEND","5.300000","5600","52","156"
+157,"Health","HEALTH","265.000000","5700","53","157"
+158,"Attack","ATTACK","10.900000","5700","53","158"
+159,"Defend","DEFEND","5.400000","5700","53","159"
+160,"Health","HEALTH","270.000000","5800","54","160"
+161,"Attack","ATTACK","11.100000","5800","54","161"
+162,"Defend","DEFEND","5.500000","5800","54","162"
+163,"Health","HEALTH","275.000000","5900","55","163"
+164,"Attack","ATTACK","11.300000","5900","55","164"
+165,"Defend","DEFEND","5.600000","5900","55","165"
+166,"Health","HEALTH","280.000000","6000","56","166"
+167,"Attack","ATTACK","11.500000","6000","56","167"
+168,"Defend","DEFEND","5.700000","6000","56","168"
+169,"Health","HEALTH","285.000000","6100","57","169"
+170,"Attack","ATTACK","11.700000","6100","57","170"
+171,"Defend","DEFEND","5.800000","6100","57","171"
+172,"Health","HEALTH","290.000000","6200","58","172"
+173,"Attack","ATTACK","11.900000","6200","58","173"
+174,"Defend","DEFEND","5.900000","6200","58","174"
+175,"Health","HEALTH","295.000000","6300","59","175"
+176,"Attack","ATTACK","12.100000","6300","59","176"
+177,"Defend","DEFEND","6.000000","6300","59","177"
+178,"Health","HEALTH","300.000000","6400","60","178"
+179,"Attack","ATTACK","12.300000","6400","60","179"
+180,"Defend","DEFEND","6.100000","6400","60","180"
+181,"Health","HEALTH","305.000000","6500","61","181"
+182,"Attack","ATTACK","12.500000","6500","61","182"
+183,"Defend","DEFEND","6.200000","6500","61","183"
+184,"Health","HEALTH","310.000000","6600","62","184"
+185,"Attack","ATTACK","12.700000","6600","62","185"
+186,"Defend","DEFEND","6.300000","6600","62","186"
+187,"Health","HEALTH","315.000000","6700","63","187"
+188,"Attack","ATTACK","12.900000","6700","63","188"
+189,"Defend","DEFEND","6.400000","6700","63","189"
+190,"Health","HEALTH","320.000000","6800","64","190"
+191,"Attack","ATTACK","13.100000","6800","64","191"
+192,"Defend","DEFEND","6.500000","6800","64","192"
+193,"Health","HEALTH","325.000000","6900","65","193"
+194,"Attack","ATTACK","13.300000","6900","65","194"
+195,"Defend","DEFEND","6.600000","6900","65","195"
+196,"Health","HEALTH","330.000000","7000","66","196"
+197,"Attack","ATTACK","13.500000","7000","66","197"
+198,"Defend","DEFEND","6.700000","7000","66","198"
+199,"Health","HEALTH","335.000000","7100","67","199"
+200,"Attack","ATTACK","13.700000","7100","67","200"
+201,"Defend","DEFEND","6.800000","7100","67","201"
+202,"Health","HEALTH","340.000000","7200","68","202"
+203,"Attack","ATTACK","13.900000","7200","68","203"
+204,"Defend","DEFEND","6.900000","7200","68","204"
+205,"Health","HEALTH","345.000000","7300","69","205"
+206,"Attack","ATTACK","14.100000","7300","69","206"
+207,"Defend","DEFEND","7.000000","7300","69","207"
+208,"Health","HEALTH","350.000000","7400","70","208"
+209,"Attack","ATTACK","14.300000","7400","70","209"
+210,"Defend","DEFEND","7.100000","7400","70","210"
+211,"Health","HEALTH","355.000000","7500","71","211"
+212,"Attack","ATTACK","14.500000","7500","71","212"
+213,"Defend","DEFEND","7.200000","7500","71","213"
+214,"Health","HEALTH","360.000000","7600","72","214"
+215,"Attack","ATTACK","14.700000","7600","72","215"
+216,"Defend","DEFEND","7.300000","7600","72","216"
+217,"Health","HEALTH","365.000000","7700","73","217"
+218,"Attack","ATTACK","14.900000","7700","73","218"
+219,"Defend","DEFEND","7.400000","7700","73","219"
+220,"Health","HEALTH","370.000000","7800","74","220"
+221,"Attack","ATTACK","15.100000","7800","74","221"
+222,"Defend","DEFEND","7.500000","7800","74","222"
+223,"Health","HEALTH","375.000000","7900","75","223"
+224,"Attack","ATTACK","15.300000","7900","75","224"
+225,"Defend","DEFEND","7.600000","7900","75","225"
+226,"Health","HEALTH","380.000000","8000","76","226"
+227,"Attack","ATTACK","15.500000","8000","76","227"
+228,"Defend","DEFEND","7.700000","8000","76","228"
+229,"Health","HEALTH","385.000000","8100","77","229"
+230,"Attack","ATTACK","15.700000","8100","77","230"
+231,"Defend","DEFEND","7.800000","8100","77","231"
+232,"Health","HEALTH","390.000000","8200","78","232"
+233,"Attack","ATTACK","15.900000","8200","78","233"
+234,"Defend","DEFEND","7.900000","8200","78","234"
+235,"Health","HEALTH","395.000000","8300","79","235"
+236,"Attack","ATTACK","16.100000","8300","79","236"
+237,"Defend","DEFEND","8.000000","8300","79","237"
+238,"Health","HEALTH","400.000000","8400","80","238"
+239,"Attack","ATTACK","16.300000","8400","80","239"
+240,"Defend","DEFEND","8.100000","8400","80","240"
+241,"Health","HEALTH","405.000000","8500","81","241"
+242,"Attack","ATTACK","16.500000","8500","81","242"
+243,"Defend","DEFEND","8.200000","8500","81","243"
+244,"Health","HEALTH","410.000000","8600","82","244"
+245,"Attack","ATTACK","16.700000","8600","82","245"
+246,"Defend","DEFEND","8.300000","8600","82","246"
+247,"Health","HEALTH","415.000000","8700","83","247"
+248,"Attack","ATTACK","16.900000","8700","83","248"
+249,"Defend","DEFEND","8.400000","8700","83","249"
+250,"Health","HEALTH","420.000000","8800","84","250"
+251,"Attack","ATTACK","17.100000","8800","84","251"
+252,"Defend","DEFEND","8.500000","8800","84","252"
+253,"Health","HEALTH","425.000000","8900","85","253"
+254,"Attack","ATTACK","17.300000","8900","85","254"
+255,"Defend","DEFEND","8.600000","8900","85","255"
+256,"Health","HEALTH","430.000000","9000","86","256"
+257,"Attack","ATTACK","17.500000","9000","86","257"
+258,"Defend","DEFEND","8.700000","9000","86","258"
+259,"Health","HEALTH","435.000000","9100","87","259"
+260,"Attack","ATTACK","17.700000","9100","87","260"
+261,"Defend","DEFEND","8.800000","9100","87","261"
+262,"Health","HEALTH","440.000000","9200","88","262"
+263,"Attack","ATTACK","17.900000","9200","88","263"
+264,"Defend","DEFEND","8.900000","9200","88","264"
+265,"Health","HEALTH","445.000000","9300","89","265"
+266,"Attack","ATTACK","18.100000","9300","89","266"
+267,"Defend","DEFEND","9.000000","9300","89","267"
+268,"Health","HEALTH","450.000000","9400","90","268"
+269,"Attack","ATTACK","18.300000","9400","90","269"
+270,"Defend","DEFEND","9.100000","9400","90","270"
+271,"Health","HEALTH","455.000000","9500","91","271"
+272,"Attack","ATTACK","18.500000","9500","91","272"
+273,"Defend","DEFEND","9.200000","9500","91","273"
+274,"Health","HEALTH","460.000000","9600","92","274"
+275,"Attack","ATTACK","18.700000","9600","92","275"
+276,"Defend","DEFEND","9.300000","9600","92","276"
+277,"Health","HEALTH","465.000000","9700","93","277"
+278,"Attack","ATTACK","18.900000","9700","93","278"
+279,"Defend","DEFEND","9.400000","9700","93","279"
+280,"Health","HEALTH","470.000000","9800","94","280"
+281,"Attack","ATTACK","19.100000","9800","94","281"
+282,"Defend","DEFEND","9.500000","9800","94","282"
+283,"Health","HEALTH","475.000000","9900","95","283"
+284,"Attack","ATTACK","19.300000","9900","95","284"
+285,"Defend","DEFEND","9.600000","9900","95","285"
+286,"Health","HEALTH","480.000000","10000","96","286"
+287,"Attack","ATTACK","19.500000","10000","96","287"
+288,"Defend","DEFEND","9.700000","10000","96","288"
+289,"Health","HEALTH","485.000000","10100","97","289"
+290,"Attack","ATTACK","19.700000","10100","97","290"
+291,"Defend","DEFEND","9.800000","10100","97","291"
+292,"Health","HEALTH","490.000000","10200","98","292"
+293,"Attack","ATTACK","19.900000","10200","98","293"
+294,"Defend","DEFEND","9.900000","10200","98","294"
+295,"Health","HEALTH","495.000000","10300","99","295"
+296,"Attack","ATTACK","20.100000","10300","99","296"
+297,"Defend","DEFEND","10.000000","10300","99","297"
+298,"Health","HEALTH","500.000000","10400","100","298"
+299,"Attack","ATTACK","20.300000","10400","100","299"
+300,"Defend","DEFEND","10.100000","10400","100","300"
